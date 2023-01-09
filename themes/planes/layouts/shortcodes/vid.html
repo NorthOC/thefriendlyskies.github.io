@@ -1,0 +1,9 @@
+<!--
+	src: video source
+-->
+<iframe {{ with .Get "src" }}src="{{.}}"{{ end }}
+        loading="lazy"
+        sandbox="allow-same-origin allow-scripts allow-popups"
+        allowfullscreen frameborder="0"
+        title="Embedded Video">
+</iframe>

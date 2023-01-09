@@ -1,0 +1,21 @@
+<!--
+add the following lines to config.toml to produce a navbar:
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+-->
+
+<nav id="nav">
+  {{ $current := . }}
+  {{ range .Site.Menus.main }}
+      <a class="nav-link {{ if eq $current.RelPermalink .URL }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+  {{ end }}
+</nav>
