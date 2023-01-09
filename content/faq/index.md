@@ -1,8 +1,7 @@
 ---
 title: "Frequently Asked Questions"
 date: 2023-01-04T12:31:24+02:00
-draft: true
-is_article: true
+is_unique_page: true
 ---
 ## What is this page about?
 
