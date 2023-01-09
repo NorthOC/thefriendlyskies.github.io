@@ -25,7 +25,7 @@
             <header>
                 {{ block "header" . }}{{ end }}
             </header>
-            <main class='{{if .Params.is_article }}content{{end}}'>
+            <main {{if .Params.is_unique_page }}class="content"{{end}} {{if .Params.is_article }}class="content"{{end}}>
                 {{ block "main" . }}{{ end }}
             </main>
         </div>

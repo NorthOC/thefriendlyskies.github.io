@@ -159,8 +159,13 @@ figure img{
   width: 100%;
 }
 
+ul, ol{
+  word-wrap: break-word;
+}
+
 .content ul>li, .content ol>li{
   margin: 12px auto;
+  word-wrap: break-word;
 }
 
 .content ol{
