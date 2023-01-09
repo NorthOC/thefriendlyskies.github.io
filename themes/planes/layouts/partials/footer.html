@@ -1,0 +1,3 @@
+{{ if not (eq .Site.Copyright "") }}
+<span class="copyright">{{ replace .Site.Copyright "{year}" now.Year }}</span>
+{{ end }}

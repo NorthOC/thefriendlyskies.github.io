@@ -1,0 +1,9 @@
+{{ if isset .Site.Taxonomies "tags" }}
+    {{ if not (eq (len .Site.Taxonomies.tags) 0) }}
+        <ul id="tagcloud">
+            {{ range .Site.Taxonomies.tags.ByCount }}
+                    <li><a href="{{ .Page.Permalink }}">{{ .Page.Title | title }}</a> {{ .Count }}</li>
+            {{ end }}
+        </ul>       
+    {{ end }}
+{{ end }}
