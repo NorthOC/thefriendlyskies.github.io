@@ -23,11 +23,15 @@
   font-family: fallout;
   src: url(monofonto.otf);
 }
+@font-face {
+  font-family: bitter;
+  src: url(Bitter-Regular.ttf);
+}
 body{
   min-height: 100vh;
   text-align: center;
   background-color: var(--theme-bg);
-  font-family: fallout;
+  font-family: bitter;
   color: var(--theme-fg);
   display: flex;
   flex-direction: column;
@@ -60,6 +64,7 @@ a{
 #article-title{
   margin: revert;
   color: var(--theme-h1);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 #site-title-img{
@@ -131,20 +136,20 @@ main {
 }
 
 .manual{
-  font-family: 'Courier New', Courier, monospace;
+  font-family: bitter;
 }
 
 main.content{
   text-align: justify;
-  line-height: 1.5rem;
   margin: auto;
 }
 div.content{
-  font-family: 'Courier New', Courier, monospace;
+  font-family: bitter;
 }
 
 .content *{
   margin: revert;
+  line-height: 1.8rem;
 }
 
 .content figure{
@@ -188,6 +193,7 @@ footer{
   justify-content: space-evenly;
   list-style: none;
   flex-wrap: wrap;
+  font-family: fallout;
 }
 #tagcloud li{
   margin: 30px;

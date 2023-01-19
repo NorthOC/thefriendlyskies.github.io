@@ -68,7 +68,7 @@ Familiarise yourself with the instruments required for landing:
 
 {{< img src="/07012022/runway_indicators.webp" id="i_runway" caption="4. 4. Precision Approach Path Indicator (PAPI)" alt="Precision Approach Path Indicator">}}
 
-## Sources:
+## Sources
 
 * [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html)
 * [https://www.bloomberg.com/news/articles/2020-02-21/boeing-failure-to-fix-737-max-cockpit-light-may-draw-faa-penalty?leadSource=uverify%20wall](https://www.bloomberg.com/news/articles/2020-02-21/boeing-failure-to-fix-737-max-cockpit-light-may-draw-faa-penalty?leadSource=uverify%20wall)
