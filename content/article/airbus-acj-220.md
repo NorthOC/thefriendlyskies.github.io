@@ -14,7 +14,7 @@ The ACJ TwoTwenty or ACJ220 is a short-fuselage business jet that is based on th
 
 ## What is ACJ220 all about?
 
-ACJ220 is now perfectly timed for airlines struggling under the weight of $8-a-gallon jet fuel. Thanks in part to its lightweight aluminum-lithium fuselage skin, carbon fiber composite wings, explicit fly-by-wire digital flight controls, Collins Pro Line Fusion avionics, and modern Pratt & Whitney PW1500G geared turbofan engines. According to Airbus, the ACJ220 burns 25 percent less fuel, is 25 percent cleaner and 50 percent quieter than older-generation aircraft of comparable size. 
+ACJ220 is now perfectly timed for airlines struggling under the weight of $8-a-gallon jet fuel. Thanks in part to its lightweight aluminum-lithium fuselage skin, carbon fiber composite wings, explicit fly-by-wire digital flight controls, Collins Pro Line Fusion avionics, and modern Pratt & Whitney PW1500G geared turbofan engines. According to Airbus, the ACJ220 burns [25 percent less fuel](https://www.bjtonline.com/business-jet-news/airbus-flies-first-acj-twotwenty), is 25 percent cleaner and 50 percent quieter than older-generation aircraft of comparable size. 
 
 However, as a business jet, the ACJ220 looks like an average niche player and suffers from the same weakness as most narrow-body aircraft and regional jets—reaching a quite slow cruising speed of only Mach 0.82 or around 470 knots. Competitor Embraer tried challenging the market for over a decade with its Lineage 1000, a private jet version of its E190 regional jetliner, before abandoning the program in 2020 after delivering just 28 jets over 11 years.
 
