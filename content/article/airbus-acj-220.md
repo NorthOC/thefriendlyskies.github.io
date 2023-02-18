@@ -14,7 +14,7 @@ The ACJ TwoTwenty or ACJ220 is a short-fuselage business jet that is based on th
 
 ## What is ACJ220 all about?
 
-ACJ220 is now perfectly timed for airlines struggling under the weight of $8-a-gallon jet fuel. Thanks in part to its lightweight aluminum-lithium fuselage skin, carbon fiber composite wings, explicit fly-by-wire digital flight controls, Collins Pro Line Fusion avionics, and modern Pratt & Whitney PW1500G geared turbofan engines. According to Airbus, the ACJ220 burns 25 percent less fuel, is 25 percent cleaner and 50 percent quieter than older-generation aircraft of comparable size. 
+ACJ220 is now perfectly timed for airlines struggling under the weight of $8-a-gallon jet fuel. Thanks in part to its lightweight aluminum-lithium fuselage skin, carbon fiber composite wings, explicit fly-by-wire digital flight controls, Collins Pro Line Fusion avionics, and modern Pratt & Whitney PW1500G geared turbofan engines. According to Airbus, the ACJ220 burns [25 percent less fuel](https://www.bjtonline.com/business-jet-news/airbus-flies-first-acj-twotwenty), is 25 percent cleaner and 50 percent quieter than older-generation aircraft of comparable size. 
 
 However, as a business jet, the ACJ220 looks like an average niche player and suffers from the same weakness as most narrow-body aircraft and regional jets—reaching a quite slow cruising speed of only Mach 0.82 or around 470 knots. Competitor Embraer tried challenging the market for over a decade with its Lineage 1000, a private jet version of its E190 regional jetliner, before abandoning the program in 2020 after delivering just 28 jets over 11 years.
 
@@ -24,7 +24,7 @@ It’s important that Airbus has already faced a backlash in its ACJ product lin
 
 While the ACJ220 will not win any transoceanic races in comparison with well-established large-cabin business jets from Bombardier, Dassault, or Gulfstream, it can comfortably operate out of 5,000-foot-long runways at maximum takeoff weight and still carry you non-stop from L.A. to London or Beijing to Melbourne. Of course, it will take a little longer to reach your destination but burning 25 to 50 percent less fuel in the age of pricey jet age is worth the wait.
 
-## Latest technologies on board
+## Newest technologies on board
 
 The ACJ TwoTwenty boasts state-of-the-art technology that allows for an efficient and modern design.
 
@@ -36,7 +36,7 @@ The avionics suite, Collins Pro Line Fusion, is specifically designed for corpor
 
 The use of composite and advanced materials makes the ACJ TwoTwenty lightweight and easy to fly, with reduced maintenance and extended service life. The aircraft is also equipped with modern Pratt & Whitney GTF PW1500G engines, known for their efficiency in large business aviation, which results in low fuel burn and emissions while being extremely quiet and cities friendly.
 
-## Fly from & to anywhere you want to
+## Landing systems on board
 
 The ACJ TwoTwenty offers twice the cabin volume compared to other Ultra Long-Range aircraft but has a similar parking footprint and ramp presence. The integrated airstairs ensure autonomy and flexibility for day-to-day operations, so there's no need to wait for additional ground equipment to board the aircraft.
 
@@ -44,7 +44,7 @@ Urban or challenging airfields are not a problem for the ACJ TwoTwenty, as it is
 
 The aircraft is also certified for steep approach operations of up to 5.5º glideslope angle, making it capable of handling complex approaches such as those into London City airport.
 
-## Easy to operate, ready to fly
+## Flying is easier than ever
 
 The ACJ Two220's advanced technologies include an improved Flight Management System (FMS) with a graphical interface that simplifies use and training.
 
