@@ -8,12 +8,9 @@
   <meta name="CocoaVersion" content="2022.6">
   <style type="text/css">
     p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px Menlo; color: #ac7535; -webkit-text-stroke: #ac7535; background-color: #15171a; background-color: rgba(21, 23, 26, 0.051)}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Courier; color: #000000; color: rgba(0, 0, 0, 0.87); -webkit-text-stroke: rgba(0, 0, 0, 0.87); background-color: #ffffff}
+    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Courier; color: #000000; color: rgba(0, 0, 0, 0.87); -webkit-text-stroke: rgba(0, 0, 0, 0.87); background-color: #ffffff; min-height: 14.0px}
     span.s1 {font-kerning: none}
-    span.s2 {font-kerning: none; color: #878787; -webkit-text-stroke: 0px #878787}
-    span.s3 {font-kerning: none; color: #adadad; -webkit-text-stroke: 0px #adadad}
-    span.s4 {font-kerning: none; color: #434343; -webkit-text-stroke: 0px #434343}
-    span.s5 {font-kerning: none; color: #0e6e6d; -webkit-text-stroke: 0px #0e6e6d}
   </style>
 </head>
 <body>
@@ -21,6 +18,14 @@
 <p class="p1"><span class="s1">{{ block "header" . }}{{ end }}<span class="Apple-converted-space"> </span></span></p>
 <p class="p1"><span class="s1">{{ block "main" . }}{{ end }}<span class="Apple-converted-space"> </span></span></p>
 <p class="p1"><span class="s1">{{ block "footer" . }}{{ end }}</span></p>
-<p class="p2"><span class="s2"><b>{{</b></span><span class="s3"> </span><span class="s4"><b>template</b></span><span class="s3"> </span><span class="s1">"_internal/google_analytics.html"</span><span class="s3"> </span><span class="s5">.</span><span class="s3"> </span><span class="s2"><b>}}</b></span></p>
+<p class="p2"><span class="s1">&lt;!-- Google tag (gtag.js) --&gt;</span></p>
+<p class="p2"><span class="s1">&lt;script async src="https://www.googletagmanager.com/gtag/js?id=G-ES2129S2WS"&gt;&lt;/script&gt;</span></p>
+<p class="p2"><span class="s1">&lt;script&gt;</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">  </span>window.dataLayer = window.dataLayer || [];</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">  </span>function gtag(){dataLayer.push(arguments);}</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">  </span>gtag('js', new Date());</span></p>
+<p class="p3"><span class="s1"></span><br></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">  </span>gtag('config', 'G-ES2129S2WS');</span></p>
+<p class="p2"><span class="s1">&lt;/script&gt;</span></p>
 </body>
 </html>
