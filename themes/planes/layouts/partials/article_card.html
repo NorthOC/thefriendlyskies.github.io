@@ -1,5 +1,5 @@
 <article class="article-card flex-column">
-      <time datetime="{{.Date}}">{{ time.Format "2006, Jan 2, 15:04" .Date }}</time>
+      <time datetime="{{.Date}}">{{ time.Format "2006, Jan 2" .Date }}</time>
       <a class="article-link" href="{{ .RelPermalink }}">
         <h2>{{ .Title }}</h2>
         {{ with .Params.thumb }}<img src="{{.}}">{{ end }}
