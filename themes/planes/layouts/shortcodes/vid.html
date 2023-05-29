@@ -1,10 +1,4 @@
 <!--
 	src: video source
 -->
-<iframe {{ with .Get "src" }}src="{{.}}"{{ end }}
-        loading="lazy"
-        height="300"
-        sandbox="allow-same-origin allow-scripts allow-popups"
-        allowfullscreen frameborder="0"
-        title="Embedded Video">
-</iframe>
+<iframe width="560" height="315" {{ with .Get "src" }}src="{{.}}"{{ end }} title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

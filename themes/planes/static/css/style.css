@@ -209,9 +209,7 @@ table{
 
 }
 iframe{
-  display: block;
-  max-width: 600px;
-  width: 100%;
+  display: block !important;
   margin: auto !important;
 }
 table, td, th{
