@@ -28,7 +28,7 @@ One of the critical improvements was the adoption of a larger fuselage, which pr
 
 On December 17, 1935, the Douglas DC-3 made its highly anticipated debut, capturing the attention of the aviation industry and the world. Its inaugural flight marked a turning point in commercial aviation, with airlines eager to acquire this extraordinary aircraft and take advantage of its unparalleled capabilities. The DC-3's immediate success surpassed all expectations, with airlines quickly realizing its potential to transform air travel on a global scale.
 
-{{< vid src="https://www.youtube.com/watch?v=FQtkpTDMq_o&ab_channel=Megaprojects" >}}
+{{< vid src="https://www.youtube.com/embed/FQtkpTDMq_o" >}}
 
 ## Historical Significance
 
