@@ -3,21 +3,20 @@ title: "Frequently Asked Questions"
 date: 2023-01-04T12:31:24+02:00
 is_unique_page: true
 ---
-## What is this page about?
 
-This blog is about civil aviation, technical aspects of aircraft design, aerospace, my personal experiences with aviation and many more topics concerned with … yes, you guessed it, aviation!
+{{< img src="/faq/1.jpeg" id="profile-pic" caption="Me" alt="Rosita Mickeviciute">}}
 
 ## Who are you?
 
 I call myself an aviation enthusiast, who loves travelling and exploring various types of aircrafts for fun. I am not a pilot myself, nor I work in the aviation industry, however I spent countless hours watching crash investigations, take offs, landings and air travel in general. Over 10 years, I have collected a lot of knowledge in my head. Finally, I have decided to share my knowledge with anyone who is interested in aviation. 
 
-## Can I comment on your articles?
+## What is this page about?
 
-Sure, I would love to discuss my articles with fellow aviation enthusiasts and even receive some objective criticism. I upload each article to a Telegram page, which you can join too here: [https://t.me/tfskies](https://t.me/tfskies)
+This blog is about civil aviation, technical aspects of aircraft design, aerospace, my personal experiences with aviation and many more topics concerned with … yes, you guessed it, aviation!
 
 ## Where can I contact you?
 
-For business purposes, feel free to contact me at: rositamicsan@gmail.com
+For business purposes, feel free to reach out to me at: rositamicsan@gmail.com or via https://www.linkedin.com/in/rosita-mickeviciute-631317182/
 
 ## Boeing or Airbus?
 
