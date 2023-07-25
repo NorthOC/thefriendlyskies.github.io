@@ -56,6 +56,21 @@ a{
 .italic{
   font-style: italic;
 }
+.note{
+  margin: auto;
+  text-align: center;
+  display: block;
+}
+
+#profile-pic{
+  max-width: 200px;
+  margin: auto;
+}
+
+#profile-pic>img{
+  clip-path: circle();
+}
+
 #index-title{
   font-family: borderlands;
   font-size: 80px;
@@ -63,7 +78,7 @@ a{
 
 #article-title{
   margin: revert;
-  color: var(--theme-h1);
+  color: var(--theme-a);
   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
@@ -131,7 +146,6 @@ header {
 main {
   width: 90%;
   margin: 0 auto;
-  flex-grow: 1;
   max-width: 800px;
 }
 
@@ -140,7 +154,7 @@ main {
 }
 
 main.content{
-  text-align: justify;
+  text-align: left;
   margin: auto;
 }
 div.content{
