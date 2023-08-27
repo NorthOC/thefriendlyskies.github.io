@@ -142,5 +142,5 @@ Hartsfield-Jackson Atlanta International Airport proudly holds the distinction o
 - [https://www.hotels.com/go/usa/chicago-ohare-international-airport](https://www.hotels.com/go/usa/chicago-ohare-international-airport)
 - [https://www.flydenver.com/about](https://www.flydenver.com/about)
 - [https://visitsouthlaketexas.com/about-us/getting-around/airport/dallas-fort-worth-international-airport/](https://visitsouthlaketexas.com/about-us/getting-around/airport/dallas-fort-worth-international-airport/)
-- https://www.atlantahistorycenter.com/exhibitions/atlanta-in-50-objects/hartsfield-jackson-atlanta-international-airport/[https://www.atlantahistorycenter.com/exhibitions/atlanta-in-50-objects/hartsfield-jackson-atlanta-international-airport/]
+- [https://www.atlantahistorycenter.com/exhibitions/atlanta-in-50-objects/hartsfield-jackson-atlanta-international-airport/](https://www.atlantahistorycenter.com/exhibitions/atlanta-in-50-objects/hartsfield-jackson-atlanta-international-airport/)
 
