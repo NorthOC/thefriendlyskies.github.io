@@ -6,6 +6,7 @@ author: "rosita-mickeviciute"
 is_article: true
 tags:
 - dreamliner
+- 787
 - boeing
 ---
 {{< img src="/18022023/aa787.jpeg" id="i_plane" caption="Boeing Dreamliner 787" alt="Two Boeing Dreamliner 787s flying in the sky">}}
