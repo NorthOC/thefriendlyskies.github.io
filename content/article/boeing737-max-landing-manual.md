@@ -6,6 +6,7 @@ author: "rosita-mickeviciute"
 is_article: true
 tags:
 - manual
+- 737
 - boeing
 ---
 
