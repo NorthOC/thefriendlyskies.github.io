@@ -7,6 +7,7 @@ is_article: true
 tags:
 - airbus
 - 737
+- aircraft
 - A320
 - boeing
 ---
