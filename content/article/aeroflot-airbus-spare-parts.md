@@ -5,7 +5,7 @@ draft: false
 author: "rosita-mickeviciute"
 is_article: true
 tags:
-- aeroflot
+- airlines
 - airbus
 ---
 {{< img src="/18022023/airbus-a350-941.webp" id="i_plane" caption="Aeroflot A350-900" alt="Aeroflot A350-900">}}
