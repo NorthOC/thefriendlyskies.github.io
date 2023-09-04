@@ -5,7 +5,7 @@ draft: false
 author: "rosita-mickeviciute"
 is_article: true
 tags:
-- acj220
+- business
 - airbus
 ---
 ## Introduction
