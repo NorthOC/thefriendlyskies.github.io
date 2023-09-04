@@ -5,7 +5,8 @@ draft: false
 author: "rosita-mickeviciute"
 is_article: true
 tags:
-- general
+- fuel
+- aircraft
 ---
 {{< img src="/18022023/aircraft_being_fueled.jpg" id="i_plane" caption="A US Airways Boeing 757 being fueled at Fort Lauderdale–Hollywood International Airport" alt="A US Airways Boeing 757 being fueled at Fort Lauderdale–Hollywood International Airport">}}
 
