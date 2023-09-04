@@ -6,6 +6,8 @@ author: "rosita-mickeviciute"
 is_article: true
 tags:
 - airbus
+- 737
+- A320
 - boeing
 ---
 Today I want you to take a look at the two biggest rivals of today's skies: Boeing 737 MAX and Airbus A320neo. These two aviation giants have been competing since Airbus entered the industry in 1974, with each trying to outperform the other in terms of speed, efficiency, and passenger comfort.
