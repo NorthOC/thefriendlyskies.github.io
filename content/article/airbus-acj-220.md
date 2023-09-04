@@ -7,6 +7,7 @@ is_article: true
 tags:
 - business
 - airbus
+- 220
 ---
 ## Introduction
 
