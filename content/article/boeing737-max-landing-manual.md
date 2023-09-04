@@ -5,7 +5,7 @@ draft: false
 author: "rosita-mickeviciute"
 is_article: true
 tags:
-- manual
+- guides
 - 737
 - boeing
 ---
