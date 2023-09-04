@@ -8,6 +8,7 @@ author: "rosita-mickeviciute"
 is_article: true
 tags:
 - douglas
+- aircraft
 - dc-3
 ---
 {{< img src="/29052023/1.jpg" id="" caption="Roberto Chiartano / Shutterstock" alt="Douglas DC-3 flying in the air. Image from 45 degree angle.">}}
