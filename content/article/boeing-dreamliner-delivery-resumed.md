@@ -2,6 +2,7 @@
 title: "Boeing Dreamliner delivery is finally resumed"
 date: 2022-08-09T20:13:10+02:00
 draft: false
+thumb: "/18022023/aa787.jpeg"
 author: "rosita-mickeviciute"
 is_article: true
 tags:

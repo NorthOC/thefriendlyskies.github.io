@@ -3,6 +3,7 @@ title: "It is unlikely that Boeing and Airbus planes will be delivered to Russia
 date: 2022-09-08T20:13:10+02:00
 draft: false
 author: "rosita-mickeviciute"
+thumb: "/18022023/aeroflot_sukhoi.jpg"
 is_article: true
 tags:
 - russia

@@ -2,6 +2,7 @@
 title: "Airbus ACJ 220"
 date: 2023-01-19T22:19:13+02:00
 draft: false
+thumb: "/19012023/pic1.jpeg"
 author: "rosita-mickeviciute"
 is_article: true
 tags:

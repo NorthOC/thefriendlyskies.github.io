@@ -3,6 +3,7 @@ title: "Exploring the largest US military bases: their size and operations"
 description: "Explore the largest US military bases: their size, their vital operations, and the major roles they play in supporting military branches and missions"
 date: 2023-09-06T14:52:00+15:00
 draft: false
+thumb: "/06092023/pic0.jpeg"
 author: "rosita-mickeviciute"
 is_article: true
 tags:

@@ -3,6 +3,7 @@ title: "Aeroflot is using its new Airbus A350 for spare parts"
 date: 2022-08-10T20:13:10+02:00
 draft: false
 author: "rosita-mickeviciute"
+thumb: "/18022023/airbus-a350-941.webp"
 is_article: true
 tags:
 - airlines
