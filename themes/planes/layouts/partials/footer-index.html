@@ -1,0 +1,15 @@
+<a href="#index-title">Go back to the top</a>
+<br>
+<br>
+{{ if not (eq .Site.Copyright "") }}
+<span class="copyright">{{ replace .Site.Copyright "{year}" now.Year }}</span>
+
+{{ end }}
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ES2129S2WS"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-ES2129S2WS');
+</script>
