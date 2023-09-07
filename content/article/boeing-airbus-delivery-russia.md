@@ -1,5 +1,6 @@
 ---
 title: "It is unlikely that Boeing and Airbus planes will be delivered to Russia again"
+description: "A look at the uncertain future of Boeing and Airbus plane deliveries to Russia. Explore the geopolitical factors shaping the Russian aviation landscape."
 date: 2022-09-08T20:13:10+02:00
 draft: false
 author: "rosita-mickeviciute"
