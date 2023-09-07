@@ -1,6 +1,6 @@
 ---
 title: "Guide to Flightradar24: Its History, Tracking, and How to Use It"
-description: "Discover the guide to Flightradar24: its history, flight-tracking capabilities, and detailed instructions on how to use the tool for real-time aircraft tracking."
+description: "Our comprehensive guide to Flightradar24: history, flight-tracking capabilities, and detailed instructions on how to use it for real-time aircraft tracking."
 date: 2023-07-25T20:14:13+15:00
 draft: false
 thumb: "/25072023/1.jpg"
