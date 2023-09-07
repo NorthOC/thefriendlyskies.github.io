@@ -1,6 +1,6 @@
 ﻿---
 title: "Top 10 busiest airports in the world by total passenger traffic"
-description: "Explore a list of the busiest airports in the world by passenger traffic! The Top 10 world's largest terminals in 2022 that welcomed millions of travelers."
+description: "Fund out the busiest airports in the world by passenger traffic! Presenting the Top 10 world's largest terminals in 2022 that welcomed millions of travelers."
 date: 2023-08-27T21:41:00+15:00
 draft: false
 thumb: "/27082023/cover.jpeg"
