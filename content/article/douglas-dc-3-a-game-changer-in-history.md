@@ -1,7 +1,6 @@
 ---
 title: "The Douglas DC-3: A Game-Changer in Aviation History"
-description: "Discover the Douglas DC-3, an iconic aircraft that revolutionized
-aviation. Delve into its vast history, technical features, commercial success, and legacy."
+description: "Douglas DC-3, an iconic piston engine aircraft that revolutionized aviation. Delve into its vast history, technical features, commercial success, and legacy."
 date: 2023-05-29T21:19:12+15:00
 draft: false
 thumb: "/29052023/1.jpg"
