@@ -1,5 +1,6 @@
 ---
 title: "B737 MAX Manual Control – Landing"
+description: "Explore 17 steps for manual landing of the B737 MAX aircraft. Our guide covers the procedures and knowledge required for a safe landing when necessary."
 date: 2023-01-02T23:57:00+02:00
 draft: false
 thumb: "/07012022/737_cockpit.webp"
