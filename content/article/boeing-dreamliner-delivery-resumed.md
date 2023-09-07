@@ -1,5 +1,6 @@
 ---
 title: "Boeing Dreamliner delivery is finally resumed"
+description: "Exciting update: Boeing Dreamliner deliveries have resumed! Discover the reasons behind the grounding of the 787 and how the certification standards were met."
 date: 2022-08-09T20:13:10+02:00
 draft: false
 thumb: "/18022023/aa787.jpeg"
