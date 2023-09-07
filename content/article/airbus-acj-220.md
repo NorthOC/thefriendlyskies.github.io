@@ -12,6 +12,8 @@ tags:
 - aircraft
 - 220
 ---
+{{< img src="/19012023/pic1.jpeg" id="i_plane" caption="Airbus ACJ 220" alt="The white inside cabin of ACJ">}}
+
 ## Introduction
 
 The ACJ TwoTwenty or ACJ220 is a short-fuselage business jet that is based on the A220-100, a highly fuel-efficient narrow-body aircraft. It offers seating for up to 135 passengers and can fly non-stop for 12 hours with a 78-foot-long cabin that can be divided into six living zones, accommodating space for up to 19 passengers. As of now, more than 200 of these aircraft are in operation and there are already open orders from different airline customers for an additional 500 aircraft.
