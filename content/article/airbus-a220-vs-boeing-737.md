@@ -1,5 +1,6 @@
 ---
 title: "Boeing 737 MAX vs. Airbus A320neo"
+description: "Comparing aviation giants: Boeing 737 MAX vs. Airbus A320neo. Explore the key differences, technologies, costs, deliveries, and discover the ultimate winner."
 date: 2023-04-02T22:21:11+15:00
 draft: false
 author: "rosita-mickeviciute"
