@@ -1,5 +1,6 @@
 ---
 title: "Aeroflot is using its new Airbus A350 for spare parts"
+description: "Breaking news: Aeroflot reuses its new Airbus A350 for spare parts. Explore the reasons behind this unexpected decision and what it means for Russian airlines. "
 date: 2022-08-10T20:13:10+02:00
 draft: false
 author: "rosita-mickeviciute"
