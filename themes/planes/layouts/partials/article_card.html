@@ -1,7 +1,12 @@
 <article class="article-card flex-column">
-      <time datetime="{{.Date}}">{{ time.Format "2006, Jan 2" .Date }}</time>
       <a class="article-link" href="{{ .RelPermalink }}">
-        <h2>{{ .Title }}</h2>
-        {{ with .Params.thumb }}<img src="{{.}}">{{ end }}
+      {{ with .Params.thumb }}<img src="{{.}}">{{ end }}
       </a>
+      <div>
+        <a class="article-link" href="{{ .RelPermalink }}">
+          <h2>{{ .Title }}</h2>
+        </a>
+        <p>{{ .Params.Description}}</p>
+        <time datetime="{{.Date}}">{{ time.Format "2006, Jan 2" .Date }}</time>
+      </div>
 </article>

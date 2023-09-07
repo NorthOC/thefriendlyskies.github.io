@@ -130,15 +130,23 @@ header {
 }
 
 .article-card{
-  margin: 30px auto;
+  margin: 30px auto 50px;
   text-align: left;
+  display: flex;
+  gap: 20px;
 }
 .article-card time{
   margin: auto 10px 6px 2px;
+  font-size: 10pt;
 }
 .article-card img{
-  width: 100%;
-  max-width: 400px;
+  max-width: 200px;
+}
+.article-card div{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: space-between;
 }
 
 /* Articles */
