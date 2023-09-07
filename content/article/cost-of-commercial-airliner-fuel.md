@@ -1,5 +1,6 @@
 ---
 title: "What is the cost of commercial airliner fuel?"
+description: "Unveiling the economics of commercial airliner fuel costs. Dive into the factors and dynamics that influence the pricing of jet fuel in the aviation industry."
 date: 2022-09-12T20:13:10+02:00
 draft: false
 thumb: "/18022023/aircraft_being_fueled.jpg"
