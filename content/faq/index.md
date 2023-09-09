@@ -14,6 +14,10 @@ I call myself an aviation enthusiast, who loves travelling and exploring various
 
 This blog is about civil aviation, technical aspects of aircraft design, aerospace, my personal experiences with aviation and many more topics concerned with … yes, you guessed it, aviation!
 
+## How can I support your work?
+
+You can support my work by following this donation link: [https://www.buymeacoffee.com/rositamic](https://www.buymeacoffee.com/rositamic)
+
 ## Where can I contact you?
 
 For business purposes, feel free to reach out to me at: rositamicsan@gmail.com or via https://www.linkedin.com/in/rosita-mickeviciute-631317182/

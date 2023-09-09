@@ -10,17 +10,22 @@ copyright = '© {year} The Friendly Skies. All rights reserved.'
 [menu]
   [[menu.main]]
     identifier = "home"
-    name = "Home"
+    name = "Articles"
     url = "/"
     weight = 1
   [[menu.main]]
-    identifier = "archives"
-    name = "Archives"
-    url = "/archives/"
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
     weight = 2
   [[menu.main]]
     identifier = "faq"
     name = "FAQ"
     url = "/faq/"
+    weight = 3
+  [[menu.main]]
+    identifier = "donate"
+    name = "Donate"
+    url = "https://www.buymeacoffee.com/rositamic"
     weight = 4
 
