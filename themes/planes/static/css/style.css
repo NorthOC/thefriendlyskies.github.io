@@ -244,6 +244,9 @@ table{
 iframe{
   display: block !important;
   margin: auto !important;
+  width: 100%;
+  max-width: 560px;
+  max-height: 315px;
 }
 table, td, th{
   border: 1px solid;
