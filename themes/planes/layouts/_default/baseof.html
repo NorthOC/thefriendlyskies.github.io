@@ -5,7 +5,8 @@
         <link rel='alternate' type='application/rss+xml' title="{{ .Site.Title }} RSS" href='/index.xml'>
         <link rel="stylesheet" type="text/css" href="/css/style.css">
         {{ with .Site.Params.favicon }}<link rel="icon" href="{{ . }}">{{ end -}}
-        <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}">
+        <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.meta_description }}{{ end }}">
+        <meta name="image" property="og:image" content="{{ with .Params.thumb }}{{ . }}{{ else }}{{ .Site.Params.og }}{{ end }}">
         {{ if isset .Params "author" }}
         {{ $author := index .Site.Data.authors (.Params.author | default "default") }}
         {{- if $author -}}
