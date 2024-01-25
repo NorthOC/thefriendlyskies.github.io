@@ -6,6 +6,8 @@ copyright = '© {year} The Friendly Skies. All rights reserved.'
 
 [params]
   favicon = "/favicon.ico"
+  meta_description = "something here lol"
+  og = "/og.png"
 
 [menu]
   [[menu.main]]
