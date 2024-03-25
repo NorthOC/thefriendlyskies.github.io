@@ -1,4 +1,4 @@
-baseURL = 'https://thefriendlyskies.github.io'
+baseURL = 'https://thefriendlyskies.net'
 languageCode = 'en-us'
 title = 'The Friendly Skies'
 theme = 'planes'
@@ -31,3 +31,7 @@ copyright = '© {year} The Friendly Skies. All rights reserved.'
     url = "https://www.buymeacoffee.com/rositamic"
     weight = 4
 
+[module]
+  [[module.mounts]]
+    source = "static"
+    target = "assets"
