@@ -5,6 +5,7 @@ date: 2022-08-10T20:13:10+02:00
 draft: false
 author: "rosita-mickeviciute"
 thumb: "/18022023/airbus-a350-941.webp"
+thumb_alt: "Aeroflot A350-900"
 is_article: true
 tags:
 - airlines

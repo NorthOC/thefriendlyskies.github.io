@@ -5,6 +5,7 @@ date: 2023-09-06T14:52:00+15:00
 draft: false
 thumb: "/06092023/pic0.jpeg"
 author: "rosita-mickeviciute"
+thumb_alt: "Side shot of soldier firing AR-15"
 is_article: true
 tags:
 - military

@@ -4,13 +4,14 @@ description: "The remarkable history of Irish low-cost airline Ryanair, from its
 date: 2024-03-06T22:00:00+02:00
 draft: false
 thumb: "/06032024/cover.jpg"
+thumb_alt: "Passengers boarding a Ryanair commercial airplane at Milan Malpensa Airport in Italy"
 author: "rosita-mickeviciute"
 is_article: true
 tags:
 - ryanair
 ---
 
-{{< img src="/06032024/cover.jpg" id="i_plane" caption="Passengers boarding Ryanair airplane" alt="Passengers boarding a Ryanair commercial airplane at Milan Malpensa Airport in Italy ">}}
+{{< img src="/06032024/cover.jpg" id="i_plane" caption="Passengers boarding Ryanair airplane" alt="Passengers boarding a Ryanair commercial airplane at Milan Malpensa Airport in Italy">}}
 
 An Irish low-cost airline headquartered in the Swords district of Dublin, Ryanair and beyond. First established in 1984, the airline had humble beginnings, starting as a small operation with just a single 15-seat turboprop aircraft EMB 110 Bandeirante. Over the years, though, Ryanair has transformed into a major player in the airline industry, thanks to its strategic innovations, cost-saving measures and bold expansion efforts.
 

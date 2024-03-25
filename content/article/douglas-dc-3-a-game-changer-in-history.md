@@ -4,6 +4,7 @@ description: "Douglas DC-3, an iconic piston engine aircraft that revolutionized
 date: 2023-05-29T21:19:12+15:00
 draft: false
 thumb: "/29052023/1.jpg"
+thumb_alt: "Douglas DC-3 flying in the air. Image from 45 degree angle."
 author: "rosita-mickeviciute"
 is_article: true
 tags:

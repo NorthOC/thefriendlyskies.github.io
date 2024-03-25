@@ -4,6 +4,7 @@ description: "Women in aviation have played important roles since the introducti
 date: 2024-03-08T22:00:00+15:00
 draft: false
 thumb: "/09032024/cover.jpg"
+thumb_alt: "Allied women pilots of the Air Transport Auxiliary service"
 author: "rosita-mickeviciute"
 is_article: true
 tags:

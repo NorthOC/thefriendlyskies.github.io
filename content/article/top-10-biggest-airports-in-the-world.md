@@ -4,6 +4,7 @@ description: "Find out the busiest airports in the world by passenger traffic! P
 date: 2023-08-27T21:41:00+15:00
 draft: false
 thumb: "/27082023/cover.jpeg"
+thumb_alt: "Highly edited photo of airport with planes and buildings in the background"
 author: "rosita-mickeviciute"
 is_article: true
 tags:

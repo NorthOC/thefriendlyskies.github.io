@@ -1,9 +1,10 @@
 {{ $author := index .Site.Data.authors (.Params.author) }}
 {{ $image := resources.Get (.Params.thumb) }}
+{{ $img_alt := .Params.thumb_alt }}
 {{ $image := $image.Resize "200x" }}
 <article class="article-card flex-column">
       <a class="article-link" href="{{ .RelPermalink }}">
-      {{ with $image }}<img src="{{ .RelPermalink }}" width="200px">{{ end }}
+      {{ with $image }}<img src="{{ .RelPermalink }}" width="200px" alt="{{ $img_alt }}">{{ end }}
       </a>
       <div>
         <a class="article-link" href="{{ .RelPermalink }}">

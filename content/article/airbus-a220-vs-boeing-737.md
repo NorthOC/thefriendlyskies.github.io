@@ -5,6 +5,7 @@ date: 2023-04-02T22:21:11+15:00
 draft: false
 author: "rosita-mickeviciute"
 thumb: "/02042023/cover.jpg"
+thumb_alt: "Eurowings A320neo"
 is_article: true
 tags:
 - airbus

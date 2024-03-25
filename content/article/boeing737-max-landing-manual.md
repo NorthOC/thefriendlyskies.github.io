@@ -5,6 +5,7 @@ date: 2023-01-02T23:57:00+02:00
 draft: false
 thumb: "/07012022/737_cockpit.webp"
 author: "rosita-mickeviciute"
+thumb_alt: "Boeing 737 MAX Cockpit"
 is_article: true
 tags:
 - guides

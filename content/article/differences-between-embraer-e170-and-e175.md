@@ -4,6 +4,7 @@ description: "Discover the distinctions between Embraer's E170 and E175 models. 
 date: 2023-01-07T20:13:10+02:00
 draft: false
 thumb: "/18022023/embraer-e170.jpg"
+thumb_alt: "LOT Polish Airlines E170"
 author: "rosita-mickeviciute"
 is_article: true
 tags:

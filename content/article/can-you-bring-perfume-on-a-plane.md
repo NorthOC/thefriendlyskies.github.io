@@ -4,6 +4,7 @@ description: "Want to bring perfume with you on your next flight? Discover the r
 date: 2024-02-14T14:20:44+02:00
 draft: false
 thumb: "/14022024/cover.jpeg"
+thumb_alt: "Woman testing and choosing to buy perfume in duty-free store"
 author: "rosita-mickeviciute"
 is_article: true
 tags:

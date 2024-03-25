@@ -5,6 +5,7 @@ date: 2023-07-25T20:14:13+15:00
 draft: false
 thumb: "/25072023/1.jpg"
 author: "rosita-mickeviciute"
+thumb_alt: "Flightradar24 app main view showing Europe"
 is_article: true
 tags:
 - guides
