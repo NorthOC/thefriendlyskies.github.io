@@ -5,6 +5,7 @@ date: 2022-09-08T20:13:10+02:00
 draft: false
 author: "rosita-mickeviciute"
 thumb: "/18022023/aeroflot_sukhoi.jpg"
+thumb_alt: "Aeroflot, Sukhoi Superjet 100-95B"
 is_article: true
 tags:
 - russia

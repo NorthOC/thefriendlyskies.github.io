@@ -4,6 +4,7 @@ description: "Unveiling the economics of commercial airliner fuel costs. Dive in
 date: 2022-09-12T20:13:10+02:00
 draft: false
 thumb: "/18022023/aircraft_being_fueled.jpg"
+thumb_alt: "A US Airways Boeing 757 being fueled at Fort Lauderdale–Hollywood International Airport"
 author: "rosita-mickeviciute"
 is_article: true
 tags:

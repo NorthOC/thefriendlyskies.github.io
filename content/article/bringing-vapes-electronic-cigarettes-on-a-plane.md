@@ -4,6 +4,7 @@ description: "Read our guidelines for traveling with vapes and e-cigarettes on a
 date: 2024-01-25T14:23:00+02:00
 draft: false
 thumb: "/25012024/cover.jpg"
+thumb_alt: "Man is smoking electronic cigarette or vaporizer."
 author: "rosita-mickeviciute"
 is_article: true
 tags:

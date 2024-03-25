@@ -4,6 +4,7 @@ description: "Airbus ACJ 220 is the epitome of luxury and sophistication in corp
 date: 2023-01-19T22:19:13+02:00
 draft: false
 thumb: "/19012023/pic1.jpeg"
+thumb_alt: "The white inside cabin of ACJ"
 author: "rosita-mickeviciute"
 is_article: true
 tags:

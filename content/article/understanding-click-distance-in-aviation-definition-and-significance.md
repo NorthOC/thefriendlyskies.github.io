@@ -4,6 +4,7 @@ description: "Discover the significance of click distance in aviation and the mi
 date: 2023-10-07T19:41:00+15:00
 draft: false
 thumb: "/07102023/cover.jpeg"
+thumb_alt: "jets chilling in the airport in a formation"
 author: "rosita-mickeviciute"
 is_article: true
 tags:

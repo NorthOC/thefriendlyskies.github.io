@@ -4,6 +4,7 @@ description: "Exciting update: Boeing Dreamliner deliveries have resumed! Discov
 date: 2022-08-09T20:13:10+02:00
 draft: false
 thumb: "/18022023/aa787.jpeg"
+thumb_alt: "Two Boeing Dreamliner 787s flying in the sky"
 author: "rosita-mickeviciute"
 is_article: true
 tags:
