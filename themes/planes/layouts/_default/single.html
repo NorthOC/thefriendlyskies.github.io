@@ -1,5 +1,9 @@
 {{ define "header" }}
-  {{ partial "header.html" . }}
+  {{ if .Params.is_article }}
+    {{ partial "article-header.html" . }}
+  {{ else }}
+    {{ partial "header.html" . }}
+  {{ end }}
 {{ end }}
 
 
