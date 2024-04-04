@@ -1,5 +1,5 @@
 ---
-title: "Frequently Asked Questions"
+title: "About"
 date: 2023-01-04T12:31:24+02:00
 is_unique_page: true
 ---

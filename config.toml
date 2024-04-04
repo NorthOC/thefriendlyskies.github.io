@@ -21,9 +21,9 @@ copyright = '© {year} The Friendly Skies. All rights reserved.'
     url = "/tags/"
     weight = 2
   [[menu.main]]
-    identifier = "faq"
-    name = "FAQ"
-    url = "/faq/"
+    identifier = "about"
+    name = "About"
+    url = "/about/"
     weight = 3
   [[menu.main]]
     identifier = "donate"

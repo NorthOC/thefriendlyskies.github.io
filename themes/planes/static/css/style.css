@@ -67,6 +67,12 @@ a{
   margin: auto;
 }
 
+.homepage-caption{
+  display: block;
+  max-width: 500px;
+  margin: auto;
+}
+
 #profile-pic>img{
   clip-path: circle();
 }

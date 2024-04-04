@@ -1,12 +1,17 @@
 <!DOCTYPE html>
 <html lang="en-us">
     <head>
-        <title>{{ if not .IsHome }}{{ .Title | title }} | {{ end }}{{ .Site.Title }}</title>
+        <title>{{ if not .IsHome }}
+            {{ if .Params.meta_title }}
+            {{ .Params.meta_title | title }}
+            {{ else }}
+            {{ .Title | title }}
+            {{ end }} | {{ end }}{{ .Site.Title }}</title>
         <link rel='alternate' type='application/rss+xml' title="{{ .Site.Title }} RSS" href='/index.xml'>
         <link rel="stylesheet" type="text/css" href="/css/style.css">
         {{ with .Site.Params.favicon }}<link rel="icon" href="{{ . }}">{{ end -}}
         <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.meta_description }}{{ end }}">
-        <meta name="image" property="og:image" content="{{ with .Params.thumb }}{{ . }}{{ else }}{{ .Site.Params.og }}{{ end }}">
+        <meta name="image" content="https://thefriendlyskies.net{{ with .Params.thumb }}{{ . }}{{ else }}{{ .Site.Params.og }}{{ end }}">
         {{ if isset .Params "author" }}
         {{ $author := index .Site.Data.authors (.Params.author | default "default") }}
         {{- if $author -}}
@@ -18,6 +23,34 @@
         <meta name="robots" content="index, follow">
         <meta charset="utf-8">
         <meta name="google-site-verification" content="PnANn863SSyOjAUcadrj0SXMvNUsl6itfZ33OPBw0mk" />
+
+        <!-- FACEBOOK META TAGS -->
+        <meta name="og:title" content="{{ if not .IsHome }}
+        {{ if .Params.meta_title }}
+        {{ .Params.meta_title | title }}
+        {{ else }}
+        {{ .Title | title }}
+        {{ end }} | {{ end }}{{ .Site.Title }}"/>
+        <meta property="og:type" content='
+        {{ if .Params.is_article }}
+        {{ fmt.Print "article" }}
+        {{ else }}
+        {{ fmt.Print "website" }}
+        {{ end }}
+        ' />
+        <meta property="og:image" content='https://thefriendlyskies.net{{ with .Params.thumb }}{{ . }}{{ else }}{{ .Site.Params.og }}{{ end }}'/>
+        <meta property="og:url" content="https://thefriendlyskies.net" />
+        <!-- X META TAGS -->
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta property="twitter:url" content="https://thefriendlyskies.net" />
+        <meta property="twitter:title" content="{{ if not .IsHome }}
+        {{ if .Params.meta_title }}
+        {{ .Params.meta_title | title }}
+        {{ else }}
+        {{ .Title | title }}
+        {{ end }} | {{ end }}{{ .Site.Title }}" />
+        <meta property="twitter:description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.meta_description }}{{ end }}"/>
+        <meta property="twitter:image" content="https://thefriendlyskies.net{{ with .Params.thumb }}{{ . }}{{ else }}{{ .Site.Params.og }}{{ end }}"/>
     </head>
     <body>
         {{ if .Site.Menus.main }}{{ partial "nav.html" . }}{{ end }}
