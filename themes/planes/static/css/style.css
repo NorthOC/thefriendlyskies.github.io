@@ -208,6 +208,7 @@ figure img{
 
 ul, ol{
   word-wrap: break-word;
+  margin-left: 50px !important;
 }
 
 .content ul>li, .content ol>li{
@@ -246,7 +247,7 @@ footer{
 table{
   border-collapse: collapse;
   margin: 20px auto !important;
-  max-width: 600px;
+  max-width: 650px;
   width: 100%;
 
 }
