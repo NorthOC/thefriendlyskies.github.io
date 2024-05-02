@@ -195,7 +195,7 @@ The largest portion of its fleet consists of 169 units of the [Mitsubishi CRJ](h
 
 {{< img src="/30042024/8.jpg" id="i_plane" caption="JHVEPhoto / Shutterstock" alt="Delta planes parked at the gates">}}
 
-2. United Airlines (UA/UAL)
+## 2. United Airlines (UA/UAL)
 
 - Fleet size: 1,441
 
