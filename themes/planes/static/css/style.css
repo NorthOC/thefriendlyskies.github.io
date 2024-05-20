@@ -27,6 +27,10 @@
   font-family: bitter;
   src: url(Bitter-Regular.ttf);
 }
+@font-face {
+  font-family: bitter-bold;
+  src: url(Bitter-Bold.ttf);
+}
 body{
   min-height: 100vh;
   text-align: center;
@@ -40,6 +44,10 @@ body{
 a{
   text-decoration: none;
   color: var(--theme-a);
+}
+
+strong{
+  font-family: bitter-bold;
 }
 
 .flex-row{

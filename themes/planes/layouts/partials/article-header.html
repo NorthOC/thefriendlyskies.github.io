@@ -1,4 +1,4 @@
-<h1 id="article-title" >{{ .Title | title }}</h1>
+<h1 id="article-title" >{{ .Title }}</h1>
 <p class="author">
     {{ $author := index .Site.Data.authors .Page.Params.author }}
     Published: <time datetime="{{.Page.Params.Date}}">{{ time.Format "2006, Jan 2" .Page.Params.Date }}</time> | <span class="article-author">By {{ $author.name }}</span>
