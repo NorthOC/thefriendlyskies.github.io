@@ -14,14 +14,14 @@ tags:
 - A320
 - boeing
 ---
+{{< img src="/02042023/cover.jpg" id="i_plane" caption="Eurowings A320neo">}}
+
 
 Today I want you to take a look at the two biggest rivals of today's skies: Boeing 737 MAX and Airbus A320neo. These two aviation giants have been competing since Airbus entered the industry in 1974, with each trying to outperform the other in terms of speed, efficiency, and passenger comfort.
 
 The Boeing 737 program has been in operation for over 50 years, while the Airbus A320 program was introduced only in the late 1980s. However, it's the latest versions of these planes that are most relevant today and which I wanted to compare for a long time. The A320neo family was welcomed in 2016, and the Boeing 737 MAX was introduced in 2017.
 
 So, which of these planes is 'better' in terms of engine efficiency, speed and popularity? Let's compare the two and find out today's winner of the skies.
-
-{{< img src="/02042023/photo-one.jpg" id="i_eurowings" caption="Eurowings A320neo" alt="Eurowings A320neo">}}
 
 ## Addressing the elephant in the room: Boeing 737 MAX Grounding
 
