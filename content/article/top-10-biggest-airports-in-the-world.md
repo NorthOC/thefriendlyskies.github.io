@@ -116,7 +116,7 @@ Covering 4,700 acres and positioned just 16 kilometers to the south of downtown 
 
 Hartsfield-Jackson Atlanta International Airport proudly holds the distinction of being the busiest airport in the world in terms of passenger traffic. Its significance stretches even further as a major hub for [Delta Air Lines](https://www.delta.com/), connecting people across the globe. The airport's roots trace back to 1926.
 
-[ATL](ATL) has 5 runways, with the longest being 3,776 meters. Since 1998, ATL has consistently held the top spot for the highest passenger traffic globally, relinquishing this position only in 2020 due to COVID-19 restrictions. Total passenger traffic in 2022 was a staggering 93,699,630 passengers, with a 23.8% increase from 2022. Once more, ATL secures its place as the world’s busiest airport by total passenger traffic in 2022.
+[ATL](https://www.atl.com/) has 5 runways, with the longest being 3,776 meters. Since 1998, ATL has consistently held the top spot for the highest passenger traffic globally, relinquishing this position only in 2020 due to COVID-19 restrictions. Total passenger traffic in 2022 was a staggering 93,699,630 passengers, with a 23.8% increase from 2022. Once more, ATL secures its place as the world’s busiest airport by total passenger traffic in 2022.
 
 ## Top 10 biggest airports in the world by total passenger traffic
 

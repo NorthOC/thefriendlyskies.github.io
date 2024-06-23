@@ -13,7 +13,7 @@ tags:
 - united states
 ---
 
-{{< img src="/06092023/pic0.jpeg" id="" caption="" alt="">}}
+{{< img src="/06092023/pic0.jpeg" id="" caption="" alt="Side shot of soldier firing AR-15">}}
 
 The United States (US) military operates on a global scale, with a vast network of bases and installations spread across various continents. Among these, the largest and most influential are the many sprawling military bases within its own borders. One such base stands out for its sheer magnitude and significance - an emblem of American military power and strategy.
 

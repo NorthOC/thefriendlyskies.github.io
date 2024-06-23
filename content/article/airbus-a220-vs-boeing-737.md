@@ -14,8 +14,7 @@ tags:
 - A320
 - boeing
 ---
-{{< img src="/02042023/cover.jpg" id="i_plane" caption="Eurowings A320neo">}}
-
+{{< img src="/02042023/cover.jpg" id="i_plane" caption="Eurowings A320neo" alt="Eurowings A320neo">}}
 
 Today I want you to take a look at the two biggest rivals of today's skies: Boeing 737 MAX and Airbus A320neo. These two aviation giants have been competing since Airbus entered the industry in 1974, with each trying to outperform the other in terms of speed, efficiency, and passenger comfort.
 
@@ -99,7 +98,7 @@ Despite the MAX's comeback, the A320neo family is experiencing greater progress.
 
 The total number of orders for both companies is as follows (as of March 2023):
 
-{{< img src="/02042023/photo-seven.png" id="i_seven" caption="" alt="">}}
+{{< img src="/02042023/photo-seven.png" id="i_seven" caption="" alt="table of airbus 320neo vs boeing 737MAX orders and deliveries">}}
 
 ***Winner: Airbus A320neo***
 

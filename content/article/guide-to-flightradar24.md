@@ -155,8 +155,8 @@ Since its inception, Flightradar24 has continually evolved and expanded its capa
 
 Sources:
 
-- [https://www.flightradar24.com/how-it-works](https://www.flightradar24.com/how-it-works)
-- [https://en.wikipedia.org/wiki/Flightradar24](https://en.wikipedia.org/wiki/Flightradar24)
-- [https://www.flightradar24.com/](https://www.flightradar24.com/)
-- [https://www.flightradar24.com/premium](https://www.flightradar24.com/premium)
+* [https://www.flightradar24.com/how-it-works](https://www.flightradar24.com/how-it-works)
+* [https://en.wikipedia.org/wiki/Flightradar24](https://en.wikipedia.org/wiki/Flightradar24)
+* [https://www.flightradar24.com](https://www.flightradar24.com/)
+* [https://www.flightradar24.com/premium](https://www.flightradar24.com/premium)
 

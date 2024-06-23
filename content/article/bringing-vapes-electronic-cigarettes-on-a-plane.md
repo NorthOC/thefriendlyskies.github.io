@@ -90,8 +90,8 @@ And lastly, be mindful of cultural differences regarding vaping and smoking. Wha
 
 ## Sources: 
 
-- [https://okvape.co.uk/blog/product-guides/travelling-with-e-cigarettes/](https:/okvape.co.uk/blog/product-guides/travelling-with-e-cigarettes)
-- [https://www.faa.gov/hazmat/packsafe/resources/vapes_marketing_kit](https:/www.faa.gov/hazmat/packsafe/resources/vapes_marketing_kit)
-- [https://www.tsa.gov/travel/security-screening/whatcanibring/items/electronic-cigarettes-and-vaping-devices](https:/www.tsa.gov/travel/security-screening/whatcanibring/items/electronic-cigarettes-and-vaping-devices)
+* [https://okvape.co.uk/blog/product-guides/travelling-with-e-cigarettes/](https:/okvape.co.uk/blog/product-guides/travelling-with-e-cigarettes)
+* [https://www.faa.gov/hazmat/packsafe/resources/vapes_marketing_kit/](https:/www.faa.gov/hazmat/packsafe/resources/vapes_marketing_kit)
+* [https://www.tsa.gov/travel/security-screening/whatcanibring/items/electronic-cigarettes-and-vaping-devices/](https:/www.tsa.gov/travel/security-screening/whatcanibring/items/electronic-cigarettes-and-vaping-devices)
 
 
