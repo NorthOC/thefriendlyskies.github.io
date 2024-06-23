@@ -10,7 +10,7 @@ author: "rosita-mickeviciute"
 is_article: true
 tags:
 - airlines
-- guide
+- guides
 ---
 
 {{< img src="/20052024/cover.jpg" id="i_plane" caption="M101Studio / Shutterstock" alt="Qatar Airways Airbus A380">}}
