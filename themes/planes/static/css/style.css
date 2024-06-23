@@ -46,7 +46,7 @@ a{
   color: var(--theme-a);
 }
 
-strong{
+h1,h2,h3,h4,h5,strong{
   font-family: bitter-bold;
 }
 
@@ -211,7 +211,7 @@ div.content{
 }
 
 figure img{
-  width: 100%;
+  max-width: 100%;
 }
 
 ul, ol{
