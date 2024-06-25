@@ -150,8 +150,19 @@ header {
   gap: 20px;
 }
 
-.author{
+.author, .views{
   font-size: 10pt;
+}
+.article-views{
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+  color: gray;
+}
+.article-meta{
+  display: flex;
+  gap: 20px;
+  justify-content: space-between;
 }
 @media only screen and (max-width: 550px) {
   .article-card{
@@ -170,7 +181,7 @@ header {
 .article-card img{
   max-width: 200px;
 }
-.article-card div{
+.article-card .contents{
   display: flex;
   flex-direction: column;
   gap: 10px;

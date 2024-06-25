@@ -6,13 +6,16 @@
       <a class="article-link" href="{{ .RelPermalink }}">
       {{ with $image }}<img src="{{ .RelPermalink }}" alt="{{ $img_alt }}">{{ end }}
       </a>
-      <div>
+      <div class="contents">
         <a class="article-link" href="{{ .RelPermalink }}">
           <h2>{{ .Title }}</h2>
         </a>
         <p>{{ .Params.Description}}</p>
-        <p>
-          <time datetime="{{.Date}}">{{ time.Format "2006, Jan 2" .Date }}</time>, <span class="author" aria-label="author">by {{ $author.name }}</span>
-        </p>
+        <div class="article-meta">
+          <p>
+            <time datetime="{{.Date}}">{{ time.Format "2006, Jan 2" .Date }}</time><span class="author" aria-label="author">, by {{ $author.name }}</span>
+          </p>
+          <p class="article-views views"><span class="view-count">0</span> <span>views</span></p>
+        </div>
       </div>
 </article>

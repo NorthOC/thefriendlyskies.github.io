@@ -12,6 +12,55 @@
       {{range .Pages}}
         {{if .Params.is_article }} {{- partial "article_card.html" . -}} {{end}}
       {{end}}
+
+      <script>
+        function get_uuid(){
+          if (localStorage.getItem("client_uuid") == null){
+            let uuid = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
+              var r = Math.random()*16|0, v = c == 'x' ? r : (r&0x3|0x8);
+              return v.toString(16);
+            });
+            localStorage.setItem("client_uuid",uuid);
+          }   
+          return localStorage.getItem("client_uuid")
+        }
+        function get_user_data(){
+          let country = Intl.DateTimeFormat().resolvedOptions().timeZone
+          return country
+        }
+        function get_page_url(){
+          return window.location.href
+        }
+
+        function register_view(){
+          //https://micro-views-oake78j75-northocs-projects.vercel.app/api/views
+          let url = "https://micro-views-oake78j75-northocs-projects.vercel.app/api/create_view"
+        
+          payload = {
+            "viewer_instance":{
+              "country": get_user_data(),
+              "client_uuid": get_uuid()
+            },
+            "url_instance": {
+              "url": get_page_url()
+            }
+          }
+          
+          const response = fetch(url, {
+          method: "POST", // *GET, POST, PUT, DELETE, etc.
+          mode: "cors", // no-cors, *cors, same-origin
+          cache: "no-cache", // *default, no-cache, reload, force-cache, only-if-cached
+          credentials: "same-origin", // include, *same-origin, omit
+          headers: {
+            "Content-Type": "application/json",
+            // 'Content-Type': 'application/x-www-form-urlencoded',
+          },
+          redirect: "follow", // manual, *follow, error
+          referrerPolicy: "no-referrer", // no-referrer, *no-referrer-when-downgrade, origin, origin-when-cross-origin, same-origin, strict-origin, strict-origin-when-cross-origin, unsafe-url
+          body: JSON.stringify(data), // body data type must match "Content-Type" header
+          });
+        }
+      </script>
     {{ end -}}
   </div>
 {{- end }}
