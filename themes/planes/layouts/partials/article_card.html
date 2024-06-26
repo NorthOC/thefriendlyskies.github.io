@@ -15,7 +15,7 @@
           <p>
             <time datetime="{{.Date}}">{{ time.Format "2006, Jan 2" .Date }}</time><span class="author" aria-label="author">, by {{ $author.name }}</span>
           </p>
-          <p class="article-views views"><span class="view-count" data-url="{{ .RelPermalink }}">0</span> <span>views</span></p>
+          <p class="article-views views"><span class="view-count" data-slug="{{ .RelPermalink }}">0</span> <span>views</span></p>
         </div>
       </div>
 </article>

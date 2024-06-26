@@ -56,7 +56,10 @@ gtag('config', 'G-ES2129S2WS');
       }
   
       for (let element of view_counts) {
-        let item = urls[website_url+element.dataset.url.substring(0, path.length - 1)]
+        let slug = element.dataset.slug
+        let elem_url = website_url.concat(slug.substring(0, slug.length - 1))
+        console.log(elem_url)
+        let item = urls[elem_url]
         if (item !== undefined){
           element.innerHTML = item
         }
