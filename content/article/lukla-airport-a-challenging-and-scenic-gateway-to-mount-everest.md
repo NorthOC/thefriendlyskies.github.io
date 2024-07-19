@@ -1,7 +1,7 @@
 ﻿---
-title: "Lukla Airport: a scenic but challenging gateway to Mount Everest"
-meta_title: "Lukla Airport: challenging gateway to Mount Everest"
-description: "Discover Lukla Airport: your gateway to Mount Everest, known for its steep  and short runway. Explore the dangers of this unique high-altitude destination."
+title: "Lukla Airport: the world's most dangerous airport to Mount Everest"
+meta_title: "Lukla: the world's most dangerous airport to Mount Everest"
+description: "Discover Lukla Airport: the world's most dangerous airport, known for its steep and short runway. Also, the only airport where you can reach Mount Everest."
 date: 2024-05-30T18:00:00+03:00
 draft: false
 thumb: "/30052024/cover.jpg"
