@@ -17,22 +17,6 @@
 		{{end }}
 	{{ end }}
 
-	{{ if gt $width 720 }}
-		{{ if $rotate }}
-			{{ $image = $image.Resize "720x r270 q95" }}
-		{{ else }}
-			{{ $image = $image.Resize "720x q95" }}
-		{{ end }}
-	{{ else if gt $height 600 }}
-		{{ if $rotate }}
-			{{ $image = $image.Resize "x600 r90 q95" }}
-		{{ else }}
-			{{ $image = $image.Resize "x600 q95" }}
-		{{ end }}
-	{{ else }}
-		{{ $xw := print $width "x" $height " q95" }}
-		{{ $image = $image.Resize $xw }}
-	{{ end }}
 <figure {{ with .Get "id" }}id="{{.}}"{{ end }} {{ with .Get "class" }}class="{{.}}"{{ end }}>
 	{{ with .Get "link"}}<a href="{{.}}">{{ end }}
 	<img src="{{ $image.RelPermalink }}"
