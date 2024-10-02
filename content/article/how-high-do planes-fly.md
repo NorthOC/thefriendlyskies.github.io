@@ -109,11 +109,15 @@ The existing world record for the highest altitude reached by an air-breathing j
 
 ## Can a plane fly too high?
 
-While flying at high altitudes offers many advantages, there are limitations to how high a plane can safely operate. One notional area, known forbiddingly as the 'coffin corner', represents a particularly dangerous altitude range. The 'coffin corner' occurs at the intersection of an aircraft's low-speed stall limit and its high-speed mach limit, making it challenging to maintain safe flight conditions. Flying in this range can result in severe turbulence and even a stall, which can be extremely hazardous.
+While flying at high altitudes offers many advantages, there are limitations to how high a plane can safely operate at. 
+
+One area is known notoriously as the 'coffin corner', which represents a dangerous altitude range. The 'coffin corner' occurs at the intersection of an aircraft's low-speed stall limit and its high-speed mach limit, making it challenging to maintain safe flight conditions. Flying in this range can result in severe turbulence and even a stall, which can be extremely hazardous.
 
 For small, non-pressurized jets, flying at high altitudes can pose a risk of hypoxia, a medical condition characterized by a deficiency of oxygen reaching the body's tissues. It occurs when there is a decreased level of oxygen in the body, leading to inadequate oxygen supply to the cells and organs.
 
-Structural and aerodynamic limitations also impose constraints on an aircraft's maximum altitude. Pushing an aircraft to extreme altitudes could lead to structural damage or even failure, so aircraft manufacturers and regulatory authorities such as the Federal Aviation Administration work to establish safe operating limits.
+Structural and aerodynamic limitations also impose constraints on an aircraft's maximum altitude. 
+
+So, yes, pushing an aircraft too high could lead to structural damages or even failure, so aircraft manufacturers and regulatory authorities work to establish safe operating limits.
 
 Sources: 
 
