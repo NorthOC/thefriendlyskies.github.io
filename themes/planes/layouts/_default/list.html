@@ -6,13 +6,9 @@
 {{ define "main" -}}
   <div class="fit-content">
     {{ .Content }}
-    {{ if .Param "is_tag_list" }}
-      {{ partial "taglist.html" . }}
-    {{ else }}
-      {{range .Pages}}
-        {{if .Params.is_article }} {{- partial "article_card.html" . -}} {{end}}
-      {{end}}
-    {{ end -}}
+    {{range .Pages}}
+      {{if .Params.is_article }} {{- partial "article_card.html" . -}} {{end}}
+    {{end}}
   </div>
 {{- end }}
 

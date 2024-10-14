@@ -2,7 +2,7 @@ baseURL = 'https://thefriendlyskies.net'
 languageCode = 'en-us'
 title = 'The Friendly Skies'
 theme = 'planes'
-copyright = '© {year} The Friendly Skies. All rights reserved.'
+copyright = '© 2022-{year} The Friendly Skies. All rights reserved.'
 
 [params]
   favicon = "/favicon.ico"
@@ -16,9 +16,9 @@ copyright = '© {year} The Friendly Skies. All rights reserved.'
     url = "/"
     weight = 1
   [[menu.main]]
-    identifier = "tags"
-    name = "Tags"
-    url = "/tags/"
+    identifier = "advertising"
+    name = "Advertising"
+    url = "/advertising/"
     weight = 2
   [[menu.main]]
     identifier = "about"

@@ -284,3 +284,23 @@ table, td, th{
 td, th{
   padding: 10px;
 }
+
+/* Traffic table */
+
+#traffic-table{
+  display: flex;
+  justify-content: space-evenly;
+  gap: 10px;
+  margin-top: 30px;
+}
+.traffic-stat p{
+  margin: 0;
+}
+.traffic-stat .number{
+  font-size: 2.5rem;
+}
+.traffic-stat .description{
+  font-size: 0.8rem;
+  line-height: normal;
+  margin-top: 10px;
+}
