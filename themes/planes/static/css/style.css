@@ -304,3 +304,24 @@ td, th{
   line-height: normal;
   margin-top: 10px;
 }
+
+/* Social media list in footer */
+#socials-shell{
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  justify-content: center;
+}
+#socials-list{
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+#socials-list svg{
+  width: 20px;
+  height: 20px;
+}
+#socials-list svg:hover{
+  fill: var(--theme-a);
+  transition: 0.3s;
+}
