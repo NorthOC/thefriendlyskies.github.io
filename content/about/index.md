@@ -12,7 +12,7 @@ I call myself an aviation enthusiast, who loves travelling and exploring various
 
 ## What is this page about?
 
-This blog is about civil aviation, technical aspects of aircraft design, aerospace, my personal experiences with aviation and many more topics concerned with … yes, you guessed it, aviation!
+This website is about civil aviation, military aviation, technical aspects of aircraft design, aerospace, my personal experiences with aviation and many more topics concerned with… yes, you guessed it, aviation!
 
 ## How can I support your work?
 
