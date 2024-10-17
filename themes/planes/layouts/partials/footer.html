@@ -13,7 +13,7 @@
   </div>
 </div>
 <br>
-<p><a href="#nav">Go back to the top</a></p>
+<p><a href="" onclick="window.scrollTo({top: 0,left: 0,behavior: 'smooth'});">Go back to the top</a></p>
 <br>
 {{ if not (eq .Site.Copyright "") }}
 <span class="copyright">{{ replace .Site.Copyright "{year}" now.Year }}</span>
