@@ -10,7 +10,7 @@
 {{ define "main" }}
   <div class="fit-content">
     {{range .Site.RegularPages}}
-      {{if .Params.is_article }}
+      {{if and (.Params.is_article) (not .Params.draft)}}
         {{- partial "article_card.html" . -}}
       {{end}}
     {{end}}
