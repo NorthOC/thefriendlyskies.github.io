@@ -1,3 +1,6 @@
+<p><a href="" onclick="window.scrollTo({top: 0,left: 0,behavior: 'smooth'});">Go back to the top</a></p>
+<br>
+<br><br><br>
 <div id="socials-shell">
   <p>Connect with us:</p>
   <div id="socials-list">
@@ -13,7 +16,12 @@
   </div>
 </div>
 <br>
-<p><a href="" onclick="window.scrollTo({top: 0,left: 0,behavior: 'smooth'});">Go back to the top</a></p>
+<div class="footer-links">
+<a href="/">articles</a>
+  <a href="/privacy-policy">privacy policy</a>
+  <a href="/advertising">advertising</a>
+  <a href="/about">about</a>
+</div>
 <br>
 {{ if not (eq .Site.Copyright "") }}
 <span class="copyright">{{ replace .Site.Copyright "{year}" now.Year }}</span>
