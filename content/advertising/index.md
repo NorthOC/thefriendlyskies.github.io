@@ -24,4 +24,4 @@ In the last 12 months, Friendly Skies has grown by 570% in terms of active users
 
 Our team will work with you to develop a customized program, tailored to your specific needs. We'll guide you through every detail to ensure a smooth and successful campaign launch!
 
-For partnerships and other opportunities contact us at [rositamicsan@gmail.com](rositamicsan@gmail.com)
+For partnerships and other opportunities contact us at [rositamicsan@gmail.com](mailto:rositamicsan@gmail.com)
