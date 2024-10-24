@@ -9,9 +9,21 @@
 
 {{ define "main" }}
   <div class="fit-content">
+    {{ $counter := 0}}
+    {{ $pacing := slice 3 3 3 3 3 }}
+    {{ $idx := 0}}
+    {{ $ads := slice .Site.Data.ads }}
+
     {{range .Site.RegularPages}}
       {{if and (.Params.is_article) (not .Params.draft)}}
         {{- partial "article_card.html" . -}}
+        {{ $counter = add $counter 1 }}
+        {{if eq $counter (index $pacing $idx) }}
+          {{ partial "adsense.html" (dict "idx" $idx) }}
+          {{$counter = 0}}
+          {{ $idx = add $idx 1 }}
+        {{end}}
+
       {{end}}
     {{end}}
   </div>
