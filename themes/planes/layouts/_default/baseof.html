@@ -50,6 +50,14 @@
         {{ end }} | {{ end }}{{ .Site.Title }}" />
         <meta property="twitter:description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.meta_description }}{{ end }}"/>
         <meta property="twitter:image" content="https://thefriendlyskies.net{{ with .Params.thumb }}{{ . }}{{ else }}{{ .Site.Params.og }}{{ end }}"/>
+    
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-ES2129S2WS"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-ES2129S2WS');
+        </script>
     </head>
     <body>
         {{ if .Site.Menus.main }}{{ partial "nav.html" . }}{{ end }}
@@ -66,15 +74,6 @@
         <footer>
             {{ partial "footer.html" . }}
         </footer>
-
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-ES2129S2WS"></script>
-        <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'G-ES2129S2WS');
-        </script>
-
 
         {{ block "scripts" . }}{{ end }}
     </body>

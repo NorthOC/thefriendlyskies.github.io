@@ -312,13 +312,6 @@ table{
   width: 100%;
 
 }
-iframe{
-  display: block !important;
-  margin: auto !important;
-  width: 100%;
-  max-width: 560px;
-  max-height: 315px;
-}
 table, td, th{
   border: 1px solid;
 }
@@ -365,4 +358,8 @@ td, th{
 #socials-list svg:hover{
   fill: var(--theme-a);
   transition: 0.3s;
+}
+
+.ad-shell{
+  margin: 30px auto 50px;
 }
