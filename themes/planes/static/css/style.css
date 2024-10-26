@@ -359,7 +359,3 @@ td, th{
   fill: var(--theme-a);
   transition: 0.3s;
 }
-
-.ad-shell{
-  margin: 30px auto 50px;
-}
