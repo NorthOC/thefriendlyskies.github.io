@@ -5,7 +5,7 @@ description: "Explore the history of private jets, from the first ever private j
 date: 2024-10-24T22:00:00+15:00
 draft: false
 thumb: "/17102024/1.jpg"
-thumb_alt: ""
+thumb_alt: "Lockheed VC-140B JetStar"
 author: "rosita-mickeviciute"
 is_article: true
 ---
