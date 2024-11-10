@@ -363,4 +363,6 @@ td, th{
 .youtube-embed{
   display: block;
   margin: auto;
+  max-width: 560px;
+  width: 100%;
 }
