@@ -20,8 +20,14 @@ In the last 12 months, Friendly Skies has grown by 570% in terms of active users
 
 ## Available Services
 
-### Content Marketing
-
-Our team will work with you to develop a customized program, tailored to your specific needs. We'll guide you through every detail to ensure a smooth and successful campaign launch!
+Currently, The Friendly Skies website offers a couple of services, that can help your business grow.
 
 For partnerships and other opportunities contact us at [rositamicsan@gmail.com](mailto:rositamicsan@gmail.com)
+
+### 1) Content Marketing
+
+Our team will work with you to develop a customized article campaign, tailored to your specific needs. We'll guide you through every detail to ensure a smooth and successful campaign launch!
+
+### 2) Affiliate Banners
+
+For aviation-related businesses only. Our team will place your banner, with an affiliate link, at the top of each article page and help you reach your potential customers.

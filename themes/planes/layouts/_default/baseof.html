@@ -62,7 +62,7 @@
     <body>
         {{ if .Site.Menus.main }}{{ partial "nav.html" . }}{{ end }}
 
-        <div class='flex-grow {{if in .Params.tags "manual"}}manual{{end}} {{if .Params.is_article }}content{{end}}'>
+        <div class='flex-grow {{if in .Params.tags "manual"}}manual{{end}}'>
             <header>
                 {{ block "header" . }}{{ end }}
             </header>
