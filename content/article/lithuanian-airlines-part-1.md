@@ -26,7 +26,7 @@ Air passenger services in Lithuania officially began in 1922, but until 1938, th
 
 ## Lithuanian Air Lines start their operations
 
-On September 20, 1938, "Lietuvos oro linijos" (Lithuanian Air Lines) was established in Kaunas. The airline operated with two seven-seater "Percival Q.6 Petrel" airplanes purchased from England, launching both [commercial and government flights](https://www.plienosparnai.lt/page.php?282) between Kaunas, Palanga, and Riga. 
+On September 20, 1938, Lithuanian Air Lines was established in Kaunas. The airline operated with two seven-seater "Percival Q.6 Petrel" airplanes purchased from England, launching both [commercial and government flights](https://www.plienosparnai.lt/page.php?282) between Kaunas, Palanga, and Riga. 
 
 ### It’s fleet
 
@@ -48,7 +48,7 @@ The [first flight of Lithuanian Air Lines](https://geografija.lt/2013/11/prisime
 
 [Significant improvements](https://lithuanianphilately.com/postal-history/first-flight-kaunas-palanga-1939/) were made to the Palanga airfield, including constructing a passenger terminal, an airline office, and a radio station for communication with planes in flight. Regular service on the Kaunas–Palanga route was officially launched on June 3, 1939 and continued until late autumn. That same year, Lithuanian Air Lines introduced its first international flight to Spilve Airport in Riga, Latvia. During this time, the airline completed 216 flights on the Kaunas–Palanga route,[ transporting 764 passengers](https://www.vle.lt/straipsnis/lietuvos-oro-transportas/), 3,546 kg of luggage, and 3,476 kg of mail.
 
-In its first year, a ticket for the Kaunas–Palanga route cost 38 Litas. However, in the second year, the airline reduced the ticket price to 25 Litas to better compete with train fares.
+In its first year, a ticket for the Kaunas–Palanga route cost 38 Litas (11 euro today). However, in the second year, the airline reduced the ticket price to 25 Litas (7 euros) to better compete with train fares.
 
 {{< img src="/21112024/4.jpg" id="i\_plane" caption="Wikimedia" alt="Percival Q.6 aircraft being re-fueled">}}
 
