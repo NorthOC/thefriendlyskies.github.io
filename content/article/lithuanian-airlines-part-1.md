@@ -61,3 +61,5 @@ Following Lithuania's formal annexation by the Soviet Union on August 3, 1940, t
 A second attempt to establish a national airline for Lithuania came much later, in September 1991. This was after the country regained independence, and a new state-owned airline, Lithuanian Airlines, was founded.
 
 The story of this second attempt will be explored in next week’s Friendly Skies article, part two of the Lithuanian Airlines saga!
+
+{{< vid src="https://www.youtube.com/embed/JQHGN4HAcCE?si=5uVYth7MEyXE5vvm" >}}
