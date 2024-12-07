@@ -125,7 +125,7 @@ Sources:
 
 - [https://en.wikipedia.org/wiki/Douglas\_DC-3](https://en.wikipedia.org/wiki/Douglas\_DC-3)
 
-- [https://www.boeing.com/history/products/dc-3.page](https://www.boeing.com/history/products/dc-3.page)
+- [https://www.boeing.com/content/dam/boeing/boeingdotcom/history/pdf/Boeing-Chronology.pdf](https://www.boeing.com/content/dam/boeing/boeingdotcom/history/pdf/Boeing-Chronology.pdf)
 
 - [https://www.ddaysquadron.org/dc3-c47-aircraft](https://www.ddaysquadron.org/dc3-c47-aircraft)
 

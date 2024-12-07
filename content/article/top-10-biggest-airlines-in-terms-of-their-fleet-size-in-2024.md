@@ -50,7 +50,7 @@ Other aircraft in the [fleet](https://www.turkishairlines.com/en-int/flights/fly
 
 Air China, established in 1988, operates as the flag carrier of the People's Republic of China. It's part of the 'Big Three' mainland Chinese airlines, alongside China Southern Airlines and China Eastern Airlines. 
 
-With hubs located at Beijing Capital and Daxing International Airports, Air China plays a pivotal role in connecting China to [147 destinations across 37 countries worldwide](https://www.airchina.com.cn/en/info/travel-prep/destination-guide/index.shtml).
+With hubs located at Beijing Capital and Daxing International Airports, Air China plays a pivotal role in connecting China to 147 destinations across 37 countries worldwide.
 
 Air China's Boeing 737 takes the [lead in its diverse fleet](https://www.flightradar24.com/data/airlines/ca-cca/fleet). 
 
@@ -162,7 +162,7 @@ The [biggest in terms of units](https://www.flightradar24.com/data/airlines/fx-f
 
 Established in 1971, Southwest Airlines, headquartered in Dallas, Texas, holds the title of the world's largest low-cost airline.
 
-The airline serves [121 destinations across 12 countries](https://www.flightconnections.com/route-map-southwest-airlines-wn), including the US, Mexico, Puerto Rico, Central America, and the Caribbean. With 12 operating bases, Southwest is responsible for [over 4,000 daily flights](https://swamedia.com/pages/corporate-fact-sheet).
+The airline serves [121 destinations across 12 countries](https://www.flightconnections.com/route-map-southwest-airlines-wn), including the US, Mexico, Puerto Rico, Central America, and the Caribbean. With 12 operating bases, Southwest is responsible for over 4,000 daily flights.
 
 The airline only operates [two types of aircraft](https://www.flightradar24.com/data/airlines/wn-swa/fleet): Boeing 737 and Boeing 737 MAX 8.
 
