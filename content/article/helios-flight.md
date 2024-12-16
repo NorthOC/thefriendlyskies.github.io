@@ -1,6 +1,6 @@
 ﻿---
-title: "Helios Flight 522: remembering the tragic ‘ghost flight"
-meta_title: "Helios Flight 522: remembering the tragic ‘ghost flight"
+title: "Helios Flight 522: remembering the tragic ghost flight"
+meta_title: "Helios Flight 522: remembering the tragic ghost flight"
 description: "Helios Flight 522 is one of the most chilling disasters in aviation history. What happened on August 14, 2005? Did one switch cause the Boeing 737 to crash?"
 date: 2024-12-14T11:00:00+15:00
 draft: false
