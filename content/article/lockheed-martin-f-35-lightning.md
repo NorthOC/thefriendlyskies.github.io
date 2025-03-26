@@ -14,7 +14,7 @@ is_article: true
 
 The [Lockheed Martin F-35 Lightning II](https://thefriendlyskies.net/article/difference-between-f22-f35/) is a cutting-edge fifth-generation multi-role stealth fighter aircraft, specifically developed to meet the evolving demands of modern air warfare. With its advanced technology and versatility, the F-35 has become a key asset for numerous air forces around the world.
 
-Let’s look at its origin, design, performance, variants, price and operators of this relatively new aircraft.
+Let’s look at its origin, design, performance, variants, price, operators and future development of this relatively new aircraft.
 
 ## History
 
@@ -35,7 +35,7 @@ The F-35 program includes four primary variants, each tailored to the specific n
 
 ## F-35: designed for multirole operations
 
-The F-35 was designed to excel in several key mission areas, including air-to-air combat, air-to-ground strikes, electronic warfare, intelligence, surveillance, reconnaissance and close air support. Its mission versatility is achieved through its ability to carry a wide range of weapons, advanced sensors and stealth capabilities, allowing it to operate in highly contested environments.
+The F-35 was designed to excel in several key mission areas, including air-to-air combat, air-to-ground strikes, electronic warfare (EW), intelligence, surveillance, reconnaissance and close air support. Its mission versatility is achieved through its ability to carry a wide range of weapons, advanced sensors and stealth capabilities, allowing it to operate in highly contested environments.
 
 ## Stealthy and modern design
 
@@ -45,7 +45,7 @@ The F-35 features a modern, stealthy design that reduces its radar cross-section
 
 ## F-35 Lightning II: performance facts
 
-- The F-35 can reach a speed of 806 mph (1,296 km/h) or Mach 1.6 and operate at altitudes exceeding 50,000 ft.
+- The F-35 can reach a speed of 1,228 mph (1,960 km/h) or Mach 1.6 and operate at altitudes exceeding 50,000 ft.
 - Its combat radius varies between variants, with the F-35C having the longest range of 670 nm (1,241 km).
 - The aircraft is equipped with a single Pratt & Whitney F135-PW-100 turbofan engine, which delivers 28,000 lbf (125 kN) of thrust without afterburner and 43,000 lbf (191 kN) with it.
 - The aircraft can carry a mix of air-to-air and air-to-ground artillery both internally and externally.
@@ -75,5 +75,13 @@ However, it's important to note that the [price varies](https://time.com/7269375
 ## Current operators of F-35 and deliveries
 
 The aircraft is currently in active service with various air forces and navies around the world. Its operators include the United States (USAF, USMC, USN), the United Kingdom, Netherlands, Italy, Denmark, Belgium, Norway, South Korea, Japan, Israel and Australia. Also, At least nine countries have placed orders for the F-35 in the near future. As of 2025, the number of units built had [exceeded 1,100 aircraft](https://www.f35.com/f35/about/fast-facts.html). 
+
+## Future development 
+
+F-35s software was developed as six releases, or Blocks, for System Development and Demonstration (SDD). Block 3F marks the final build of the SDD phase, shifting attention to the next major upgrade: Block 4, starting development in 2019. The goal of Block 4 is to integrate a series of enhancements, including additional weapons, improved sensors, and EW capabilities. It is entering service in incremental steps, starting in the late 2020s and continuing into the [early 2030s](https://euro-sd.com/2024/07/major-news/39170/f-35-the-future-or-trainwreck/).
+
+Key improvements in Block 4 include the integration of the AN/APG-85 AESA radar, a new radar system designed to [offer superior performance](https://web.archive.org/web/20200731040956/https://www.defenseworld.net/news/24904/Lockheed_Martin_Awarded__1_8_Billion_for_F_35_Block_4_Development#.XyOZrOzP32c) in EW and target tracking. Additionally, Block 4 will expand the aircraft’s weapon capacity to include systems unique to international customers, and it will incorporate improvements to the aircraft's Electronic Support Measures bandwidth and the ability to use Remotely Operated Video Enhanced Receiver support for enhanced communications.
+
+One of the key enablers of Block 4 is the Technology Refresh 3 (TR-3) avionics hardware. This upgrade includes new display systems, a more powerful core processor, and increased memory modules, all designed to support the increased processing power required for the new mission systems. In addition to avionics updates, the TR-3 upgrade also includes an engine modification to support higher cooling capacity, which is necessary for the new, more demanding systems.
 
 {{< vid src="https://www.youtube.com/embed/PyxBVuiq2NY?si=UfrcbYox00thSO6_" >}}
