@@ -2,7 +2,7 @@
 title: "Lockheed Martin F-35 Lightning II: its history, performance and future"
 meta_title: "Lockheed Martin F-35 Lightning II: its history, performance and future"
 description: "What role does this fifth-generation stealth aircraft play in modern air warfare? Meet Lockheed Martin F-35 Lighting, a multirole strike fighter used by USAF."
-date: 2025-03-02T11:00:00+15:00
+date: 2025-03-25T11:00:00+15:00
 draft: false
 thumb: "/25032025/cover.jpg"
 thumb_alt: "U.S. Air Force pilot navigates an F-35A Lightning II aircraft"
