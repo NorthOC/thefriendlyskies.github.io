@@ -1,7 +1,7 @@
 ﻿---
-title: "Top 10 fastest fighter jets in the world ever built"
-meta_title: "Top 10 fastest fighter jets of all time"
-description: "From interceptors to air superiority fighters, find out which aircraft exceed the Mach 2 speed limit. Discover the top 10 fastest fighter jets ever built."
+title: "Top 10 fastest aircraft in the world ever built"
+meta_title: "Top 10 fastest aircraft of all time"
+description: "From fighter jets to rocket-powered aircraft, find out planes that exceed the Mach 2 speed limit. Discover the top 10 fastest aircraft ever built."
 date: 2025-04-03T11:00:00+15:00
 draft: false
 thumb: "/03042025/cover.jpg"
@@ -12,7 +12,7 @@ is_article: true
 
 {{< img src="/03042025/cover.jpg" id="i\_plane" caption="US Air Force / Wikimedia" alt="F-100D Super Sabre aircraft in the sky">}}
 
-As of 2025, the Mikoyan-Gurevich MiG-25 remains the fastest fighter jet still in service, capable of reaching Mach 2.83. But what about the fastest fighter jets of all time?
+As of 2025, the Mikoyan-Gurevich MiG-25 remains the fastest fighter jet still in service, capable of reaching Mach 2.83.
 
 The history of supersonic fighter jets dates back to the 1950s. The Douglas F4D Skyray was the first naval fighter to [break the sound barrier](https://www.youtube.com/watch?v=F9as8wth8UI) in level flight, reaching a top speed of 752.9 mph (1,211.7 km/h) or Mach 1 on October 3, 1953. Meanwhile, the first jet fighter aircraft [to achieve Mach 1](https://airandspace.si.edu/collection-objects/north-american-f-100d-super-sabre/nasm_A19781577000) was the North American F-100 Super Sabre, with a maximum speed of 924 mph (1,487 km/h) or Mach 1.4.
 
@@ -20,7 +20,7 @@ However, the first officially recognized manned flight to exceed the speed of so
 
 The Mikoyan-Gurevich I-350, introduced in 1951, was the first Soviet aircraft capable of maintaining supersonic speed, reaching Mach 1.02 (1,260 km/h, 780 mph), though some sources [question this claim](https://www.reddit.com/r/WeirdWings/comments/1f0mosz/mig_i350_the_supersonic_fresco/).
 
-With that in mind, let’s dive into the fastest fighter jets ever built, starting from 10th place and working our way to the fastest of all time.
+With that in mind, let’s dive into the fastest aircraft ever built, starting from 10th place and working our way to the fastest of all time.
 
 ## 10. Sukhoi Su-27
 
@@ -34,7 +34,7 @@ Featured among the [fastest fighter jets still in service in 2025](https://thefr
 
 ### Max Speed: Mach 2.5 (1,650 mph, 2,655 km/h)
 
-Also featured among the fastest fighter jets, the F-15 Eagle is a fourth-generation aircraft still actively operated by the USAF, Israel, Japan, Qatar, South Korea, Saudi Arabia, and Singapore. With 919 active units and additional orders placed, it ranks as the [third most widely used fighter jet](https://www.flightglobal.com/defence/2025-world-air-forces-directory/160846.article) in service worldwide as of 2025.
+Also featured among the fastest aircraft, the F-15 Eagle is a fourth-generation aircraft still actively operated by the USAF, Israel, Japan, Qatar, South Korea, Saudi Arabia, and Singapore. With 919 active units and additional orders placed, it ranks as the [third most widely used fighter jet](https://www.flightglobal.com/defence/2025-world-air-forces-directory/160846.article) in service worldwide as of 2025.
 
 {{< img src="/03042025/2.jpg" id="i\_plane" caption="(U.S. Air Force photo by Staff Sgt. Tony R. Tolley) / Wikimedia" alt="f-15 strike eagle">}}
 
@@ -48,7 +48,7 @@ One of the F-111’s most notable features was its variable-geometry wings, maki
 
 With a top speed of Mach 2.5, the General Dynamics F-111 Aardvark set a record for the [longest low-level supersonic flight](https://www.lockheedmartin.com/en-us/news/features/history/f-111.html) in November 1966, covering 172 miles (277 kilometers) at an altitude of less than 1,000 feet (304 metres).
 
-While the exact number of air-to-air victories remains uncertain, the F-111 flew [more than 4,000 combat missions](https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195844/f-111a-in-southeast-asia/) during the Vietnam War, where it played a significant role in precision strikes.
+The F-111 flew [more than 4,000 combat missions](https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195844/f-111a-in-southeast-asia/) during the Vietnam War, where it played a significant role in precision strikes. On January 17, 1991, an EF-111A crew scored an [unofficial kill] (https://tacairnet.com/2013/09/10/unarmed-kill/) by forcing an Iraqi Mirage F1 to crash, making it the only F-111 variant to achieve an air-to-air victory.
 
 ### Main Variants
 
