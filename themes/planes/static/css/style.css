@@ -368,16 +368,21 @@ td, th{
 /* Traffic table */
 
 #traffic-table{
-  display: flex;
-  justify-content: space-evenly;
-  gap: 10px;
+  display: grid;
   margin: 30px auto;
+  grid-template-columns: 1fr 1fr 1fr;
+  color: var(--theme-active);
+  justify-items: center;
+}
+#traffic-table .traffic-stat{
+  display: flex;
+  flex-direction: column;
 }
 .traffic-stat p{
   margin: 0;
 }
 .traffic-stat .number{
-  font-size: 2.5rem;
+  font-size: 1.5rem;
 }
 .traffic-stat .description{
   font-size: 0.8rem;

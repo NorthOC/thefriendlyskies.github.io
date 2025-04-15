@@ -1,6 +1,6 @@
 baseURL = 'https://thefriendlyskies.net'
 languageCode = 'en-us'
-title = 'The Friendly Skies'
+title = 'The Friendly Skies - all about commercial, general & military aviation'
 theme = 'planes'
 copyright = '© 2022-{year} The Friendly Skies. All rights reserved.'
 
