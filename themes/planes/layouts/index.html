@@ -1,9 +1,6 @@
 {{ define "header" }}
-  <h1 id="index-title" class="italic">
-    <span class="alt-logo">{{ .Title | upper }}</span>
-    <img src="/title.webp" id="site-title-img" alt="The Friendly Skies">
-  </h1>
-  <small class="homepage-caption">This website is about civil aviation, technical aspects of aircraft design, aerospace, my personal experiences with aviation and many more topics concerned with … yes, you guessed it, aviation!</small>
+<div id="affiliate-banner">
+</div>
 {{ end }}
 
 
@@ -32,4 +29,5 @@
 {{ define "scripts" }}
   <script defer src="/js/get_views.js"></script>
   <script async src="/js/register_view.js"></script>
+  <script defer src="/js/affiliate_swap.js"></script>
 {{ end }}
