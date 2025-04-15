@@ -13,4 +13,7 @@
 
 {{ define "scripts" }}
   <script async src="/js/register_view.js"></script>
+  {{ if .Params.is_article }}
+  <script defer src="/js/affiliate_swap.js"></script>
+  {{ end }}
 {{ end }}
