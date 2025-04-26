@@ -8,9 +8,6 @@ thumb: "/30052024/cover.jpg"
 thumb_alt: "view of Lukla village and Lukla airport"
 author: "rosita-mickeviciute"
 is_article: true
-tags:
-- history
-- airports
 ---
 
 {{< img src="/30052024/cover.jpg" id="i_plane" caption="Daniel Prudek / Shutterstock" alt="view of Lukla village and Lukla airport">}}

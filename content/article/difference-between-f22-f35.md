@@ -8,10 +8,6 @@ thumb: "/25092024/cover.jpg"
 thumb_alt: "F-35 aircraft"
 author: "rosita-mickeviciute"
 is_article: true
-tags:
-- history
-- military
-- aircraft
 ---
 {{< img src="/25092024/cover.jpg" id="i_plane" caption="Liz Lutz / Wikimedia" alt="F-35 flying in the sky">}}
 

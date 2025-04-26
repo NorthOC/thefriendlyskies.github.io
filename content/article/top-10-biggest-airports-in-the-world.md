@@ -7,9 +7,6 @@ thumb: "/27082023/cover.jpeg"
 thumb_alt: "Highly edited photo of airport with planes and buildings in the background"
 author: "rosita-mickeviciute"
 is_article: true
-tags:
-- airports
-- top 10
 ---
 
 {{< img src="/27082023/cover.jpeg" id="" caption="Nate Hovee / Shutterstock" alt="Nate Hovee / Shutterstock">}}

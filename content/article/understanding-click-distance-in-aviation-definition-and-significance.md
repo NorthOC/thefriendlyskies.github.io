@@ -7,9 +7,6 @@ thumb: "/07102023/cover.jpeg"
 thumb_alt: "jets chilling in the airport in a formation"
 author: "rosita-mickeviciute"
 is_article: true
-tags:
-- military
-- general
 ---
 
 {{< img src="/07102023/cover.jpeg" id="" caption="" alt="jets chilling in the airport in a formation">}}

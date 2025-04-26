@@ -7,8 +7,6 @@ thumb: "/25012024/cover.jpg"
 thumb_alt: "Man is smoking electronic cigarette or vaporizer."
 author: "rosita-mickeviciute"
 is_article: true
-tags:
-- guides
 ---
 {{< img src="/25012024/cover.jpg" id="i_plane" caption="Man is smoking electronic cigarette or vaporizer" alt="Man is smoking electronic cigarette or vaporizer.">}}
 

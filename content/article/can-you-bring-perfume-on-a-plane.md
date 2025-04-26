@@ -7,8 +7,6 @@ thumb: "/14022024/cover.jpeg"
 thumb_alt: "Woman testing and choosing to buy perfume in duty-free store"
 author: "rosita-mickeviciute"
 is_article: true
-tags:
-- guides
 ---
 {{< img src="/14022024/cover.jpeg" id="i_plane" caption="Woman testing and choosing to buy perfume in duty-free store" alt="Woman testing and choosing to buy perfume in duty-free store">}}
 

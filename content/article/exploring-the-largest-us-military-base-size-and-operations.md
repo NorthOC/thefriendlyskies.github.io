@@ -7,10 +7,6 @@ thumb: "/06092023/pic0.jpeg"
 author: "rosita-mickeviciute"
 thumb_alt: "Side shot of soldier firing AR-15"
 is_article: true
-tags:
-- military
-- history
-- united states
 ---
 
 {{< img src="/06092023/pic0.jpeg" id="" caption="" alt="Side shot of soldier firing AR-15">}}

@@ -7,11 +7,6 @@ thumb: "/19012023/pic1.jpeg"
 thumb_alt: "The white inside cabin of ACJ"
 author: "rosita-mickeviciute"
 is_article: true
-tags:
-- business
-- airbus
-- aircraft
-- 220
 ---
 {{< img src="/19012023/pic1.jpeg" id="i_plane" caption="Airbus ACJ 220" alt="The white inside cabin of ACJ">}}
 

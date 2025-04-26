@@ -8,10 +8,6 @@ thumb: "/23062024/cover.jpg"
 thumb_alt: "Arrival in the city with the glass airport terminal and reflection of the plane"
 author: "rosita-mickeviciute"
 is_article: true
-tags:
-- history
-- airports
-- guides
 ---
 
 {{< img src="/23062024/cover.jpg" id="i\_plane" caption="Skorzewiak / Shutterstock" alt=" Arrival in the city with the glass airport terminal and reflection of the plane">}}

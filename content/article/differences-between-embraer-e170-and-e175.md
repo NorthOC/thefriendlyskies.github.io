@@ -7,9 +7,6 @@ thumb: "/18022023/embraer-e170.jpg"
 thumb_alt: "LOT Polish Airlines E170"
 author: "rosita-mickeviciute"
 is_article: true
-tags:
-- embraer
-- aircraft
 ---
 {{< img src="/18022023/embraer-e170.jpg" id="i_plane" caption="LOT Polish Airlines E170" alt="LOT Polish Airlines E170">}}
 

@@ -7,11 +7,6 @@ author: "rosita-mickeviciute"
 thumb: "/18022023/airbus-a350-941.webp"
 thumb_alt: "Aeroflot A350-900"
 is_article: true
-tags:
-- airlines
-- airbus
-- a350
-- Russia
 ---
 {{< img src="/18022023/airbus-a350-941.webp" id="i_plane" caption="Aeroflot A350-900" alt="Aeroflot A350-900">}}
 

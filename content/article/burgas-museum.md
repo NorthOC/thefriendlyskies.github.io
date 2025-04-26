@@ -8,10 +8,6 @@ thumb: "/19072024/cover.jpg"
 thumb_alt: "Ilyushin Il-12 facing front"
 author: "rosita-mickeviciute"
 is_article: true
-tags:
-- history
-- guides
-- aircraft
 ---
 
 {{< img src="/19072024/cover.jpg" id="i_plane" caption="Photo taken by Rosita Mickeviciute, 2024" alt="Ilyushin Il-12 facing front">}}

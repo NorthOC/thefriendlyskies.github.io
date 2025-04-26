@@ -8,8 +8,6 @@ thumb: "/13042024/cover.jpg"
 thumb_alt: "Male pilot in cockpit"
 author: "rosita-mickeviciute"
 is_article: true
-tags:
-- guides
 ---
 {{< img src="/13042024/cover.jpg" id="i_plane" caption="Johnpilot / Wikimedia" alt="Male pilot in cockpit">}}
 

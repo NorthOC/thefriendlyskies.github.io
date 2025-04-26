@@ -8,9 +8,6 @@ thumb: "/02102024/cover.jpg"
 thumb_alt: "View from the commercial airliners window"
 author: "rosita-mickeviciute"
 is_article: true
-tags:
-- general
-- aircraft
 ---
 {{< img src="/02102024/cover.jpg" id="i_plane" caption="Wouter Engler / Wikimedia" alt="View from the commercial airliners window">}}
 

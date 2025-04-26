@@ -8,8 +8,6 @@ thumb: "/04042024/cover.jpg"
 thumb_alt: "Falcon 6X on test at Bordeaux-Mérignac airport"
 author: "rosita-mickeviciute"
 is_article: true
-tags:
-- aircraft
 ---
 {{< img src="/04042024/cover.jpg" id="i_plane" caption="Falcon 6X on test at Bordeaux-Mérignac airport" alt="Falcon 6X on test at Bordeaux-Mérignac airport">}}
 
