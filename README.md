@@ -1,0 +1,1 @@
+--baseURL "${{ steps.pages.outputs.base_url }}/"
