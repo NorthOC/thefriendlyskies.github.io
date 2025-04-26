@@ -47,7 +47,7 @@ The Cessna 408 SkyCourier boasts a maximum cruise speed of 210 knots (390 km), a
 
 ## In 2023, the [freighter version was priced at $7.195 million](https://infogram.com/bca-table-2023-turboprops-1ho16vorwrxm84n), while the passenger version cost slightly more, $7.745 million.
 
-{{< img src="/04042024/1.jpg" id="i_plane" caption="H. Michael Miley / Wikimedia" alt=" SkyCourier">}}
+{{< img src="/04042024/2.jpg" id="i_plane" caption="H. Michael Miley / Wikimedia" alt=" SkyCourier">}}
 
 ### King Air 360 and 360ER
 The Beechcraft Super King Air family comprises a range of twin-turboprop aircraft manufactured by Beechcraft. Since its introduction to the civilian sector in 1974, it has become a highly reliable aircraft company. 
@@ -62,7 +62,7 @@ The King Air 360 operates with a maximum cruise speed of 312 kn (578 km) and a m
 
 The price for the new King Air 360 is [around $8.5 million](https://www.aircraftcostcalculator.com/AircraftOperatingCosts/732/Beechcraft+King+Air+360), and for the 360 ER, it's a little bit more at [around $8.9 million](https://www.aircharteradvisors.com/king-air-360/).
 
-{{< img src="/04042024/1.jpg" id="i_plane" caption="Universe59 / Wikimedia" alt=" Collins Pro Line Fusion avionics in a King Air 360 cockpit">}}
+{{< img src="/04042024/3.jpg" id="i_plane" caption="Universe59 / Wikimedia" alt=" Collins Pro Line Fusion avionics in a King Air 360 cockpit">}}
 ### HondaJet Elite II
 
 The HondaJet is a very light business jet manufactured by Honda Aircraft Company. While Honda is a Japanese multinational corporation, the HondaJet was developed and manufactured in the United States.
@@ -73,7 +73,7 @@ The jet features a Garmin G3000 (newer version of G1000) integrated flight deck,
 
 In its typical configuration, the HondaJet accommodates either 1 crew member and 6 passengers or 2 crew members and 5 passengers. Alternatively, it can be configured to carry 1 crew member and 7 passengers or 2 crew members and 6 passengers. The approximate cost of the aircraft is [around $7 million](https://flyvolato.com/how-much-does-hondajet-cost/).
 
-{{< img src="/04042024/1.jpg" id="i_plane" caption="ZLEA / Wikimedia" alt=" Honda HA-420 HondaJet Elite II at 2023 EAA AirVenture Oshkosh, Wittman Regional Airport">}}
+{{< img src="/04042024/4.jpg" id="i_plane" caption="ZLEA / Wikimedia" alt=" Honda HA-420 HondaJet Elite II at 2023 EAA AirVenture Oshkosh, Wittman Regional Airport">}}
 
 ### Daher TBM 960
 
@@ -85,4 +85,4 @@ The Daher TBM 960 price varies from [$4.6 to $4.9 million](https://sunsetais.com
 
 Operating with a maximum cruise speed of 326 kn (603 km) at 31,000 ft, the TBM offers a [maximum range of 1,730 nm](https://altivationaircraft.com/tbm-960/) (3,204 km). It is designed for a crew of two pilots and is capable of accommodating up to six passengers.
 
-{{< img src="/04042024/1.jpg" id="i_plane" caption=" Matti Blume / Wikimedia" alt=" Daher TBM 960 at EBACE 2023 at Palexpo, Le Grand-Saconnex">}}
+{{< img src="/04042024/5.jpg" id="i_plane" caption=" Matti Blume / Wikimedia" alt=" Daher TBM 960 at EBACE 2023 at Palexpo, Le Grand-Saconnex">}}
