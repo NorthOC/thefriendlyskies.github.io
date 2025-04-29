@@ -7,12 +7,6 @@ author: "rosita-mickeviciute"
 thumb: "/02042023/cover.jpg"
 thumb_alt: "Eurowings A320neo"
 is_article: true
-tags:
-- airbus
-- 737
-- aircraft
-- A320
-- boeing
 ---
 {{< img src="/02042023/cover.jpg" id="i_plane" caption="Eurowings A320neo" alt="Eurowings A320neo">}}
 

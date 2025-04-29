@@ -7,11 +7,6 @@ thumb: "/29052023/1.jpg"
 thumb_alt: "Douglas DC-3 flying in the air. Image from 45 degree angle."
 author: "rosita-mickeviciute"
 is_article: true
-tags:
-- douglas
-- aircraft
-- history
-- dc-3
 ---
 {{< img src="/29052023/1.jpg" id="" caption="Roberto Chiartano / Shutterstock" alt="Douglas DC-3 flying in the air. Image from 45 degree angle.">}}
 

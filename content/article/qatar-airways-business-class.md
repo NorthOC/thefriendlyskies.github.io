@@ -8,9 +8,6 @@ thumb: "/20052024/cover.jpg"
 thumb_alt: "Qatar Airways Airbus A380"
 author: "rosita-mickeviciute"
 is_article: true
-tags:
-- airlines
-- guides
 ---
 
 {{< img src="/20052024/cover.jpg" id="i_plane" caption="M101Studio / Shutterstock" alt="Qatar Airways Airbus A380">}}

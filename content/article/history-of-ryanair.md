@@ -7,8 +7,6 @@ thumb: "/06032024/cover.jpg"
 thumb_alt: "Passengers boarding a Ryanair commercial airplane at Milan Malpensa Airport in Italy"
 author: "rosita-mickeviciute"
 is_article: true
-tags:
-- ryanair
 ---
 
 {{< img src="/06032024/cover.jpg" id="i_plane" caption="Passengers boarding Ryanair airplane" alt="Passengers boarding a Ryanair commercial airplane at Milan Malpensa Airport in Italy">}}

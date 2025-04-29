@@ -8,9 +8,6 @@ thumb: "/30042024/cover.jpg"
 thumb_alt: "Delta planes parked at the airport gates"
 author: "rosita-mickeviciute"
 is_article: true
-tags:
-- airlines
-- top 10
 ---
 
 {{< img src="/30042024/cover.jpg" id="i_plane" caption="JHVEPhoto / Shutterstock" alt="Delta planes parked at the airport gates">}}

@@ -7,9 +7,6 @@ thumb: "/18022023/aircraft_being_fueled.jpg"
 thumb_alt: "A US Airways Boeing 757 being fueled at Fort Lauderdale–Hollywood International Airport"
 author: "rosita-mickeviciute"
 is_article: true
-tags:
-- fuel
-- aircraft
 ---
 {{< img src="/18022023/aircraft_being_fueled.jpg" id="i_plane" caption="A US Airways Boeing 757 being fueled at Fort Lauderdale–Hollywood International Airport" alt="A US Airways Boeing 757 being fueled at Fort Lauderdale–Hollywood International Airport">}}
 

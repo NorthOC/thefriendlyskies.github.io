@@ -7,9 +7,6 @@ thumb: "/25072023/1.jpg"
 author: "rosita-mickeviciute"
 thumb_alt: "Flightradar24 app main view showing Europe"
 is_article: true
-tags:
-- guides
-- flightradar
 ---
 
 {{< note text="I am, in no way shape or form, associated with Flighradar24.">}}

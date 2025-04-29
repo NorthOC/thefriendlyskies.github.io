@@ -7,10 +7,6 @@ thumb: "/07012022/737_cockpit.webp"
 author: "rosita-mickeviciute"
 thumb_alt: "Boeing 737 MAX Cockpit"
 is_article: true
-tags:
-- guides
-- 737
-- boeing
 ---
 
 {{< note text="This is from my aviation knowledge only and I am not a pilot myself. Countless YouTube videos do not make me professional.I am not liable for what happens when you perform such a scenario in a real-life case.">}}

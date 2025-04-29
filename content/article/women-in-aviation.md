@@ -7,8 +7,6 @@ thumb: "/09032024/cover.jpg"
 thumb_alt: "Allied women pilots of the Air Transport Auxiliary service"
 author: "rosita-mickeviciute"
 is_article: true
-tags:
-- women
 ---
 {{< img src="/09032024/cover.jpg" id="i_plane" caption="Royal Air Force official photographer, Trievnor J (Plt Off) / Wikimedia" alt="Allied women pilots of the Air Transport Auxiliary service">}}
 
