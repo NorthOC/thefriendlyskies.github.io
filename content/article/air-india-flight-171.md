@@ -32,6 +32,8 @@ Eyewitnesses described hearing multiple explosions and seeing thick black smoke 
 
 Officials have not yet confirmed how many of the fatalities were passengers versus people on the ground. At least 60 medical students were inside the hostel when the crash occurred.
 
+{{< img src="/12062025/3.jpg" id="i\_plane" caption="Ministry of Home Affairs / Wikimedia" alt="A person on the ground that sustained injuries during the crash of Air India Flight 171.">}}
+
 ## Aircraft and Crew
 
 The aircraft, [registered as VT-ANB](https://flightradar24.com/data/aircraft/vt-anb), was an 11-year-old Boeing 787-8 Dreamliner powered by General Electric GEnx engines. This is the first fatal crash involving a 787 since the aircraft’s introduction in 2011.
@@ -43,19 +45,19 @@ The flight was commanded by Captain Sumeet Sabharwal and First Officer Clive Kun
 - **Portugal:** 7
 - **Canada:** 1
 
-Among the passengers was former Gujarat Chief Minister Vijay Rupani. His condition is currently unconfirmed.
+Among the passengers was former Gujarat Chief Minister Vijay Rupani. He is believed to have passed away. 
 
 ## Emergency Response
 
 Firefighters, paramedics, the CISF, and Indian Army personnel responded rapidly. The area was sealed off and flight operations at Ahmedabad Airport were suspended. A military hospital has been placed on standby.
-
-{{< img src="/12062025/1.jpg" id="i\_plane" caption="Masakatsu Ukon / Wikimedia" alt="The remaining hull of AI171, crashed near Ahmedabad Intl Airport, shortly after it">}}
 
 ## Investigation and Early Indicators
 
 India's Aircraft Accident Investigation Bureau (AAIB) and the Directorate General of Civil Aviation (DGCA) have launched full investigations. Initial reports indicate the crash occurred under clear weather conditions. The aircraft “began to plunge at 475 feet per minute” before impact (from flight data). The aircraft was also heavily fuelled for its long-haul journey, intensifying the post-crash fire.
 
 Aviation analysts have noted that flight data monitoring on the 787 is extensive and should provide clear insights once the flight recorders are recovered.
+
+{{< img src="/12062025/4.jpg" id="i\_plane" caption="Ministry of Home Affairs / Wikimedia" alt="Shri Amit Shah visits the crash site of Air India Flight 171.">}}
 
 ## Global Reactions
 
