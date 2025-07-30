@@ -4,13 +4,13 @@ meta_title: "Milan Airports guide: terminals, services and airlines"
 description: "Explore Milan's Airports: Bergamo, Linate and Malpensa. Discover their history, services, terminals and airlines. Travel to the fashion capital of the world."
 date: 2024-06-23T15:00:00+03:00
 draft: false
-thumb: "/23062024/cover.jpg"
+thumb: "/23062024/cover.webp"
 thumb_alt: "Arrival in the city with the glass airport terminal and reflection of the plane"
 author: "rosita-mickeviciute"
 is_article: true
 ---
 
-{{< img src="/23062024/cover.jpg" id="i\_plane" caption="Skorzewiak / Shutterstock" alt=" Arrival in the city with the glass airport terminal and reflection of the plane">}}
+{{< img src="/23062024/cover.webp" id="i\_plane" caption="Skorzewiak / Shutterstock" alt=" Arrival in the city with the glass airport terminal and reflection of the plane">}}
 
 A city renowned for its fashion, art, and culture, Milan is also a bustling hub of international travel. At the heart of Italy, it’s served by three major airports - Milan Malpensa, Milan Linate, and Bergamo Orio al Serio. Together, these airports serve as gateways to the fashion capital of the world, welcoming millions of travelers annually. 
 
@@ -22,7 +22,7 @@ In this comprehensive guide, I'll take you on a journey through the history, ter
 
 Milan Malpensa Airport ([MXP](https://www.milanomalpensa-airport.com/en/)), located 49 kilometers (30 miles) northwest of Milan, has a rich history dating back to 1910. Originally built to test aircraft prototypes, it became a civilian airport in 1948.
 
-{{< img src="/23062024/1.jpg" id="i\_plane" caption="Natanael Ginting / Shutterstock" alt="Milan Malpensa airport at sunrise">}} 
+{{< img src="/23062024/1.webp" id="i\_plane" caption="Natanael Ginting / Shutterstock" alt="Milan Malpensa airport at sunrise">}} 
 
 On February 2, 1950, Trans World Airlines (TWA) became the first to fly long-haul flights from Malpensa Airport. They used Lockheed Constellations for their services, connecting Malpensa to New York Idlewild Airport, now known as John F. Kennedy International Airport ([JFK](https://www.jfkairport.com/)). 
 
@@ -49,7 +49,7 @@ Malpensa is well connected to Milan and its surrounding areas. Travelers have a 
 
 *Note: The cheapest option is to travel by [Milan Airport Shuttle](https://milanairportshuttle.com/malpensa-airport-shuttle/) bus which **costs €10** for a one-way ticket.* 
 
-{{< img src="/23062024/2.jpg" id="i\_plane" caption="gnoparus / Shutterstock" alt="The Malpensa Express - an airport rail service">}}
+{{< img src="/23062024/2.webp" id="i\_plane" caption="gnoparus / Shutterstock" alt="The Malpensa Express - an airport rail service">}}
 
 ### Airlines and destinations
 #### Passenger airlines
@@ -70,7 +70,7 @@ The history of Milan Linate Airport ([LIN](http://www.milanolinate-airport.com/)
 
 In the 1930s, the airport was constructed next to Milan's Idroscalo (artificial lake). It commenced operations on October 21, 1937. The airport underwent complete reconstruction during the 1950s plus a further renovation in the 1980s.
 
-{{< img src="/23062024/3.jpg" id="i\_plane" caption="Alexandre Rotenberg / Shutterstock" alt="Airplane at Italy's Linate airport">}}
+{{< img src="/23062024/3.webp" id="i\_plane" caption="Alexandre Rotenberg / Shutterstock" alt="Airplane at Italy's Linate airport">}}
 
 ### Terminals
 
@@ -78,7 +78,7 @@ Linate Airport features a single terminal which is predominantly used for domest
 
 The airport is equipped with two runways, one measuring 2,442 meters (8,012 feet) and the other 601 meters (1,972 feet). Linate also has a helipad, spanning 28 meters (92 feet).
 
-{{< img src="/23062024/4.jpg" id="i\_plane" caption="Sorbis / Shutterstock" alt="aerial view from aircraft after take-off from Milan Linate Airport">}}
+{{< img src="/23062024/4.webp" id="i\_plane" caption="Sorbis / Shutterstock" alt="aerial view from aircraft after take-off from Milan Linate Airport">}}
 
 ### Services
 
@@ -118,7 +118,7 @@ Despite its focus on low-cost travel, Bergamo Airport provides popular amenities
 
 The airport is connected to Milan and other nearby cities via efficient transportation services, including buses and taxis. 
 
-{{< img src="/23062024/5.jpg" id="i\_plane" caption="szmuli / Shutterstock" alt="Bergamo city view">}}
+{{< img src="/23062024/5.webp" id="i\_plane" caption="szmuli / Shutterstock" alt="Bergamo city view">}}
 
 Now a railway station is being built at Bergamo Airport and is expected to be [operational by 2026](https://www.businesstraveller.com/business-travel/2023/07/19/milan-bergamo-begins-work-on-airport-rail-station/). Right now, the closest existing railway station is Bergamo Railway Station, located 5.6 kilometers (3.5 miles) away.
 
@@ -132,7 +132,7 @@ Bergamo Airport is a hub for low-cost carrier Ryanair and Italian airline AeroIt
 
 In 2023, Bergamo Airport served nearly [16 million passengers](https://airserviceone.com/milan-bergamo-airport-reaches-milestone-with-record-breaking-2023/).
 
-{{< img src="/23062024/6.jpg" id="i\_plane" caption="Fabio Michele Capelli / Shutterstock" alt="ryanair Plane that is taking off in the airport of Bergamo">}}
+{{< img src="/23062024/6.webp" id="i\_plane" caption="Fabio Michele Capelli / Shutterstock" alt="ryanair Plane that is taking off in the airport of Bergamo">}}
 
 #### Cargo airlines
 

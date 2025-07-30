@@ -3,12 +3,12 @@ title: "What are the differences between Embraer E170 and E175 models?"
 description: "Discover the distinctions between Embraer's E170 and E175 models. Our comprehensive guide explores differences in performance, dimensions, and orders."
 date: 2023-01-07T20:13:10+02:00
 draft: false
-thumb: "/18022023/embraer-e170.jpg"
+thumb: "/18022023/embraer-e170.webp"
 thumb_alt: "LOT Polish Airlines E170"
 author: "rosita-mickeviciute"
 is_article: true
 ---
-{{< img src="/18022023/embraer-e170.jpg" id="i_plane" caption="LOT Polish Airlines E170" alt="LOT Polish Airlines E170">}}
+{{< img src="/18022023/embraer-e170.webp" id="i_plane" caption="LOT Polish Airlines E170" alt="LOT Polish Airlines E170">}}
 
 Embraer's E-Jet family has become a common aircraft for regional flying across the world since it was first introduced in 2004. The Brazilian manufacturer has delivered nearly 1,700 E-Jets as of November 2022, which includes aircraft from the latest E2 family. Among the E-Jet models, the E170 and E175 are the smallest. So, let's examine and explore the differences between them.
 

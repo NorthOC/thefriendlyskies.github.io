@@ -4,13 +4,13 @@ meta_title: "Top 10 fastest aircraft of all time"
 description: "From fighter jets to rocket-powered aircraft, find out planes that exceed the Mach 2 speed limit. Discover the top 10 fastest aircraft ever built."
 date: 2025-04-03T11:00:00+15:00
 draft: false
-thumb: "/03042025/cover.jpg"
+thumb: "/03042025/cover.webp"
 thumb_alt: "F-100D Super Sabre aircraft in the sky"
 author: "rosita-mickeviciute"
 is_article: true
 ---
 
-{{< img src="/03042025/cover.jpg" id="i\_plane" caption="US Air Force / Wikimedia" alt="F-100D Super Sabre aircraft in the sky">}}
+{{< img src="/03042025/cover.webp" id="i\_plane" caption="US Air Force / Wikimedia" alt="F-100D Super Sabre aircraft in the sky">}}
 
 As of 2025, the Mikoyan-Gurevich MiG-25 remains the fastest fighter jet still in service, capable of reaching Mach 2.83.
 
@@ -28,7 +28,7 @@ With that in mind, let’s dive into the fastest aircraft ever built, starting f
 
 Featured among the [fastest fighter jets still in service in 2025](https://thefriendlyskies.net/article/fastest-fighter-jets-in-2025/), the Su-27 is a Russian fourth-generation fighter jet and part of the larger Su-27/30/34/35 family. As of 2025, this series ranks as the [second most widely used fighter jet](https://www.flightglobal.com/defence/2025-world-air-forces-directory/160846.article) type in service worldwide, with 1,284 active units. The largest operators include China, India, and Russia.
 
-{{< img src="/03042025/1.jpg" id="i\_plane" caption="Moonhunterofindia / Wikimedia" alt="sukhoi su-27">}}
+{{< img src="/03042025/1.webp" id="i\_plane" caption="Moonhunterofindia / Wikimedia" alt="sukhoi su-27">}}
 
 ## 9. McDonnell Douglas F-15 Eagle
 
@@ -36,7 +36,7 @@ Featured among the [fastest fighter jets still in service in 2025](https://thefr
 
 Also featured among the fastest aircraft, the F-15 Eagle is a fourth-generation aircraft still actively operated by the USAF, Israel, Japan, Qatar, South Korea, Saudi Arabia, and Singapore. With 919 active units and additional orders placed, it ranks as the [third most widely used fighter jet](https://www.flightglobal.com/defence/2025-world-air-forces-directory/160846.article) in service worldwide as of 2025.
 
-{{< img src="/03042025/2.jpg" id="i\_plane" caption="(U.S. Air Force photo by Staff Sgt. Tony R. Tolley) / Wikimedia" alt="f-15 strike eagle">}}
+{{< img src="/03042025/2.webp" id="i\_plane" caption="(U.S. Air Force photo by Staff Sgt. Tony R. Tolley) / Wikimedia" alt="f-15 strike eagle">}}
 
 ## 8. General Dynamics F-111 Aardvark
 
@@ -67,7 +67,7 @@ The F-111 flew [more than 4,000 combat missions](https://www.nationalmuseum.af.m
 - **F-111G** – Former FB-111A bombers converted for a tactical role, later sold to Australia.
 - **RF-111C** – A reconnaissance variant of the F-111C for the RAAF, equipped with cameras and sensors.
 
-{{< img src="/03042025/3.jpg" id="i\_plane" caption="Denniss / Wikimedia" alt="f-111 aardvark">}}
+{{< img src="/03042025/3.webp" id="i\_plane" caption="Denniss / Wikimedia" alt="f-111 aardvark">}}
 
 ## 7. Mikoyan-Gurevich MiG-31
 
@@ -75,7 +75,7 @@ The F-111 flew [more than 4,000 combat missions](https://www.nationalmuseum.af.m
 
 [M](https://thefriendlyskies.net/article/fastest-fighter-jets-in-2025/)[entioned previously](https://thefriendlyskies.net/article/fastest-fighter-jets-in-2025/), the MiG-31 is a fourth-generation fighter jet [currently in service](https://www.flightglobal.com/defence/2025-world-air-forces-directory/160846.article) with the Russian Air Force, with 128 active units. Designed as a successor to the legendary MiG-25, it remains a key component of Russia’s air defense. As of 2025, it ranks as the second-fastest active fighter jet in the world.
 
-{{< img src="/03042025/4.jpg" id="i\_plane" caption="Feudor Leukhin / Wikimedia" alt="mig-31">}}
+{{< img src="/03042025/4.webp" id="i\_plane" caption="Feudor Leukhin / Wikimedia" alt="mig-31">}}
 
 ## 6. Mikoyan-Gurevich MiG-25
 
@@ -83,7 +83,7 @@ The F-111 flew [more than 4,000 combat missions](https://www.nationalmuseum.af.m
 
 Also mentioned previously, the MiG-25 Foxbat remains the fastest fighter jet still in service today. Originally designed as a Soviet supersonic interceptor and reconnaissance aircraft, it continues to see limited operation. As of 2025, [Libya and Syria](https://www.flightglobal.com/defence/2025-world-air-forces-directory/160846.article) each maintain two active units.
 
-{{< img src="/03042025/5.jpg" id="i\_plane" caption="Alan Wilson / Wikimedia" alt="mig-25R Foxbat">}}
+{{< img src="/03042025/5.webp" id="i\_plane" caption="Alan Wilson / Wikimedia" alt="mig-25R Foxbat">}}
 
 ## 5. North American Aviation XB-70 Valkyrie
 
@@ -97,7 +97,7 @@ Now in the museum, XB-70A (AV-1) was the first prototype built and the first Val
 
 The second XB-70A prototype (AV-2) was able to exceed Mach 3 multiple times, including a sustained [32-minute Mach 3 flight](https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195767/north-american-xb-70-valkyrie/) in May 1966. Unfortunately, AV-2 was lost in a mid-air collision with an F-104 while flying in a multi-aircraft formation. 
 
-{{< img src="/03042025/6.jpg" id="i\_plane" caption="James St. John / Wikimedia" alt="xb-70 valkyrie">}}
+{{< img src="/03042025/6.webp" id="i\_plane" caption="James St. John / Wikimedia" alt="xb-70 valkyrie">}}
 
 ## 4. Bell X-2
 
@@ -109,7 +109,7 @@ Designed to fly faster and higher than the X-1, the Bell X-2 successfully provid
 
 Only two Bell X-2 aircraft were built. The first flight took place on June 27, 1952, with Bell test pilot Jean "Skip" Ziegler at the controls. Tragically, on May 12, 1953, the second aircraft was lost in an [in-flight explosion](https://www.nasa.gov/aeronautics/bell-x-2/) during a captive flight meant to test its liquid oxygen system. Ziegler and another crew member died in the accident, and the wreckage fell into Lake Ontario, never to be recovered. This devastating incident ended the program on September 27, 1956 before NACA could conduct detailed flight research with the aircraft.
 
-{{< img src="/03042025/7.jpg" id="i\_plane" caption="NACA / Wikimedia" alt="bell x-2">}}
+{{< img src="/03042025/7.webp" id="i\_plane" caption="NACA / Wikimedia" alt="bell x-2">}}
 
 ## 3. SR-71
 
@@ -137,7 +137,7 @@ Despite its brief career, the YF-12 was [one of the fastest aircraft ever flown]
 
 The Lockheed Martin SR-72 is a proposed hypersonic reconnaissance aircraft. First announced in 2013, Lockheed Martin envisions it as the successor to the SR-71, capable of intelligence, surveillance, and reconnaissance missions at hypersonic speeds. In 2018, Lockheed executives predicted a test vehicle [could fly by 2025](https://nationalinterest.org/blog/reboot/lockheed-martins-mysterious-sr-72-could-enter-service-2030s-197320), with potential operational service in the 2030s.
 
-{{< img src="/03042025/8.jpeg" id="i\_plane" caption="TSgt. Michael Haggerty, USAF / Wikimedia" alt="sr-71 blackbird">}}
+{{< img src="/03042025/8.webp" id="i\_plane" caption="TSgt. Michael Haggerty, USAF / Wikimedia" alt="sr-71 blackbird">}}
 
 ## 2. X-15
 
@@ -161,7 +161,7 @@ On November 15, 1967, tragedy struck when USAF test pilot Major Michael J. Adams
 
 The X-15 achieved its highest speed on October 3, 1967, when William J. Knight piloted the aircraft at Mach 6.7 or 4,520 mph (7,274 km/h) at an altitude of 102,100 feet (31,120 meters), setting the [official world record for the highest speed](https://edition.cnn.com/style/article/x-15-rocket-aircraft/index.html) ever reached by a crewed, powered aircraft. This record remains unbroken to this day.
 
-{{< img src="/03042025/9.jpg" id="i\_plane" caption="NASA / Wikimedia" alt="North American x-15 aircraft">}}
+{{< img src="/03042025/9.webp" id="i\_plane" caption="NASA / Wikimedia" alt="North American x-15 aircraft">}}
 
 ## 1.X-43
 
@@ -177,4 +177,4 @@ In November 2004, NASA’s X-43A [set a new record by achieving Mach 10](https:/
 
 The program's Phase I was a seven-year effort, costing [approximately $230 million](https://www.nasa.gov/reference/x-43a/), aimed at validating scramjet propulsion, hypersonic aerodynamics, and advanced flight design. However, further development was discontinued, and by 2006, the [X-43 series was succeeded by the X-51](https://www.aftc.af.mil/News/On-This-Day-in-Test-History/Article-Display-Test-History/Article/2554297/april-28-2001-the-first-captive-carry-flight-nasas-x-43a-hypersonic-research-ve/). Other planned X-43 variants were canceled, with no new developments as of June 2013.
 
-{{< img src="/03042025/10.jpg" id="i\_plane" caption="NASA/Jim Ross / Wikimedia" alt="x-43A aircraft flying in the sky">}}
+{{< img src="/03042025/10.webp" id="i\_plane" caption="NASA/Jim Ross / Wikimedia" alt="x-43A aircraft flying in the sky">}}

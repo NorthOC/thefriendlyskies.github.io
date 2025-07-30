@@ -3,7 +3,7 @@ title: "Guide to Flightradar24: Its History, Tracking, and How to Use It"
 description: "Our comprehensive guide to Flightradar24: history, flight-tracking capabilities, and detailed instructions on how to use it for real-time aircraft tracking."
 date: 2023-07-25T20:14:13+15:00
 draft: false
-thumb: "/25072023/1.jpg"
+thumb: "/25072023/1.webp"
 author: "rosita-mickeviciute"
 thumb_alt: "Flightradar24 app main view showing Europe"
 is_article: true
@@ -11,7 +11,7 @@ is_article: true
 
 {{< note text="I am, in no way shape or form, associated with Flighradar24.">}}
 
-{{< img src="/25072023/1.jpg" id="" caption="Oleg Senkov / Shutterstock" alt="Flightradar24 app main view showing Europe">}}
+{{< img src="/25072023/1.webp" id="" caption="Oleg Senkov / Shutterstock" alt="Flightradar24 app main view showing Europe">}}
 
 I am excited to introduce a remarkable real-time aircraft flight tracking website that I've been using since 2010. Not only is it user-friendly, but it also offers a wealth of valuable information.
 
@@ -43,7 +43,7 @@ ADS-B is a technology installed in modern aircraft that transmits real-time info
 
 How does it work? The aircraft determines its location through a GPS navigation source, which utilizes satellite data. Meanwhile, the ADS-B transponder on the aircraft broadcasts a signal containing its location, along with additional information. This ADS-B signal is then received by a receiver linked to Flightradar24. The receiver feeds the acquired data to Flightradar24, where it is subsequently displayed on the website www.flightradar24.com and within the Flightradar24 apps.
 
-{{< img src="/25072023/2.jpg" id="" caption="Tupungato / Shutterstock" alt="Google apps details on mobile phone showing flightradar24 app">}}
+{{< img src="/25072023/2.webp" id="" caption="Tupungato / Shutterstock" alt="Google apps details on mobile phone showing flightradar24 app">}}
 
 ADS-B presents a significant advancement by replacing traditional radar technology with satellite-based tracking, offering substantial benefits. Unlike radar, which depends on radio signals and antennas to ascertain an aircraft's position, ADS-B [utilizes satellite signals for precise and efficient tracking of aircraft movements](https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs#:~:text=ADS%2DB%20replaces%20radar%20technology,signals%20to%20track%20aircraft%20movements.).
 
@@ -87,7 +87,7 @@ Once you access Flightradar24, you'll be greeted with an interactive map interfa
 
 To track an aircraft, simply click on its icon on the map. A pop-up window will display detailed information about the flight, including flight number, aircraft type, altitude, speed, and departure and arrival airports.
 
-{{< img src="/25072023/3.jpg" id="" caption="Роман Коротенко, Wikimedia" alt="gui in flightradar24 displaying mas17 flight path">}}
+{{< img src="/25072023/3.webp" id="" caption="Роман Коротенко, Wikimedia" alt="gui in flightradar24 displaying mas17 flight path">}}
 
 ### 4. Filtering Aircraft
 

@@ -17,25 +17,29 @@
 /* font */
 @font-face {
   font-family: borderlands;
-  src: url(Compacta\ Bold\ Plain\ Regular.otf);
+  src: url(Compacta-Bold-Plain-Regular.otf);
+  font-display: swap;
 }
 @font-face {
   font-family: fallout;
   src: url(monofonto.otf);
+  font-display: swap;
 }
 @font-face {
   font-family: bitter;
   src: url(Bitter-Regular.ttf);
+  font-display: swap;
 }
 @font-face {
   font-family: bitter-bold;
   src: url(Bitter-Bold.ttf);
+  font-display: swap;
 }
 body{
   min-height: 100vh;
   text-align: center;
   background-color: var(--theme-bg);
-  font-family: bitter;
+  font-family: bitter, sans-serif;
   color: var(--theme-fg);
   display: flex;
   flex-direction: column;
@@ -47,7 +51,7 @@ a{
 }
 
 h1,h2,h3,h4,h5,strong{
-  font-family: bitter-bold;
+  font-family: bitter-bold, sans-serif;
 }
 
 .flex-row{
@@ -88,7 +92,7 @@ h1,h2,h3,h4,h5,strong{
 }
 
 #index-title{
-  font-family: borderlands;
+  font-family: borderlands, sans-serif;
   display: flex;
   margin: 8px 16px;
   position: absolute;
@@ -109,6 +113,7 @@ h1,h2,h3,h4,h5,strong{
 #site-title-img{
   max-width: 165px;
   width: 100%;
+  height: 100%;
 }
 .alt-logo{
   position: absolute;
@@ -223,41 +228,41 @@ a:hover{
   display: flex;
   flex-direction: row;
   gap: 5px;
-  color: gray;
+  color: #474747;
 }
 .article-meta{
   display: flex;
   gap: 20px;
   justify-content: space-between;
 }
+.article-card time{
+  font-size: 10pt;
+}
+.article-card img{
+  max-width: 200px;
+  max-height: 150px;
+  object-fit: cover;
+}
+.article-card .contents{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
 @media only screen and (max-width: 550px) {
   .article-card{
     display: block;
   }
   .article-card img{
-    max-width: 500px !important;
+    max-width: 500px;
+    max-height: 300px;
     width: 100%;
-    max-height: none !important;
+    height: 100%;
     display: block;
     margin: auto;
   }
   .article-card .contents{
     margin-top: 5px;
   }
-}
-.article-card time{
-  font-size: 10pt;
-}
-.article-card img{
-  max-width: 200px;
-  object-fit: cover;
-  height: 100%;
-  max-height: 150px;
-}
-.article-card .contents{
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
 }
 
 /* Articles */
@@ -269,7 +274,7 @@ main {
 }
 
 .manual{
-  font-family: bitter;
+  font-family: bitter, sans-serif;
 }
 
 main.content{
@@ -277,7 +282,7 @@ main.content{
   margin: auto;
 }
 div.content{
-  font-family: bitter;
+  font-family: bitter, sans-serif;
 }
 
 /* Header */
@@ -343,7 +348,7 @@ footer{
   justify-content: space-evenly;
   list-style: none;
   flex-wrap: wrap;
-  font-family: fallout;
+  font-family: fallout, sans-serif;
 }
 #tagcloud li{
   margin: 30px;
@@ -445,6 +450,16 @@ td, th{
 }
 
 #affiliate-banner img{
-  max-width: 800px;
   width: 100%;
+  height: 100%;
+}
+
+.g-ad{
+  background: repeating-linear-gradient(
+  45deg,
+  rgba(0, 0, 0, 0.2),
+  rgba(0, 0, 0, 0.2) 10px,
+  rgba(0, 0, 0, 0.3) 10px,
+  rgba(0, 0, 0, 0.3) 20px
+);
 }

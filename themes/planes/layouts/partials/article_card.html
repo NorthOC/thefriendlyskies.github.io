@@ -1,21 +1,22 @@
-{{ $author := index .Site.Data.authors (.Params.author) }}
-{{ $image := resources.Get (.Params.thumb) }}
-{{ $img_alt := .Params.thumb_alt }}
-{{ $image := $image.Resize "600x" }}
+{{ $author := index .page.Site.Data.authors (.page.Params.author) }}
+{{ $image := resources.Get (.page.Params.thumb) }}
+{{ $img_alt := .page.Params.thumb_alt }}
+{{ $image := $image.Resize "600x q80" }}
+{{ $idx := .idx}}
 <article class="article-card flex-column">
-      <a class="article-link" href="{{ .RelPermalink }}">
-      {{ with $image }}<img src="{{ .RelPermalink }}" alt="{{ $img_alt }}">{{ end }}
+      <a class="article-link" href="{{ .page.RelPermalink }}">
+      {{ with $image }}<img src="{{ .RelPermalink }}" alt="{{ $img_alt }}" width="600" height="300" {{ if gt $idx 1 }}loading='lazy'{{ end }}>{{ end }}
       </a>
       <div class="contents">
-        <a class="article-link" href="{{ .RelPermalink }}">
-          <h2>{{ .Title }}</h2>
+        <a class="article-link" href="{{ .page.RelPermalink }}">
+          <h2>{{ .page.Title }}</h2>
         </a>
-        <p>{{ .Params.Description}}</p>
+        <p>{{ .page.Params.Description}}</p>
         <div class="article-meta">
           <p>
-            <time datetime="{{.Date}}">{{ time.Format "2006, Jan 2" .Date }}</time><span class="author" aria-label="author">, by {{ $author.name }}</span>
+            <time datetime="{{.page.Date}}">{{ time.Format "2006, Jan 2" .page.Date }}</time><span class="author" aria-label="author">, by {{ $author.name }}</span>
           </p>
-          <p class="article-views views" style="display: none;"><span class="view-count" data-slug="{{ .RelPermalink }}">0</span> <span>views</span></p>
+          <p class="article-views views" style="display: none;"><span class="view-count" data-slug="{{ .page.RelPermalink }}">0</span> <span>views</span></p>
         </div>
       </div>
 </article>

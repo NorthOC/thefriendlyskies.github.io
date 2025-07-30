@@ -4,13 +4,13 @@ meta_title: "The history of private jets: from Jetstar to Dassault Falcon"
 description: "Explore the history of private jets, from the first ever private jet Lockheed Jetstar to the Dassault Falcon, and see how they have shaped modern aviation"
 date: 2024-10-24T22:00:00+15:00
 draft: false
-thumb: "/17102024/1.jpg"
+thumb: "/17102024/1.webp"
 thumb_alt: "Lockheed VC-140B JetStar"
 author: "rosita-mickeviciute"
 is_article: true
 ---
 
-{{< img src="/17102024/1.jpg" id="i\_plane" caption="Michael Barera / Wikimedia" alt="Lockheed VC-140B JetStar">}}
+{{< img src="/17102024/1.webp" id="i\_plane" caption="Michael Barera / Wikimedia" alt="Lockheed VC-140B JetStar">}}
 
 From their early beginnings as a luxury reserved for the elite to becoming a symbol of efficiency, privacy, and convenience, private jets have undergone significant transformations. 
 
@@ -22,21 +22,21 @@ Let’s explore the history of private jets and how they have evolved to meet th
 
 The history of private jet charter companies can be traced back to the mid-20th century. The first executive jet, the Lockheed Jetstar, was introduced in the early 1960s. However, the industry truly gained momentum with the introduction of the Learjet in 1963. The Learjet 23, a compact aircraft, provided travel accommodations for a group of four to six individuals. 
 
-{{< img src="/17102024/2.jpg" id="i\_plane" caption="Thomas R Machnitzki / Wikimedia" alt="Elvis Presley custom plane Lockheed Jet Star">}}
+{{< img src="/17102024/2.webp" id="i\_plane" caption="Thomas R Machnitzki / Wikimedia" alt="Elvis Presley custom plane Lockheed Jet Star">}}
 
 This marked a turning point in aviation history, as it made private air travel more accessible to a select group of individuals and corporations. As the idea gained popularity, more manufacturers joined the market, offering a variety of private jet models tailored to different travel requirements and distances.
 
-{{< img src="/17102024/3.jpg" id="i\_plane" caption="Michael Barera / Wikimedia" alt="A Learjet 23 on display at the Air Zoo">}}
+{{< img src="/17102024/3.webp" id="i\_plane" caption="Michael Barera / Wikimedia" alt="A Learjet 23 on display at the Air Zoo">}}
 
 ## Longer-range and high-performance jets
 
 The financial crash at the start of the 1980s left private jet enthusiasts with limited options. As a result, business jet manufacturers focused on improving existing models rather than creating new designs. This lack of innovation continued into the 1990s until two notable jets broke the trend: the Learjet 45 in 1995 and the Beechcraft Premier I in 1998. By the early 2000s, the private jet industry experienced a strong resurgence, driving significant progress.
 
-{{< img src="/17102024/4.jpg" id="i\_plane" caption="Acroterion / Wikimedia" alt="Learjet 45 N45VA at Frederick Municipal Airport, Maryland, USA">}}
+{{< img src="/17102024/4.webp" id="i\_plane" caption="Acroterion / Wikimedia" alt="Learjet 45 N45VA at Frederick Municipal Airport, Maryland, USA">}}
 
 The early 2000s saw further innovation in the industry with the introduction of [fractional ownership programs](https://commons.erau.edu/cgi/viewcontent.cgi?article=1277&context=jaaer). This concept allowed individuals and businesses to purchase a share of an aircraft, granting them access to private air travel without the financial burden of owning an entire jet.
 
-{{< img src="/17102024/5.jpg" id="i\_plane" caption="Igor Bubin / Wikimedia" alt="Hawker Beechcraft 390 Premier IA">}}
+{{< img src="/17102024/5.webp" id="i\_plane" caption="Igor Bubin / Wikimedia" alt="Hawker Beechcraft 390 Premier IA">}}
 
 ## The rise of digitalization
 
@@ -48,4 +48,4 @@ A [private jet subscription](https://flexjet.com/blog/runway-guide-what-is-a-pri
 
 In recent years, private jet charter companies have prioritized sustainability, demonstrating their commitment to the environment by adopting more fuel-efficient aircraft and eco-friendly practices. New jets like the Gulfstream G800, Bombardier Global 8000, and Dassault Falcon 6X are not only more fuel-efficient than older models but also offer greater range capabilities. This shift toward responsible travel reflects the changing values and preferences of modern travelers.
 
-{{< img src="/17102024/6.jpg" id="i\_plane" caption="Coldstreamer20 / Wikimedia" alt="A Gulfstream G650 (N656FX)">}}
+{{< img src="/17102024/6.webp" id="i\_plane" caption="Coldstreamer20 / Wikimedia" alt="A Gulfstream G650 (N656FX)">}}

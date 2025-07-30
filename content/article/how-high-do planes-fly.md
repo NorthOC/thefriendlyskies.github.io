@@ -4,12 +4,12 @@ meta_title: "How high do planes fly? Exploring altitudes in commercial aviation"
 description: "Discover the heights of commercial aviation. Find out how high planes can fly and why altitude plays a crucial role in the safety and comfort of passengers."
 date: 2024-10-02T17:13:10+02:00
 draft: false
-thumb: "/02102024/cover.jpg"
+thumb: "/02102024/cover.webp"
 thumb_alt: "View from the commercial airliners window"
 author: "rosita-mickeviciute"
 is_article: true
 ---
-{{< img src="/02102024/cover.jpg" id="i_plane" caption="Wouter Engler / Wikimedia" alt="View from the commercial airliners window">}}
+{{< img src="/02102024/cover.webp" id="i_plane" caption="Wouter Engler / Wikimedia" alt="View from the commercial airliners window">}}
 
 Modern aviation has transformed the way we connect with the world today. Air travel has made it possible for people to cross continents in a matter of hours, all made possible by the feats of engineering and science. One of the fundamental aspects of commercial aviation is altitude, which plays a crucial role in the safety, efficiency and comfort of passengers. 
 
@@ -62,7 +62,7 @@ Several factors play a role in determining an aircraft's altitude:
 - Weather temperature, 
 - Pilots and air traffic control (ATC) requests
 
-{{< img src="/02102024/1.jpg" id="i_plane" caption="Eliyahu Yosef Parypa / Shutterstock" alt="A plane taking off at the airport">}}
+{{< img src="/02102024/1.webp" id="i_plane" caption="Eliyahu Yosef Parypa / Shutterstock" alt="A plane taking off at the airport">}}
 
 ## Why do planes fly at high altitudes?
 
@@ -76,7 +76,7 @@ Flying at higher altitudes allows aircraft to take advantage of thinner air, red
 
 At higher altitudes, aircraft can achieve higher true airspeeds due to reduced air resistance, allowing for faster journeys. True speed is the actual speed of an aircraft through the air, accounting for variations in air density and pressure at different altitudes.
 
-{{< img src="/02102024/2.jpg" id="i_plane" caption="Franco Agustin Ercolino / Shutterstock" alt="Cessna Citation Longitude">}}
+{{< img src="/02102024/2.webp" id="i_plane" caption="Franco Agustin Ercolino / Shutterstock" alt="Cessna Citation Longitude">}}
 
 ### Weather avoidance
 
@@ -102,7 +102,7 @@ In comparison, the tallest point on Earth is the summit of Mount Everest, which 
 
 The existing world record for the highest altitude reached by an air-breathing jet-propelled aircraft is 37,650 meters (123,520 feet). This [record was established](https://www.fai.org/news/day-history-alexandr-fedotov-flies-record-books) by Alexander Vasilyevich Fedotov while flying a Mikoyan-Gurevich E-266M (MiG-25M) on August 31, 1977.
 
-{{< img src="/02102024/3.jpg" id="i_plane" caption="ID1974 / Shutterstock" alt="MiG-25 standing on the ground">}}
+{{< img src="/02102024/3.webp" id="i_plane" caption="ID1974 / Shutterstock" alt="MiG-25 standing on the ground">}}
 
 ## Can a plane fly too high?
 

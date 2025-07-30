@@ -4,13 +4,13 @@ meta_title: "The explosion and crash of Trans World Airlines Flight 800"
 description: "In 1995 an explosion of a Boeing 747 killed 230 people. It remains the third-deadliest aviation accident in United States history. What actually happened?"
 date: 2025-06-11T11:00:00+15:00
 draft: false
-thumb: "/11062025/cover.jpg"
+thumb: "/11062025/cover.webp"
 thumb_alt: "Trans World Airlines, Boeing 747-100"
 author: "rosita-mickeviciute"
 is_article: true
 ---
 
-{{< img src="/11062025/cover.jpg" id="i\_plane" caption="Eduard Marmet / Wikimedia" alt="Trans World Airlines, Boeing 747-100">}}
+{{< img src="/11062025/cover.webp" id="i\_plane" caption="Eduard Marmet / Wikimedia" alt="Trans World Airlines, Boeing 747-100">}}
 
 On the summer evening of July 17, 1996, a Boeing 747 jumbo jet operated by the Trans World Airlines took off from John F. Kennedy International Airport in New York City, flying for Paris. 
 
@@ -22,13 +22,13 @@ On the evening of July 17, 1996, TWA Flight 800's Boeing 747-100, took off from 
 
 Approximately 12 minutes after takeoff, at an altitude of about 13,700 feet (4,200 meters), the aircraft suddenly exploded, sending a massive fireball into the sky. The center section of the aircraft came down first, followed by the forward fuselage, and ultimately the wings and the remaining portion of the fuselage. The plane plummeted into the Atlantic Ocean off the coast of Long Island, claiming the lives of all 230 people on board.
 
-{{< img src="/11062025/1.jpg" id="i\_plane" caption="Central Intelligence Agency (CIA) / Wikimedia" alt="TWA Flight 800 explosion recreation animation">}}
+{{< img src="/11062025/1.webp" id="i\_plane" caption="Central Intelligence Agency (CIA) / Wikimedia" alt="TWA Flight 800 explosion recreation animation">}}
 
 ### Aircraft involved in the accident
 
 The TWA Flight 800 accident involved a Boeing 747-131, a wide-body, four-engine jet that had been [in service for nearly 25 years](https://www.planespotters.net/airframe/boeing-747-100-n93119-trans-world-airlines-twa/ey481e). This aircraft, registration N93119, was one of the oldest types in service, having accumulated 93,303 flight hours since 1971 without any incidents. At the time of the accident, it was operated by TWA, one of the US major carriers, operational from 1930 to 2001 and subsequently acquired by American Airlines.
 
-{{< img src="/11062025/2.jpg" id="i\_plane" caption="Ted Quackenbush / Wikimedia" alt="Boeing 747-131, Trans World Airlines - TWA">}}
+{{< img src="/11062025/2.webp" id="i\_plane" caption="Ted Quackenbush / Wikimedia" alt="Boeing 747-131, Trans World Airlines - TWA">}}
 
 ### Passengers and crew
 
@@ -40,7 +40,7 @@ Celebrity passengers on board included French ice hockey player Michel Breistrof
 
 Eyewitnesses on the ground reported seeing a streak of light in the sky before the explosion, leading to initial speculation that it might have been the result of a missile strike. According to investigators, these witnesses had actually seen a trail of ignited fuel escaping from the damaged aircraft.
 
-{{< img src="/11062025/3.jpg" id="i\_plane" caption="AP / Wikimedia" alt="TWA Flight 800 explosion">}}
+{{< img src="/11062025/3.webp" id="i\_plane" caption="AP / Wikimedia" alt="TWA Flight 800 explosion">}}
 
 There were a total of 736 witnesses:
 
@@ -49,7 +49,7 @@ There were a total of 736 witnesses:
 
 Nearly all components of the 170-ton aircraft were retrieved from the seabed and reconstructed as an integral part of the ongoing investigation. Initial tests revealed the existence of explosive traces on three samples from distinct locations of the retrieved airplane debris. However, the National Transportation Safety Board (NTSB) could not definitively trace the precise origin of these explosive residues. 
 
-{{< img src="/11062025/4.jpg" id="i\_plane" caption="Skybunny / Wikimedia" alt="TWA Flight 800 collected parts of a plane after explosion">}}
+{{< img src="/11062025/4.webp" id="i\_plane" caption="Skybunny / Wikimedia" alt="TWA Flight 800 collected parts of a plane after explosion">}}
 
 Various possibilities were explored, including potential contamination from the aircraft's prior use in transporting troops during the Gulf War in 1991, or its involvement in an explosive detection exercise for dog training approximately one month before the accident. However, further investigation would reveal a different cause.
 

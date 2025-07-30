@@ -4,13 +4,13 @@ meta_title: "Tupolev Tu-95 Russian strategic long-range bomber used today"
 description: "Known by its NATO name \"Bear\", the Tupolev Tu-95 is a Russian strategic long-range bomber with over 70-year history. Read about its origin and technical specs."
 date: 2024-11-08T12:00:00+15:00
 draft: false
-thumb: "/08112024/1.jpg"
+thumb: "/08112024/1.webp"
 thumb_alt: "Tupolev Tu-95"
 author: "rosita-mickeviciute"
 is_article: true
 ---
 
-{{< img src="/08112024/cover.jpg" id="i\_plane" caption="Ministry of Defence / Wikimedia" alt="Tupolev Tu-95">}}
+{{< img src="/08112024/cover.webp" id="i\_plane" caption="Ministry of Defence / Wikimedia" alt="Tupolev Tu-95">}}
 
 The Tupolev Tu-95, known by its NATO designation "Bear," stands as a testament to Soviet engineering prowess, remaining in active service for over 70 years. The Tu-95 is renowned for its versatility in long-range missions and its capacity to carry heavy payloads.
 
@@ -20,11 +20,11 @@ Let's look at the history, features, and lasting legacy of this iconic Russian s
 
 In the 1940s, after the Second World War, Russia recognized the need for a strategic bombing capability comparable to that of the United States Army Air Force. As a result, they developed the Tupolev Tu-4, a long-range heavy bomber used by the Soviet Union.
 
-{{< img src="/08112024/1.jpg" id="i\_plane" caption="Andrey Korchagin / Wikimedia" alt="Tupolev Tu-4">}}
+{{< img src="/08112024/1.webp" id="i\_plane" caption="Andrey Korchagin / Wikimedia" alt="Tupolev Tu-4">}}
 
 In fact, this aircraft was a replica of the American Boeing B-29 Superfortress. During the war, several B-29s conducted emergency landings in Russia, prompting Joseph Stalin to [mandate the creation of an exact counterpart](https://warfarehistorynetwork.com/article/the-soviets-steal-the-b-29/) of the B-29, which resulted in the Tupolev Tu-4.
 
-{{< img src="/08112024/2.jpg" id="i\_plane" caption="United States Air Force picture / Wikimedia" alt="Boeing B-29 Superfortress">}}
+{{< img src="/08112024/2.webp" id="i\_plane" caption="United States Air Force picture / Wikimedia" alt="Boeing B-29 Superfortress">}}
 
 The Soviets soon recognized the need for a heavy bomber with an even greater range than the Tu-4, capable of targeting locations in the US. Also, the Tu-4 showed that piston engines were simply [not powerful enough for an aircraft of such size](https://simpleflying.com/tupolev-tu-95-bomber-amazing-facts/). As a result, the Tu-95 was equipped with four Kuznetsov turboprop-powered engines featuring high-speed propellers. This configuration enhanced both its range and fuel efficiency. 
 
@@ -36,7 +36,7 @@ The Tu-95 was primarily designed for strategic bombing and long-range reconnaiss
 
 On October 30, 1961, a modified aircraft was used to carry and drop a nuclear bomb called Tsar Bomba, the strongest thermonuclear device tested at that time. Besides carrying and dropping the Tsar Bomba, the Tu-95 could also deliver an RDS-4 Tatyana fission bomb, RDS-6S and RDS-37 2.9-megaton thermonuclear bombs, and an RP-30-32 200-kiloton bomb.
 
-{{< img src="/08112024/3.jpg" id="i\_plane" caption="Hex / Wikimedia" alt="Tsar Bomba">}}
+{{< img src="/08112024/3.webp" id="i\_plane" caption="Hex / Wikimedia" alt="Tsar Bomba">}}
 
 Interestingly, unlike the American B-52 Stratofortress, Tu-95 never carry nuclear weapons during training flights. Putting a nuclear weapon on a long-range bomber like the Tu-95 comes with a significant risk of losing the aircraft itself.
 
@@ -46,7 +46,7 @@ One of the Tu-95's most recognizable features is its elongated nose, which is us
 
 Another distinctive feature of the aircraft is its massive contra-rotating propellers, which give it a striking appearance and a distinctively loud sound. The design of these four-bladed propellers, combined with the aircraft's swept-back wings and streamlined fuselage, contributes to its efficiency and stability during long-range flights. They are also the [most powerful engines of their type ever built](https://planehistoria.com/an-22-the-largest-turboprop-aircraft-in-the-world/).
 
-{{< img src="/08112024/4.jpg" id="i\_plane" caption="Oleksandr Polonskyi / Wikimedia" alt="Tu-95’s nose">}}
+{{< img src="/08112024/4.webp" id="i\_plane" caption="Oleksandr Polonskyi / Wikimedia" alt="Tu-95’s nose">}}
 
 ## Variants
 
@@ -78,7 +78,7 @@ Over the years, several variants of the Tu-95 have emerged, each with improvemen
 |**Guns**|Two 0.906 in (23mm) Gryazev-Shipunov GSh-23 autocannons|
 |**Missiles**|Up to 33,000 lb (15,000 kg): Kh-20, Kh-22, and Kh-55/101/102, or eight Kh-101/102 cruise missiles|
 
-{{< img src="/08112024/5.jpg" id="i\_plane" caption="Boevaya mashina / Wikimedia" alt="Russian Air Force Tupolev Tu-95MS Moskva">}}
+{{< img src="/08112024/5.webp" id="i\_plane" caption="Boevaya mashina / Wikimedia" alt="Russian Air Force Tupolev Tu-95MS Moskva">}}
 
 ## Tupolev Tu-95 bomber’s one and only operator 
 

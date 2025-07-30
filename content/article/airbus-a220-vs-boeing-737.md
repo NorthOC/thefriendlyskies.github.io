@@ -4,11 +4,11 @@ description: "Comparing aviation giants: Boeing 737 MAX vs. Airbus A320neo. Expl
 date: 2023-04-02T22:21:11+15:00
 draft: false
 author: "rosita-mickeviciute"
-thumb: "/02042023/cover.jpg"
+thumb: "/02042023/cover.webp"
 thumb_alt: "Eurowings A320neo"
 is_article: true
 ---
-{{< img src="/02042023/cover.jpg" id="i_plane" caption="Eurowings A320neo" alt="Eurowings A320neo">}}
+{{< img src="/02042023/cover.webp" id="i_plane" caption="Eurowings A320neo" alt="Eurowings A320neo">}}
 
 Today I want you to take a look at the two biggest rivals of today's skies: Boeing 737 MAX and Airbus A320neo. These two aviation giants have been competing since Airbus entered the industry in 1974, with each trying to outperform the other in terms of speed, efficiency, and passenger comfort.
 
@@ -24,7 +24,7 @@ However, following the crashes, the 737 MAX underwent extensive testing and anal
 
 ## Technical Characteristics 
 
-{{< img src="/02042023/photo-two.png" id="i_two" caption="" alt="technical characteristics of both planes">}}
+{{< img src="/02042023/photo-two.webp" id="i_two" caption="" alt="technical characteristics of both planes">}}
 
 By looking at the table above, we can see that the Airbus A320neo carries two more passengers than the 737 MAX 8 in a 2-class seating configuration plan. If we look at the maximum capacity, Boeing overtakes Airbus by 16 passengers. Also, the 737 MAX 8 flying range is 270 km or 150 nm more than A320neo. 
 
@@ -32,7 +32,7 @@ Looking at the performance specifics, we can see that the Boeing 737 MAX beats t
 
 In general, the 737 MAX 8 carry more cargo than the Airbus A320neo, meaning more revenue, lifting power, and flexibility for airlines.
 
-{{< img src="/02042023/photo-three.jpg" id="i_three" caption="Norwegian Airlines Boeing 737 MAX 8" alt="Norwegian Airlines Boeing 737 MAX 8">}}
+{{< img src="/02042023/photo-three.webp" id="i_three" caption="Norwegian Airlines Boeing 737 MAX 8" alt="Norwegian Airlines Boeing 737 MAX 8">}}
 
 ***Winner: Boeing 737 MAX 8***
 
@@ -45,7 +45,7 @@ Pratt & Whitney's Geared Turbofan (GTF) and CFM International's LEAP-1B are both
 3. **Fuel efficiency**: Both engines offer significant improvements in fuel efficiency over previous generation engines, but the GTF has been touted as the more efficient of the two, with claims of up to 20% better fuel efficiency than older engines.
 4. **Noise reduction**: Both engines incorporate advanced noise reduction technology, but the GTF is generally considered to be the quieter of the two.
 
-{{< img src="/02042023/photo-four.jpg" id="i_four" caption="GTF" alt="GTF">}}
+{{< img src="/02042023/photo-four.webp" id="i_four" caption="GTF" alt="GTF">}}
 
 As for the comparison between the CFM LEAP-1B and LEAP-1A:
 
@@ -54,9 +54,9 @@ As for the comparison between the CFM LEAP-1B and LEAP-1A:
 3. **Fuel efficiency**: Both engines offer significant improvements in fuel efficiency, but the LEAP-1B has been claimed to be slightly more efficient than the LEAP-1A.
 4. **Noise reduction**: Both engines incorporate advanced noise reduction technology, with similar noise reduction levels.
 
-{{< img src="/02042023/photo-five.jpg" id="i_five" caption="CFM LEAP-1A" alt="GTF">}}
+{{< img src="/02042023/photo-five.webp" id="i_five" caption="CFM LEAP-1A" alt="GTF">}}
 
-{{< img src="/02042023/photo-six.jpg" id="i_six" caption="CFM LEAP-1B" alt="CFM LEAP-1B">}}
+{{< img src="/02042023/photo-six.webp" id="i_six" caption="CFM LEAP-1B" alt="CFM LEAP-1B">}}
 
 Overall, the differences between the LEAP-1B and LEAP-1A are relatively minor, with both engines offering similar levels of performance and efficiency. 
 
@@ -92,7 +92,7 @@ Despite the MAX's comeback, the A320neo family is experiencing greater progress.
 
 The total number of orders for both companies is as follows (as of March 2023):
 
-{{< img src="/02042023/photo-seven.png" id="i_seven" caption="" alt="table of airbus 320neo vs boeing 737MAX orders and deliveries">}}
+{{< img src="/02042023/photo-seven.webp" id="i_seven" caption="" alt="table of airbus 320neo vs boeing 737MAX orders and deliveries">}}
 
 ***Winner: Airbus A320neo***
 

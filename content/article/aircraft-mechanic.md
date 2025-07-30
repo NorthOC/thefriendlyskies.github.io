@@ -4,13 +4,13 @@ meta_title: "20 most common questions for an aircraft mechanic"
 description: "The Friendly Skies explores the daily routines and challenges of an aircraft mechanic working on Airbus A320s at Vilnius Airport in an exclusive interview."
 date: 2025-07-04T11:00:00+15:00
 draft: false
-thumb: "/04072025/cover.jpg"
+thumb: "/04072025/cover.webp"
 thumb_alt: "Airbus A320 with opened engine on a runway"
 author: "rosita-mickeviciute"
 is_article: true
 ---
 
-{{< img src="/04072025/cover.jpg" id="i\_plane" caption="Photo taken by H3em" alt="Airbus A320 with opened engine on a runway">}}
+{{< img src="/04072025/cover.webp" id="i\_plane" caption="Photo taken by H3em" alt="Airbus A320 with opened engine on a runway">}}
 
 Aircraft maintenance is one of the most crucial parts of aviation. Without highly skilled and attentive mechanics, planes wouldn’t take off, let alone fly safely across the world. 
 
@@ -26,7 +26,7 @@ One winter day, I went to a workwear shop near the airport to buy some gear for 
 
 If it weren't for my old friend from college, I probably wouldn’t know anything about aviation today. I'd likely be working in a more conventional job or still searching for one.
 
-{{< img src="/04072025/1.jpg" id="i\_plane" caption="Photo taken by H3em" alt="airplane seats taken outside on a runway">}}
+{{< img src="/04072025/1.webp" id="i\_plane" caption="Photo taken by H3em" alt="airplane seats taken outside on a runway">}}
 
 ## 2. How long did it take before you were fully qualified to work on the A320 or any other aircraft?
 
@@ -38,7 +38,7 @@ Since our company handles both basic maintenance and various projects inside the
 
 At the moment, I work only at Vilnius Airport (VNO), but there are always opportunities to travel abroad and gain new experience.
 
-{{< img src="/04072025/2.jpg" id="i\_plane" caption="Photo taken by H3em" alt="inside Airbus A320 cabin">}}
+{{< img src="/04072025/2.webp" id="i\_plane" caption="Photo taken by H3em" alt="inside Airbus A320 cabin">}}
 
 ## 4. What does a typical day look like for you when working on an aircraft?
 
@@ -58,7 +58,7 @@ The most common ones are daily and weekly checks. These often depend on customer
 - Oil levels for the engine, APU, and IDG
 - General visual inspections for abnormalities
 
-{{< img src="/04072025/3.jpg" id="i\_plane" caption="Photo taken by H3em" alt="Airbus A320 aircraft from outside view in a dark">}}
+{{< img src="/04072025/3.webp" id="i\_plane" caption="Photo taken by H3em" alt="Airbus A320 aircraft from outside view in a dark">}}
 
 ## 6. What kind of tools or technology do you use when working on the A320 or other aircraft?
 
@@ -72,7 +72,7 @@ Since I mostly work on the A320, I don’t have much to compare it to. Overall, 
 
 So far, I haven’t encountered any major or life-threatening issues during my time in the field.
 
-{{< img src="/04072025/4.jpg" id="i\_plane" caption="Photo taken by H3em" alt="Airbus A320 engine taken apart on a runway">}}
+{{< img src="/04072025/4.webp" id="i\_plane" caption="Photo taken by H3em" alt="Airbus A320 engine taken apart on a runway">}}
 
 ## 9. How often do you update your knowledge or training to keep up with new aircraft systems?
 
@@ -82,7 +82,7 @@ The aircraft I work on are fairly old, so updates are rare. However, I constantl
 
 Yes, a couple. If you work in line maintenance, weather can be a big issue—wind, rain, or snow can delay or prevent work and increase the risk of getting sick. Another downside is the exposure to chemicals. There is always a chance that you can get something on your hands that could harm your skin so you always have to wear personal protective equipment (PPE).
 
-{{< img src="/04072025/5.jpg" id="i\_plane" caption="Photo taken by H3em" alt="clouds forming behind an aircraft">}}
+{{< img src="/04072025/5.webp" id="i\_plane" caption="Photo taken by H3em" alt="clouds forming behind an aircraft">}}
 
 ## 11. Do you ever feel pressure knowing the safety of hundreds of passengers depends on your work?
 
@@ -92,7 +92,7 @@ Sometimes yes, sometimes no—it depends on the task. I always follow the manual
 
 It’s not as complicated as it looks—but you have to be ready to start learning again, from scratch.
 
-{{< img src="/04072025/6.jpg" id="i\_plane" caption="Photo taken by H3em" alt="inside of aircraft’s engine">}}
+{{< img src="/04072025/6.webp" id="i\_plane" caption="Photo taken by H3em" alt="inside of aircraft’s engine">}}
 
 ## 13. What’s the most fun or satisfying part of your job?
 
@@ -106,7 +106,7 @@ Random slippers.
 
 I don’t really enjoy flying—but I do love wrenching and fixing things.
 
-{{< img src="/04072025/7.jpg" id="i\_plane" caption="Photo taken by H3em" alt="Airbus A320 engine">}}
+{{< img src="/04072025/7.webp" id="i\_plane" caption="Photo taken by H3em" alt="Airbus A320 engine">}}
 
 ## 16. If you could work on any aircraft in the world—past or present—which one would it be, and why?
 
@@ -118,7 +118,7 @@ Yes, the aviation industry in Lithuania is slowly growing, although space for ne
 
 If you like airplanes, know how to use tools, are responsible, aren't afraid to get your hands dirty, and are interested in how various systems—like hydraulics and electronics—work, then I think this is a specialty worth choosing. However, to earn a good salary, you need to be prepared to spend a lot of time studying, taking exams, and gaining experience.
 
-{{< img src="/04072025/8.jpg" id="i\_plane" caption="Photo taken by H3em" alt="Airbus A320 cockpit view">}}
+{{< img src="/04072025/8.webp" id="i\_plane" caption="Photo taken by H3em" alt="Airbus A320 cockpit view">}}
 
 ## 18. What do you think about the future of aviation? Electric planes, automation, fewer mechanics—what’s your take?
 
@@ -132,7 +132,7 @@ Be prepared to learn, read a lot, and get your hands dirty sometimes. Don‘t be
 
 Definitely the Su-57 fighter jet. I love its sharp lines, angles, and overall design. It has an old-school, aggressive look that I really admire. I hope to see it in person one day.
 
-{{< img src="/04072025/9.jpg" id="i\_plane" caption="Photo taken by H3em" alt="Airbus A400M Atlas aircraft on a runway">}}
+{{< img src="/04072025/9.webp" id="i\_plane" caption="Photo taken by H3em" alt="Airbus A400M Atlas aircraft on a runway">}}
 
 **A big thank you to the aircraft mechanic for sharing their story with The Friendly Skies.**
 

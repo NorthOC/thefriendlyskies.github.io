@@ -4,13 +4,13 @@ meta_title: "Top 10 fastest fighter jets in the world still in service: 2025 edi
 description: "Presenting the top 10 fastest fighter jets still in service in 2025. From interceptors to air superiority fighters, see which aircraft dominate the skies."
 date: 2025-02-20T11:00:00+15:00
 draft: false
-thumb: "/20022025/cover.jpg"
+thumb: "/20022025/cover.webp"
 thumb_alt: "F-22 Raptor Demonstration"
 author: "rosita-mickeviciute"
 is_article: true
 ---
 
-{{< img src="/20022025/cover.jpg" id="i\_plane" caption="2nd Lt. Samuel Eckholm / Wikimedia" alt="F-22 Raptor Demonstration">}}
+{{< img src="/20022025/cover.webp" id="i\_plane" caption="2nd Lt. Samuel Eckholm / Wikimedia" alt="F-22 Raptor Demonstration">}}
 
 In aerial combat, speed is everything. Whether it's an air superiority fighter built to dominate the skies, an interceptor designed for rapid response, or a multirole jet capable of long-range missions, getting into the fight quickly can make all the difference.
 
@@ -38,7 +38,7 @@ Interestingly, the F-4 was designed without an internal cannon, as its primary r
 
 Throughout its service in combat, the Phantom achieved [over 320 aerial victories](https://sandiegoairandspace.org/collection/item/mcdonnell-douglas-f-4j-s-phantom-ii). The F-4 also set numerous records for in-flight performance. Between 1959 and 1960, it achieved [15 world records](https://web.archive.org/web/20110629074601/http://www.boeing.com/defense-space/military/f4/firsts.htm), including an absolute speed record and an absolute altitude record, cementing its reputation as a high-performance aircraft.
 
-{{< img src="/20022025/1.jpg" id="i\_plane" caption="U.S. Air Force / Wikimedia" alt="A U.S. Air Force McDonnell F-4C-24-MC Phantom II">}}
+{{< img src="/20022025/1.webp" id="i\_plane" caption="U.S. Air Force / Wikimedia" alt="A U.S. Air Force McDonnell F-4C-24-MC Phantom II">}}
 
 ## 9. Lockheed Martin F-22 Raptor
 
@@ -52,7 +52,7 @@ The F-22’s advanced stealth capabilities are so sensitive that the aircraft is
 
 Unlike many older jets that struggle to exceed the sound barrier at low altitudes, the F-22 can maintain speeds [above Mach 1.2](https://trends.aeroexpo.online/project-79480.html) at sea level and supercruise at over Mach 1.8 without afterburners. This capability is powered by two Pratt & Whitney F119-PW-100 engines with two-dimensional thrust vectoring. Supercruise allows the Raptor to sustain supersonic speeds with significantly reduced fuel consumption, enhancing its range and effectiveness in combat scenarios.
 
-{{< img src="/20022025/2.jpg" id="i\_plane" caption="Tomas Del Coro / Wikimedia" alt="Lockheed Martin-Boeing F-22 Raptor">}}
+{{< img src="/20022025/2.webp" id="i\_plane" caption="Tomas Del Coro / Wikimedia" alt="Lockheed Martin-Boeing F-22 Raptor">}}
 
 ## 8. IAI Kfir
 
@@ -68,7 +68,7 @@ A total of over 220 Kfirs were built, with the aircraft’s first flight taking 
 
 The IAI Kfir is armed with two Rafael-built DEFA 553 cannons, along with FFAR and Zuni unguided air-to-ground rockets, and can carry up to four AIM-9 Sidewinders or Python-series air-to-air missiles. The Kfir’s [only confirmed air-to-air victory](https://www.globalsecurity.org/military/world/israel/kfir.htm#google_vignette) during its service with the Israeli Air Force occurred on June 27, 1979, when a Kfir C.2 shot down a Syrian MiG-21. 
 
-{{< img src="/20022025/3.jpg" id="i\_plane" caption="brewbooks / Wikimedia" alt="Hebrew Name: Kfir (Lion Cub) aircraft">}}
+{{< img src="/20022025/3.webp" id="i\_plane" caption="brewbooks / Wikimedia" alt="Hebrew Name: Kfir (Lion Cub) aircraft">}}
 
 ## 7. Mikoyan-Gurevich MiG-29
 
@@ -86,7 +86,7 @@ The MiG-29 carries a GSh-30-1 autocannon and has seven hardpoints for air-to-air
 
 The exact number of aerial victories achieved by the MiG-29 remains uncertain, but it is estimated to be at least [6 confirmed kills](https://www.globalsecurity.org/military/world/russia/mig-29-combat.htm).
 
-{{< img src="/20022025/4.jpg" id="i\_plane" caption="Julian Herzog / Wikimedia" alt="Polish Air Force Mikoyan-Gurevich MiG-29A Fulcrum">}}
+{{< img src="/20022025/4.webp" id="i\_plane" caption="Julian Herzog / Wikimedia" alt="Polish Air Force Mikoyan-Gurevich MiG-29A Fulcrum">}}
 
 ## 6. Mikoyan-Gurevich MiG-23
 
@@ -102,7 +102,7 @@ Primarily built as an interceptor, the MiG-23 is less maneuverable than modern f
 
 In combat, Iraqi MiG-23 pilots claimed around 20 aerial victories, including a few against F-14 Tomcats. Cuban MiG-23 pilots also claimed 6 aerial victories, though [only one was confirmed](https://web.archive.org/web/20090501071624/http://www.acig.org/artman/publish/article_165.shtml).
 
-{{< img src="/20022025/5.jpg" id="i\_plane" caption="Stahlkocher / Wikimedia" alt="Mikoyan-Gurevich MiG-23MLD Flogger K">}}
+{{< img src="/20022025/5.webp" id="i\_plane" caption="Stahlkocher / Wikimedia" alt="Mikoyan-Gurevich MiG-23MLD Flogger K">}}
 
 ## 5. Grumman F-14 Tomcat
 
@@ -120,7 +120,7 @@ Beyond its combat record, the F-14 gained [widespread recognition](https://natio
 
 Today, Iran is the [only active F-14 operator in the world](https://www.flightglobal.com/defence/2025-world-air-forces-directory/160846.article), with 41 aircraft still in service as of 2025, though many may be non-operational due to sanctions restricting spare parts.
 
-{{< img src="/20022025/6.jpg" id="i\_plane" caption="U.S. Navy / Wikimedia" alt="The Grumman F-14B Tomcat prototype (BuNo 157986) in flight">}}
+{{< img src="/20022025/6.webp" id="i\_plane" caption="U.S. Navy / Wikimedia" alt="The Grumman F-14B Tomcat prototype (BuNo 157986) in flight">}}
 
 ## 4. Sukhoi Su-27 
 
@@ -136,7 +136,7 @@ A notable evolution of the Flanker is the [Su-35 "Super Flanker,"](https://www.a
 
 Looking ahead, Russia plans to gradually replace the Su-27 with the [Sukhoi Su-57](https://www.airforce-technology.com/projects/sukhoit50stealthfigh/), a fifth-generation, twin-engine, multirole stealth fighter.
 
-{{< img src="/20022025/7.jpg" id="i\_plane" caption="Jakub Halun / Wikimedia" alt="Sukhoi Su-27">}}
+{{< img src="/20022025/7.webp" id="i\_plane" caption="Jakub Halun / Wikimedia" alt="Sukhoi Su-27">}}
 
 ## 3. McDonnell Douglas F-15 Eagle
 
@@ -152,7 +152,7 @@ For air-to-ground missions, the F-15E can carry [most USAF weapons](https://www.
 
 Notably, the F-15 is the only fighter jet to have [shot down a satellite](https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/198034/vought-asm-135a-anti-satellite-missile/) and holds an unmatched air-to-air combat record with [104 aerial victories](https://aircraft.fandom.com/wiki/McDonnell_Douglas_F-15_Eagle) and zero losses.
 
-{{< img src="/20022025/8.jpg" id="i\_plane" caption="Ethan Wagner / Wikimedia" alt="An F-15EX Eagle II">}}
+{{< img src="/20022025/8.webp" id="i\_plane" caption="Ethan Wagner / Wikimedia" alt="An F-15EX Eagle II">}}
 
 ## 2. Mikoyan-Gurevich MiG-31 
 
@@ -168,7 +168,7 @@ Armed with fire-and-forget air-to-air missiles, including the R-33E and R-60M, t
 
 Today, the MiG-31 remains in service with Russia’s Air Force, with [128 active units](https://www.flightglobal.com/defence/how-the-global-military-fleet-shapes-up-in-our-2025-world-air-forces-review/160844.article). Kazakhstan, one of the only two countries outside the Soviet Union to operate the jet, retired its fleet in 2024. In total, over 500 MiG-31s have been built, though the aircraft has [yet to record an air-to-air kill](https://migflug.com/jetflights/the-combat-statistics-for-all-the-aircraft-currently-in-use/).
 
-{{< img src="/20022025/9.jpg" id="i\_plane" caption="Dmitriy Pichugin / Wikimedia" alt="Russian Air Force Mikoyan-Gurevich MiG-31">}}
+{{< img src="/20022025/9.webp" id="i\_plane" caption="Dmitriy Pichugin / Wikimedia" alt="Russian Air Force Mikoyan-Gurevich MiG-31">}}
 
 ## 1. Mikoyan-Gurevich MiG-25
 
@@ -186,7 +186,7 @@ The MiG-25 saw service in multiple countries, including the Soviet Union, India,
 
 All confirmed air-to-air kills by the MiG-25 were made by Iraq. They claimed that [at least 15 Iranian aircraft were shot](https://web.archive.org/web/20141008121052/http://www.acig.org/artman/publish/article_211.shtml) down during the Iran-Iraq War.
 
-{{< img src="/20022025/10.jpg" id="i\_plane" caption="Rob Schleiffert / Wikimedia" alt="Foxbat landing at Werneuchen">}}
+{{< img src="/20022025/10.webp" id="i\_plane" caption="Rob Schleiffert / Wikimedia" alt="Foxbat landing at Werneuchen">}}
 
 ## Summary: Top 10 fastest fighter jets in the world that are still flying in the 2025
 

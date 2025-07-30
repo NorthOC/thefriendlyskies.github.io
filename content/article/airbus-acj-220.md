@@ -3,12 +3,12 @@ title: "Airbus ACJ 220"
 description: "Airbus ACJ 220 is the epitome of luxury and sophistication in corporate aviation. Discover its features, capabilities, and the travel experience it offers."
 date: 2023-01-19T22:19:13+02:00
 draft: false
-thumb: "/19012023/pic1.jpeg"
+thumb: "/19012023/pic1.webp"
 thumb_alt: "The white inside cabin of ACJ"
 author: "rosita-mickeviciute"
 is_article: true
 ---
-{{< img src="/19012023/pic1.jpeg" id="i_plane" caption="Airbus ACJ 220" alt="The white inside cabin of ACJ">}}
+{{< img src="/19012023/pic1.webp" id="i_plane" caption="Airbus ACJ 220" alt="The white inside cabin of ACJ">}}
 
 ## Introduction
 

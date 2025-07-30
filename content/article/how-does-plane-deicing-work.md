@@ -4,13 +4,13 @@ meta_title: "How does plane deicing work and why is it important?"
 description: "Discover the essential process of plane deicing, including ground and in-flight methods, and unravel the significance of this crucial aviation procedure."
 date: 2024-12-07T12:00:00+15:00
 draft: false
-thumb: "/07122024/cover.jpg"
+thumb: "/07122024/cover.webp"
 thumb_alt: "C-37B aircraft gets de-iced"
 author: "rosita-mickeviciute"
 is_article: true
 ---
 
-{{< img src="/07122024/cover.jpg" id="i\_plane" caption="Sgt. Steve Cortez / Wikimedia" alt="C-37B aircraft gets de-iced">}}
+{{< img src="/07122024/cover.webp" id="i\_plane" caption="Sgt. Steve Cortez / Wikimedia" alt="C-37B aircraft gets de-iced">}}
 
 As winter months bring snowy landscapes and the Christmas holidays, they also pose a challenge for air travel: ice accumulation on aircraft surfaces.
 
@@ -22,7 +22,7 @@ So, now let's look at the various aspects of plane deicing and why it's so criti
 
 Deicing is the process of removing or preventing the formation of ice on the external surfaces of an aircraft. Ice accumulation on areas like wings, tail and control surfaces can adversely affect the aircraft’s aerodynamics, leading to reduced lift and increased drag. This can compromise the overall performance and even safety of the flight. 
 
-{{< img src="/07122024/1.jpg" id="i\_plane" caption="Jaromir Chalabala / Shutterstock" alt="aircraft with ice on fuselage">}}
+{{< img src="/07122024/1.webp" id="i\_plane" caption="Jaromir Chalabala / Shutterstock" alt="aircraft with ice on fuselage">}}
 
 There are two types of deicing methods for aircraft:
 
@@ -32,7 +32,7 @@ Ground deicing typically takes place before the aircraft takes off. Specialized 
 
 After deicing, ground crews may apply anti-icing fluid to the aircraft. This unheated, undiluted, and thicker fluid—featuring a higher glycol concentration than standard deicers—[helps prevent ice buildup](https://www.naa.edu/aircraft-deicing/) while the plane is on the ground. As the aircraft takes off, the anti-icing fluid naturally runs off, leaving a clean surface for safe flight.
 
-{{< img src="/07122024/2.jpg" id="i\_plane" caption="Jaromir Chalabala / Shutterstock" alt="aircraft being deiced">}}
+{{< img src="/07122024/2.webp" id="i\_plane" caption="Jaromir Chalabala / Shutterstock" alt="aircraft being deiced">}}
 
 ### In-flight deicing
 
@@ -44,7 +44,7 @@ Modern planes often incorporate [bleed air systems](https://www.flyingmag.com/ho
 
 Deicing is not limited to aircraft: it also extends to airport infrastructure. Runways and taxiways must also be kept clear of ice and snow to ensure safe takeoffs and landings. Airports use [snowploughs, brooms and deicing chemicals](https://www.cedengineering.com/userfiles/D03-006%20-%20Airport%20Snow%20and%20Ice%20Control%20Equipment%20-%20US.pdf) to keep these surfaces free from winter precipitation.
 
-{{< img src="/07122024/3.jpg" id="i\_plane" caption="Peter Gudella / Shutterstock" alt="deicing vehicle on an airport">}}
+{{< img src="/07122024/3.webp" id="i\_plane" caption="Peter Gudella / Shutterstock" alt="deicing vehicle on an airport">}}
 
 ## How long does it take?
 
@@ -74,4 +74,4 @@ On March 22, 1992, a USAir Fokker F28 flying from LaGuardia Airport, New York, t
 
 On October 31, 1994, this flight from Indianapolis, Indiana, to Chicago, Illinois, crashed into a field after losing control in severe icing conditions. Ice accumulated beyond the deice boots of the ATR 72, causing an unexpected aileron hinge moment reversal. All 68 onboard died in the high-speed impact.
 
-{{< img src="/07122024/4.jpg" id="i\_plane" caption="Aero Icarus / Wikimedia" alt="American Eagle ATR 72-212">}}
+{{< img src="/07122024/4.webp" id="i\_plane" caption="Aero Icarus / Wikimedia" alt="American Eagle ATR 72-212">}}

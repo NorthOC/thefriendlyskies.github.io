@@ -4,13 +4,13 @@ meta_title: "Air India Flight 171 Crash in Ahmedabad: what we know so far?"
 description: "An Air India Boeing 787-8 Dreamliner carrying 242 people crashed into a residential area of Ahmedabad shortly after takeoff Thursday, killing at least 290 people"
 date: 2025-06-12T11:00:00+15:00
 draft: false
-thumb: "/12062025/cover.jpg"
+thumb: "/12062025/cover.webp"
 thumb_alt: "Air India Boeing 787-8 VT-ANB NRT"
 author: "rosita-mickeviciute"
 is_article: true
 ---
 
-{{< img src="/12062025/cover.jpg" id="i\_plane" caption="Masakatsu Ukon / Wikimedia" alt="Air India Boeing 787-8 VT-ANB NRT">}}
+{{< img src="/12062025/cover.webp" id="i\_plane" caption="Masakatsu Ukon / Wikimedia" alt="Air India Boeing 787-8 VT-ANB NRT">}}
 
 An Air India Boeing 787-8 Dreamliner carrying 242 people crashed into a residential area of Ahmedabad shortly after takeoff Thursday, killing at least 290 people in what is now the deadliest aviation disaster in India in over a decade.
 
@@ -32,7 +32,7 @@ Eyewitnesses described hearing multiple explosions and seeing thick black smoke 
 
 Officials have not yet confirmed how many of the fatalities were passengers versus people on the ground. At least 60 medical students were inside the hostel when the crash occurred.
 
-{{< img src="/12062025/3.jpg" id="i\_plane" caption="Ministry of Home Affairs / Wikimedia" alt="A person on the ground that sustained injuries during the crash of Air India Flight 171.">}}
+{{< img src="/12062025/3.webp" id="i\_plane" caption="Ministry of Home Affairs / Wikimedia" alt="A person on the ground that sustained injuries during the crash of Air India Flight 171.">}}
 
 ## Aircraft and Crew
 
@@ -57,7 +57,7 @@ India's Aircraft Accident Investigation Bureau (AAIB) and the Directorate Genera
 
 Aviation analysts have noted that flight data monitoring on the 787 is extensive and should provide clear insights once the flight recorders are recovered.
 
-{{< img src="/12062025/4.jpg" id="i\_plane" caption="Ministry of Home Affairs / Wikimedia" alt="Shri Amit Shah visits the crash site of Air India Flight 171.">}}
+{{< img src="/12062025/4.webp" id="i\_plane" caption="Ministry of Home Affairs / Wikimedia" alt="Shri Amit Shah visits the crash site of Air India Flight 171.">}}
 
 ## Global Reactions
 

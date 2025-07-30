@@ -4,7 +4,7 @@ date: 2023-01-04T12:31:24+02:00
 is_unique_page: true
 ---
 
-{{< img src="/faq/1.jpg" id="profile-pic" caption="" alt="Rosita Mickeviciute">}}
+{{< img src="/faq/1.webp" id="profile-pic" caption="" alt="Rosita Mickeviciute">}}
 
 ## Who are you?
 

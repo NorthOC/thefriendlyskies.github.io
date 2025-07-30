@@ -16,7 +16,7 @@ In the last 12 months, Friendly Skies has grown by 570% in terms of active users
 
 {{< traffic-stats >}}
 
-{{< img src="/traffic-quality.png" caption="Quality of traffic, last 12 months" alt="pie chart representing the quality of our website traffic.">}}
+{{< img src="/traffic-quality.webp" caption="Quality of traffic, last 12 months" alt="pie chart representing the quality of our website traffic.">}}
 
 ## Available Services
 

@@ -4,13 +4,13 @@ meta_title: "Top 10 largest airlines in terms of their fleet size in 2024"
 description: "Discover the largest airline fleets of 2024. This list consists of the world's top ten largest airlines ranked by their impressive fleet sizes this year"
 date: 2024-04-30T21:41:00+15:00
 draft: false
-thumb: "/30042024/cover.jpg"
+thumb: "/30042024/cover.webp"
 thumb_alt: "Delta planes parked at the airport gates"
 author: "rosita-mickeviciute"
 is_article: true
 ---
 
-{{< img src="/30042024/cover.jpg" id="i_plane" caption="JHVEPhoto / Shutterstock" alt="Delta planes parked at the airport gates">}}
+{{< img src="/30042024/cover.webp" id="i_plane" caption="JHVEPhoto / Shutterstock" alt="Delta planes parked at the airport gates">}}
 
 As we approach the midpoint of 2024, let's unveil the world's largest airlines, measured by their expansive fleet sizes.
 
@@ -39,7 +39,7 @@ Other aircraft in the [fleet](https://www.turkishairlines.com/en-int/flights/fly
 - Airbus A320
 - Airbus A319
 
-{{< img src="/30042024/1.jpg" id="i_plane" caption="EvrenKalinbacak / Shutterstock" alt="Turkish Airlines plane at the airport">}}
+{{< img src="/30042024/1.webp" id="i_plane" caption="EvrenKalinbacak / Shutterstock" alt="Turkish Airlines plane at the airport">}}
 
 ## 9. Air China (CA/CCA)
 
@@ -64,7 +64,7 @@ The [remainder of the fleet](https://www.airchina.us/US/GB/info/aircraft-introdu
 - Boeing 787-9 Dreamliner
 - Boeing 747
 
-{{< img src="/30042024/2.jpg" id="i_plane" caption="Lukas Wunderlich / Shutterstock" alt="Air China plane taking off">}}
+{{< img src="/30042024/2.webp" id="i_plane" caption="Lukas Wunderlich / Shutterstock" alt="Air China plane taking off">}}
 
 ## 8. Ryanair (FR/RYR)
 
@@ -81,7 +81,7 @@ The [Boeing 737 MAX 8](https://www.flightradar24.com/data/airlines/fr-ryr/fleet)
 - Learjet 45
 - Boeing 737
 
-{{< img src="/30042024/3.jpg" id="i_plane" caption="Piotr Mitelski / Shutterstock" alt="Ryanair planes standing at the airport">}}
+{{< img src="/30042024/3.webp" id="i_plane" caption="Piotr Mitelski / Shutterstock" alt="Ryanair planes standing at the airport">}}
 
 ## 7. China Eastern Airlines (MU/CES)
 
@@ -103,7 +103,7 @@ The Airbus A320 takes the lead as the [most prevalent aircraft](https://www.flig
 - Comac C919
 - Boeing 737 MAX 8
 
-{{< img src="/30042024/4.jpg" id="i_plane" caption="Miro Vrlik Photography / Shutterstock" alt="China Eastern plane parked at the airport's gate">}}
+{{< img src="/30042024/4.webp" id="i_plane" caption="Miro Vrlik Photography / Shutterstock" alt="China Eastern plane parked at the airport's gate">}}
 
 ## 6. China Southern Airlines (CZ/CSN)
 
@@ -127,7 +127,7 @@ The [Boeing 737](https://www.flightradar24.com/data/airlines/cz-csn/fleet) stand
 - Airbus A380
 - Sikorsky S-92
 
-{{< img src="/30042024/5.jpg" id="i_plane" caption="Mario Hagen / Shutterstock" alt="China Southern plane parked at the airport">}}
+{{< img src="/30042024/5.webp" id="i_plane" caption="Mario Hagen / Shutterstock" alt="China Southern plane parked at the airport">}}
 
 ## 5. FedEx Express (FX/FDX)
 
@@ -151,7 +151,7 @@ The [biggest in terms of units](https://www.flightradar24.com/data/airlines/fx-f
 - ATR 72
 - Boeing 737
 
-{{< img src="/30042024/6.jpg" id="i_plane" caption="Austin Deppe / Shutterstock" alt="FedEx Express plane flying near the mountains">}}
+{{< img src="/30042024/6.webp" id="i_plane" caption="Austin Deppe / Shutterstock" alt="FedEx Express plane flying near the mountains">}}
 
 ## 4. Southwest Airlines (WN/SWA)
 
@@ -163,7 +163,7 @@ The airline serves [121 destinations across 12 countries](https://www.flightconn
 
 The airline only operates [two types of aircraft](https://www.flightradar24.com/data/airlines/wn-swa/fleet): Boeing 737 and Boeing 737 MAX 8.
 
-{{< img src="/30042024/7.jpg" id="i_plane" caption="Robin Guess / Shutterstock" alt="Southwest plane taking off">}}
+{{< img src="/30042024/7.webp" id="i_plane" caption="Robin Guess / Shutterstock" alt="Southwest plane taking off">}}
 
 ## 3. Delta Air Lines (DL/DAL)
 
@@ -190,7 +190,7 @@ The largest portion of its fleet consists of 169 units of the [Mitsubishi CRJ](h
 - Airbus A350
 - Embraer E170
 
-{{< img src="/30042024/8.jpg" id="i_plane" caption="JHVEPhoto / Shutterstock" alt="Delta planes parked at the gates">}}
+{{< img src="/30042024/8.webp" id="i_plane" caption="JHVEPhoto / Shutterstock" alt="Delta planes parked at the gates">}}
 
 ## 2. United Airlines (UA/UAL)
 
@@ -213,7 +213,7 @@ The Embraer E175 is the [most numerous aircraft](https://www.flightradar24.com/d
 - Embraer E170
 - Airbus A321
 
-{{< img src="/30042024/9.jpg" id="i_plane" caption="Ronnie Chua / Shutterstock" alt="United planes parked at the airport gates">}}
+{{< img src="/30042024/9.webp" id="i_plane" caption="Ronnie Chua / Shutterstock" alt="United planes parked at the airport gates">}}
 
 ## 1. American Airlines (AA/AAL)
 
@@ -236,7 +236,7 @@ The predominant aircraft in the AA fleet is the [Boeing 737 with over 350 units]
 - Embraer E170
 - Boeing 787-8 and -9 Dreamliner
 
-{{< img src="/30042024/10.jpg" id="i_plane" caption="Bo Shen / Shutterstock" alt="American Airlines planes parked at the airport gates">}}
+{{< img src="/30042024/10.webp" id="i_plane" caption="Bo Shen / Shutterstock" alt="American Airlines planes parked at the airport gates">}}
 
 ## Summary: Top 10 world's biggest airlines in terms of their fleet size as of 2024
 

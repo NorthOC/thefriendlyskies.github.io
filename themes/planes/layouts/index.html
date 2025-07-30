@@ -1,5 +1,5 @@
 {{ define "header" }}
-<div id="affiliate-banner">
+<div id="affiliate-banner" width="800" height="90">
 </div>
 {{ end }}
 
@@ -7,14 +7,16 @@
 {{ define "main" }}
   <div class="fit-content">
     {{ $counter := 0}}
+    {{ $lazy_load := 0}}
     {{ $pacing := slice 2 6 6 6 6 }}
     {{ $idx := 0}}
     {{ $ads := slice .Site.Data.ads }}
 
     {{range .Site.RegularPages}}
       {{if and (.Params.is_article) (not .Params.draft)}}
-        {{- partial "article_card.html" . -}}
+        {{ partial "article_card.html" (dict "page" . "idx" $lazy_load) }}
         {{ $counter = add $counter 1 }}
+        {{ $lazy_load = add $lazy_load 1}}
         {{if eq $counter (index $pacing $idx) }}
           {{ partial "adsense.html" (dict "idx" $idx) }}
           {{$counter = 0}}

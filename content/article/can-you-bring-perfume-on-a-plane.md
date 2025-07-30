@@ -3,12 +3,12 @@ title: "Can you bring perfume on board a plane? Guidelines and regulations"
 description: "Want to bring perfume with you on your next flight? Discover the rules and tips for doing so. Stay informed with our travel guidelines and regulations."
 date: 2024-02-14T14:20:44+02:00
 draft: false
-thumb: "/14022024/cover.jpeg"
+thumb: "/14022024/cover.webp"
 thumb_alt: "Woman testing and choosing to buy perfume in duty-free store"
 author: "rosita-mickeviciute"
 is_article: true
 ---
-{{< img src="/14022024/cover.jpeg" id="i_plane" caption="Woman testing and choosing to buy perfume in duty-free store" alt="Woman testing and choosing to buy perfume in duty-free store">}}
+{{< img src="/14022024/cover.webp" id="i_plane" caption="Woman testing and choosing to buy perfume in duty-free store" alt="Woman testing and choosing to buy perfume in duty-free store">}}
 
 Air travel comes with a host of regulations and guidelines that can sometimes leave travelers in a haze of uncertainty, especially when it comes to personal items like perfume.
 
@@ -46,7 +46,7 @@ Duty-free fragrances, purchased at the airport before your flight, are allowed i
 
 You can purchase duty-free fragrances after passing through security and before boarding your flight. They are typically sold in sealed bags, and you should keep them in the original packaging until you reach your destination.
 
-{{< img src="/14022024/1.jpeg" id="i_plane" caption=" Grey82 / Shutterstock" alt="Duty Free Shop in Esenboga International airport.">}}
+{{< img src="/14022024/1.webp" id="i_plane" caption=" Grey82 / Shutterstock" alt="Duty Free Shop in Esenboga International airport.">}}
 
 ## How much perfume can you take on a plane?
 
@@ -68,7 +68,7 @@ Perfume sample vials are typically very small glass containers that hold a small
 
 Some perfume retailers offer custom decanting services, whereby they transfer your favorite fragrances into smaller, travel-sized vials that comply with TSA regulations. These personalized decants allow you to travel with your preferred scents without the need for DIY transfers.
 
-{{< img src="/14022024/2.jpeg" id="i_plane" caption="SS 360 / Shutterstock" alt="colourful beautiful perfume bottles on a plane white surface">}}
+{{< img src="/14022024/2.webp" id="i_plane" caption="SS 360 / Shutterstock" alt="colourful beautiful perfume bottles on a plane white surface">}}
 
 *Note: Authorized aerosol dispensers (buttons or nozzles) should be safeguarded with caps or other appropriate measures to prevent unintended discharge.*
 

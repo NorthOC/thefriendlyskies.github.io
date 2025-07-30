@@ -4,13 +4,13 @@ meta_title: "Asiana Flight 214 landing accident caused by human error"
 description: "In July 2013, a Boeing 777 operated by Asiana Airlines experienced a landing accident caused by human error, resulting in the tragic loss of three lives."
 date: 2024-10-31T16:00:00+15:00
 draft: false
-thumb: "/31102024/cover.jpg"
+thumb: "/31102024/cover.webp"
 thumb_alt: "NTSB investigators conduct first site assessment of Asiana Airlines Flight 214 in San Francisco"
 author: "rosita-mickeviciute"
 is_article: true
 ---
 
-{{< img src="/31102024/cover.jpg" id="i\_plane" caption="NTSB / Wikimedia" alt="NTSB investigators conduct first site assessment of Asiana Airlines Flight 214 in San Francisco">}}
+{{< img src="/31102024/cover.webp" id="i\_plane" caption="NTSB / Wikimedia" alt="NTSB investigators conduct first site assessment of Asiana Airlines Flight 214 in San Francisco">}}
 
 On July 6, 2013, a Boeing 777 operated by Asiana Airlines was nearing its destination at San Francisco International Airport. What should have been a routine landing turned into a harrowing ordeal that claimed three lives and left dozens injured. This accident would raise serious questions regarding safety, training procedures, and the role of human factors within the aviation industry.
 
@@ -24,7 +24,7 @@ A fresh new Boeing 777-200ER was delivered to Asiana Airlines on March 7, 2006. 
 
 As of 2013, in over 18 years of the Triple Seven’s operating history, Flight 214 was the first fatal accident, the second crash (following [British Airways Flight 38](https://samchui.com/2023/03/05/miracle-on-british-airways-flight-38-boeing-777s-first-hull-loss/)) and the third hull loss (damaged aircraft without the possibility to repair it).
 
-{{< img src="/31102024/1.jpg" id="i\_plane" caption="Markus Mainka / Shutterstock" alt="Boeing 777-200ER plane of Asiana Airlines at the airport">}}
+{{< img src="/31102024/1.webp" id="i\_plane" caption="Markus Mainka / Shutterstock" alt="Boeing 777-200ER plane of Asiana Airlines at the airport">}}
 
 ## Crew and passengers involved
 
@@ -45,7 +45,7 @@ On July 6, 2013, Asiana Airlines Flight OZ214 departed from Incheon Internationa
 
 The weather conditions were very good, with only light winds, [visibility extending to 10 miles](https://www.youtube.com/watch?v=XLYeUbeyfOg), no precipitation, and no forecasts or reports of wind shear.
 
-{{< img src="/31102024/2.jpg" id="i\_plane" caption="NTSB / Wikimedia" alt="Asiana Airlines Flight 214 wreckage">}}
+{{< img src="/31102024/2.webp" id="i\_plane" caption="NTSB / Wikimedia" alt="Asiana Airlines Flight 214 wreckage">}}
 
 The pilot in the captain's position received clearance from air traffic control to land and maintain a speed of 180 knots. Having deployed the landing gear and set the flaps at 30 degrees, the designated threshold speed was 137 knots. At 1,600 feet, the autopilot was disengaged, throttles set to idle, and the aircraft descended to 1,400 feet at a speed of 170 knots, reducing to 149 knots at 1,000 feet. 
 
@@ -63,7 +63,7 @@ A call for a go-around was made on the flight deck, but only 1.5 seconds were le
 
 Out of the 307 passengers and crew on board, three individuals lost their lives, 49 suffered serious injuries, and an additional 138 were injured.
 
-{{< img src="/31102024/3.jpg" id="i\_plane" caption="NTSB / Wikimedia" alt="Asiana Airlines Flight 214 wreckage">}}
+{{< img src="/31102024/3.webp" id="i\_plane" caption="NTSB / Wikimedia" alt="Asiana Airlines Flight 214 wreckage">}}
 
 ## Investigation and outcome of Flight 214
 
@@ -77,7 +77,7 @@ This was attributed to a [cockpit culture](https://nypost.com/2014/06/24/pilot-m
 
 Deficiencies in [Boeing's documentation](https://www.reuters.com/article/us-usa-crash-asiana-lawsuit-idUSBRE96G01V20130717/) of complex flight control systems and [Asiana Airlines' pilot training](https://www.nbcnews.com/news/us-news/asiana-airline-chief-says-it-plans-improve-pilot-training-after-nvna19370461) were also held to blame.
 
-{{< img src="/31102024/4.jpg" id="i\_plane" caption="NTSB / Wikimedia" alt="Asiana Airlines Flight 214 wreckage">}}
+{{< img src="/31102024/4.webp" id="i\_plane" caption="NTSB / Wikimedia" alt="Asiana Airlines Flight 214 wreckage">}}
 
 It was [concluded that](https://www.ntsb.gov/investigations/accidentreports/reports/aar1401.pdf) "the flight crew’s insufficient monitoring of airspeed indications during the approach resulted from expectancy, increased workload, fatigue, and automation reliance".
 
