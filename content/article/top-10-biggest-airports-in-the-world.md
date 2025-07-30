@@ -3,13 +3,13 @@ title: "Top 10 busiest airports in the world by total passenger traffic"
 description: "Find out the busiest airports in the world by passenger traffic! Presenting the Top 10 world's largest terminals in 2022 that welcomed millions of travelers."
 date: 2023-08-27T21:41:00+15:00
 draft: false
-thumb: "/27082023/cover.jpeg"
+thumb: "/27082023/cover.webp"
 thumb_alt: "Highly edited photo of airport with planes and buildings in the background"
 author: "rosita-mickeviciute"
 is_article: true
 ---
 
-{{< img src="/27082023/cover.jpeg" id="" caption="Nate Hovee / Shutterstock" alt="Nate Hovee / Shutterstock">}}
+{{< img src="/27082023/cover.webp" id="" caption="Nate Hovee / Shutterstock" alt="Nate Hovee / Shutterstock">}}
 
 Today I want to dive into the world of air travel superstars: the international hub airports that that boast the highest passenger traffic. These airports are like magnets for travelers from around the globe. Some are well-known for their worldwide connections, while others smartly sit close to city centers, making travel super easy.
 
@@ -23,7 +23,7 @@ Sprawling across 8,001 acres of land, Paris Charles de Gaulle Airport is situate
 
 Notably, the airport catered to a total of 57.4 million passengers in the year 2022, marking a remarkable 119.4% increase compared to 2021. Paris Charles de Gaulle Airport continues to solidify its status as one of Europe's premier aviation hubs.
 
-{{< img src="/27082023/pic1.jpeg" id="" caption="Markus Mainka / Shutterstock" alt="Markus Mainka / Shutterstock">}}
+{{< img src="/27082023/pic1.webp" id="" caption="Markus Mainka / Shutterstock" alt="Markus Mainka / Shutterstock">}}
 
 ## 9. Indira Gandhi International Airport (DEL/VIDP), New Delhi, India
 
@@ -33,7 +33,7 @@ Originally inaugurated in 1962, the airport has undergone extensive developments
 
 Notably, the year 2022 marked a significant milestone for Indira Gandhi International Airport, as it welcomed a total of 59.4 million passengers. This notable achievement represented a 60.2% increase compared to the previous year, underscoring the airport's pivotal role in facilitating travel within India and fostering international connections.
 
-{{< img src="/27082023/pic2.jpeg" id="" caption="knyazevfoto / Shutterstock" alt="knyazevfoto / Shutterstock">}}
+{{< img src="/27082023/pic2.webp" id="" caption="knyazevfoto / Shutterstock" alt="knyazevfoto / Shutterstock">}}
 
 ## 8. Heathrow Airport (LHR/EGLL), London, England 
 
@@ -43,7 +43,7 @@ Encompassing 2,999 acres of land, London Heathrow Airport stands as a colossal a
 
 The year 2022 marked a momentous achievement for London Heathrow Airport, as it welcomed a total of 61.6 million passengers. This remarkable milestone reflected a substantial 217.7% increase compared to the previous year, underscoring Heathrow's enduring significance in connecting the United Kingdom to global destinations.
 
-{{< img src="/27082023/pic3.jpeg" id="" caption="Leonid Andronov / Shutterstock" alt="Leonid Andronov / Shutterstock">}}
+{{< img src="/27082023/pic3.webp" id="" caption="Leonid Andronov / Shutterstock" alt="Leonid Andronov / Shutterstock">}}
 
 ## 7. Istanbul Airport (IST/LTFM), Istanbul, Turkey
 
@@ -53,7 +53,7 @@ Encompassing a vast expanse of 19,000 acres, Istanbul Airport stands as a monume
 
 Notably, the year 2022 was a pivotal year for Istanbul Airport, as it welcomed 64.2 million passengers. This achievement marked a significant 73.8% increase compared to 2021, underscoring the airport's rapid growth and its role in connecting Turkey to destinations worldwide. It is expected that by 2027, the annual passenger capacity will reach 150 million travelers.
 
-{{< img src="/27082023/pic4.jpeg" id="" caption="Ancapital / Shutterstock" alt="Ancapital / Shutterstock">}}
+{{< img src="/27082023/pic4.webp" id="" caption="Ancapital / Shutterstock" alt="Ancapital / Shutterstock">}}
 
 ## 6. Los Angeles International Airport (LAX/KLAX), Los Angeles, California, US
 
@@ -63,7 +63,7 @@ Originally established in 1928, this airport's beginnings trace back to a time w
 
 Los Angeles International Airport boasts four runways, with the longest spanning 3,939 meters. Passenger numbers for 2022 were 65.9 million with a 37.3% increase from 2021. As part of its ongoing expansion, LAX is poised to enhance its infrastructure even further by building two more terminals.
 
-{{< img src="/27082023/pic5.jpeg" id="" caption="Markus Mainka / Shutterstock" alt="Markus Mainka / Shutterstock">}}
+{{< img src="/27082023/pic5.webp" id="" caption="Markus Mainka / Shutterstock" alt="Markus Mainka / Shutterstock">}}
 
 ## 5. Dubai International Airport (DXB/OMDB), Dubai, United Arab Emirates
 
@@ -73,7 +73,7 @@ Covering an area of 7,200 acres, Dubai International Airport stands as a sprawli
 
 Notably, Dubai International Airport has consistently showcased its significance as a global transit hub. In 2022, the airport marked a notable achievement by accommodating 66 million passengers. This achievement reflected an impressive 127% increase compared to the previous year, underscoring Dubai's vital role in connecting the United Arab Emirates to international destinations.
 
-{{< img src="/27082023/pic6.jpeg" id="" caption="Eugene Lu / Shutterstock" alt="Eugene Lu / Shutterstock">}}
+{{< img src="/27082023/pic6.webp" id="" caption="Eugene Lu / Shutterstock" alt="Eugene Lu / Shutterstock">}}
 
 ## 4. Chicago O’Hare International Airport (ORD/KORD), Chicago, Illinois, US
 
@@ -83,7 +83,7 @@ Covering 7,627 acres, Chicago O'Hare International Airport stands as a remarkabl
 
 The airport boasts an impressive number of 8 runways, the longest being 3,963 meters long. Total passenger numbers for 2022 were 68.3 million with a 26.5% increase from 2021.
 
-{{< img src="/27082023/pic7.jpeg" id="" caption="EQRoy / Shutterstock" alt="EQRoy / Shutterstock">}}
+{{< img src="/27082023/pic7.webp" id="" caption="EQRoy / Shutterstock" alt="EQRoy / Shutterstock">}}
 
 ## 3.  Denver International Airport (DEN/KDEN), Denver, Colorado, US
 
@@ -95,7 +95,7 @@ The airport boasts 6 runways with the longest measuring an impressive 4,877 mete
 
 In 2022, Denver International Airport received 66 million, a 17.8% increase from 2021. 
 
-{{< img src="/27082023/pic8.jpeg" id="" caption="Bob Pool / Shutterstock" alt="Bob Pool / Shutterstock">}}
+{{< img src="/27082023/pic8.webp" id="" caption="Bob Pool / Shutterstock" alt="Bob Pool / Shutterstock">}}
 
 ## 2. Dallas Fort Worth International Airport (DFW/KDFW), Texas, US
 
@@ -105,7 +105,7 @@ Encompassing a vast 27,000 acres, Dallas Fort Worth International Airport stands
 
 With an impressive array of 7 runways, DFW ensures seamless operations. The longest among them spans an exceptional 4,850 meters. The year 2022 witnessed total passenger traffic of 73.3 million, showcasing a remarkable 17.5% increase from the preceding year. This robust growth underscores Dallas Fort Worth International Airport's central role in fostering connections, innovation, and progress.
 
-{{< img src="/27082023/pic9.jpeg" id="" caption="EQRoy / Shutterstock" alt="EQRoy / Shutterstock">}}
+{{< img src="/27082023/pic9.webp" id="" caption="EQRoy / Shutterstock" alt="EQRoy / Shutterstock">}}
 
 ## 1. Hartsfield-Jackson International Airport (ATL/KATL), Georgia, US
 

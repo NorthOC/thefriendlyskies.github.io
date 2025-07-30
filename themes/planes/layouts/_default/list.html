@@ -6,9 +6,6 @@
 {{ define "main" -}}
   <div class="fit-content">
     {{ .Content }}
-    {{range .Pages}}
-      {{if .Params.is_article }} {{- partial "article_card.html" . -}} {{end}}
-    {{end}}
   </div>
 {{- end }}
 

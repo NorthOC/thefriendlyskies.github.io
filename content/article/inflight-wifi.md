@@ -4,13 +4,13 @@ meta_title: "In-flight Wi-Fi: availability, costs and airlines"
 description: "In-flight Wi-Fi is becoming a necessity for more and more travelers. But how does it work, and which airlines offer internet services for free?"
 date: 2024-11-14T12:19:00+15:00
 draft: false
-thumb: "/14112024/4.jpg"
+thumb: "/14112024/4.webp"
 thumb_alt: "Airplane flying over radars"
 author: "rosita-mickeviciute"
 is_article: true
 ---
 
-{{< img src="/14112024/4.jpg" id="i\_plane" caption="Steve Heap / Shutterstock" alt="Airplane flying over radars">}}
+{{< img src="/14112024/4.webp" id="i\_plane" caption="Steve Heap / Shutterstock" alt="Airplane flying over radars">}}
 
 With more and more passengers wanting to stay connected, the aviation industry has taken significant steps to keep them linked to the digital world, even at high altitudes. In-flight Wi-Fi has become a necessity for many travelers, turning long journeys into opportunities for work, entertainment or socializing. 
 
@@ -36,7 +36,7 @@ Starlink satellites orbit the Earth at lower altitudes than traditional satellit
 - **Pros**: Utilizes low Earth orbit satellites for reduced latency.
 - **Cons**: Limited coverage in certain regions; ongoing deployment and expansion.
 
-{{< img src="/14112024/1.jpg" id="i\_plane" caption="Albert89 / Shutterstock" alt="Starlink system">}}
+{{< img src="/14112024/1.webp" id="i\_plane" caption="Albert89 / Shutterstock" alt="Starlink system">}}
 
 ### Air-to-ground systems
 
@@ -70,14 +70,14 @@ Major airlines recognize the importance of in-flight connectivity. While most ca
 - **Singapore Airlines**: Free Wi-Fi for passengers traveling in Suites, Business Class, First Class, PPS Club members and KrisFlyer members (free enrollment).
 - **Aer Lingus**: Wi-Fi is free for business class users and AerClub Concierge members.
 
-{{< img src="/14112024/2.jpg" id="i\_plane" caption="Croatorum / Shutterstock" alt="Aerlingus airlines">}}
+{{< img src="/14112024/2.webp" id="i\_plane" caption="Croatorum / Shutterstock" alt="Aerlingus airlines">}}
 
 - **Virgin Australia**: Wi-Fi is free to business class passengers, Velocity Platinum frequent flyers and members of Virgin Australia Beyond.
 - **Qantas**: Free Wi-Fi is available for all passengers.
 - **Philippine Airlines**: Free Wi-Fi for all passengers.
 - **JetBlue Airways**: Free Wi-Fi is available for all passengers.
 
-{{< img src="/14112024/3.jpg" id="i\_plane" caption="Markus Mainka / Shutterstock" alt="JetBlue airlines">}}
+{{< img src="/14112024/3.webp" id="i\_plane" caption="Markus Mainka / Shutterstock" alt="JetBlue airlines">}}
 
 ## The future of in-flight Wi-Fi
 
@@ -91,7 +91,7 @@ Ongoing improvements in satellite technology aim to address latency concerns, en
 
 The integration of 5G networks is expected to revolutionize in-flight Wi-Fi yet further, offering [faster speeds and lower latency](https://www.verizon.com/business/en-gb/resources/articles/five-ways-5g-will-transform-the-air-travel-experience/).
 
-{{< img src="/14112024/4.jpg" id="i\_plane" caption="Steve Heap / Shutterstock" alt="Airplane flying over radars">}}
+{{< img src="/14112024/4.webp" id="i\_plane" caption="Steve Heap / Shutterstock" alt="Airplane flying over radars">}}
 
 ### Artificial intelligence integration
 

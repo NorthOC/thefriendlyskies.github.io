@@ -3,13 +3,13 @@ title: "Exploring the largest US military bases: their size and operations"
 description: "The largest US military bases in 2023: their size, operations, and the major roles these bases play in supporting military branches and missions across the US."
 date: 2023-09-06T14:52:00+15:00
 draft: false
-thumb: "/06092023/pic0.jpeg"
+thumb: "/06092023/pic0.webp"
 author: "rosita-mickeviciute"
 thumb_alt: "Side shot of soldier firing AR-15"
 is_article: true
 ---
 
-{{< img src="/06092023/pic0.jpeg" id="" caption="" alt="Side shot of soldier firing AR-15">}}
+{{< img src="/06092023/pic0.webp" id="" caption="" alt="Side shot of soldier firing AR-15">}}
 
 The United States (US) military operates on a global scale, with a vast network of bases and installations spread across various continents. Among these, the largest and most influential are the many sprawling military bases within its own borders. One such base stands out for its sheer magnitude and significance - an emblem of American military power and strategy.
 
@@ -51,7 +51,7 @@ Fort Hood first came into existence when General Marshall brought the Tank Destr
 
 Today, Fort Hood specializes in the training of armored and mechanized units, with a focus on maintaining combat readiness. Some of its most important divisions and brigades include the 1st Cavalry Division, 3rd Cavalry Regiment, 13th Sustainment Command (Expeditionary), 89th Military Police Brigade, and 504th Military Intelligence Brigade. 
 
-{{< img src="/06092023/pic1.jpeg" id="" caption="Twin Oaks / Shutterstock" alt="Twin Oaks / Shutterstock">}}
+{{< img src="/06092023/pic1.webp" id="" caption="Twin Oaks / Shutterstock" alt="Twin Oaks / Shutterstock">}}
 
 ## 3. Fort Moore (formerly Fort Benning)
 
@@ -65,7 +65,7 @@ Today, Fort Benning provides the headquarters for several units, including the U
 
 As the ‘Home of the Infantry’, Fort Benning continues to be a crucial training center for infantry, armor, and airborne forces. The base's Maneuver Center of Excellence focuses on developing modern warfighting tactics and techniques.
 
-{{< img src="/06092023/pic2.jpeg" id="" caption="Don Valentine Photography / Shutterstock" alt="Don Valentine Photography / Shutterstock">}}
+{{< img src="/06092023/pic2.webp" id="" caption="Don Valentine Photography / Shutterstock" alt="Don Valentine Photography / Shutterstock">}}
 
 ## 4. Joint Base Lewis-McChord 
 
@@ -87,7 +87,7 @@ The notable units and commands stationed at Camp Pendleton include the 1st Marin
 
 The 1st Marine Logistics Group is also responsible for providing logistics support to the I Marine Expeditionary Force and its subordinate units. It ensures that the necessary resources, supplies, and equipment are available for operational readiness.
 
-{{< img src="/06092023/pic3.jpeg" id="" caption="Matt Gush / Shutterstock" alt="Matt Gush / Shutterstock">}}
+{{< img src="/06092023/pic3.webp" id="" caption="Matt Gush / Shutterstock" alt="Matt Gush / Shutterstock">}}
 
 ## 6. Fort Campbell
 
@@ -131,7 +131,7 @@ It is a key operational hub for the U.S. Navy, supporting a wide range of naval 
 
 Naval Station Norfolk not only serves as a hub for surface vessels, but also boasts a dynamic presence of squadrons, submarines, and various naval assets. 
 
-{{< img src="/06092023/pic4.jpeg" id="" caption="gmeland / Shutterstock" alt="gmeland / Shutterstock">}}
+{{< img src="/06092023/pic4.webp" id="" caption="gmeland / Shutterstock" alt="gmeland / Shutterstock">}}
 
 ## 10. Fort Bliss
 

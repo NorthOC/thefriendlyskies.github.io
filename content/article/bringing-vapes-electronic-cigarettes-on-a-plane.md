@@ -3,12 +3,12 @@ title: "Vapes and electronic cigarettes on a plane: what you need to know"
 description: "Read our guidelines for traveling with vapes and e-cigarettes on a plane. Did you know that electronic smoking devices are only allowed in carry-on baggage?"
 date: 2024-01-25T14:23:00+02:00
 draft: false
-thumb: "/25012024/cover.jpg"
+thumb: "/25012024/cover.webp"
 thumb_alt: "Man is smoking electronic cigarette or vaporizer."
 author: "rosita-mickeviciute"
 is_article: true
 ---
-{{< img src="/25012024/cover.jpg" id="i_plane" caption="Man is smoking electronic cigarette or vaporizer" alt="Man is smoking electronic cigarette or vaporizer.">}}
+{{< img src="/25012024/cover.webp" id="i_plane" caption="Man is smoking electronic cigarette or vaporizer" alt="Man is smoking electronic cigarette or vaporizer.">}}
 
 In times when vaping and electronic cigarettes have become increasingly popular, it's not uncommon for travelers to wonder about the rules and regulations surrounding electronic smoking devices when planning their trip abroad. Bringing vapes and e-cigarettes on a plane can be a bit of a gray area, with a multitude of factors to consider, from airline and airport policies to the laws of the country you're traveling to.
 
@@ -48,7 +48,7 @@ To prevent leaks and spills during air travel, it's highly recommended to empty 
 
 Also, vaping devices can sometimes resemble prohibited items, so having an empty tank can make the security screening process smoother and avoid unnecessary delays.
 
-{{< img src="/25012024/1.jpg" id="i_plane" caption=" vladee / Shutterstock" alt="Disposable e-cigarettes on white isolated background">}}
+{{< img src="/25012024/1.webp" id="i_plane" caption=" vladee / Shutterstock" alt="Disposable e-cigarettes on white isolated background">}}
 
 ## Checked vs. carry-on
 
@@ -70,7 +70,7 @@ At security checkpoints, your vaping device and liquids must adhere to the TSA's
 
 Also, be aware of the airport's list of prohibited items, as some components or accessories of e-cigarettes and vapes may fall into this category.
 
-{{< img src="/25012024/2.jpg" id="i_plane" caption=" hayaletsek / Shutterstock" alt="electronic cigarette white background.">}}
+{{< img src="/25012024/2.webp" id="i_plane" caption=" hayaletsek / Shutterstock" alt="electronic cigarette white background.">}}
 
 ## Vaping and smoking requirements for the country you're traveling to
 

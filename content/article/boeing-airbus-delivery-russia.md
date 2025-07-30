@@ -4,11 +4,11 @@ description: "A look at the uncertain future of Boeing and Airbus plane deliveri
 date: 2022-09-08T20:13:10+02:00
 draft: false
 author: "rosita-mickeviciute"
-thumb: "/18022023/aeroflot_sukhoi.jpg"
+thumb: "/18022023/aeroflot_sukhoi.webp"
 thumb_alt: "Aeroflot, Sukhoi Superjet 100-95B"
 is_article: true
 ---
-{{< img src="/18022023/aeroflot_sukhoi.jpg" id="i_plane" caption="Aeroflot, Sukhoi Superjet 100-95B" alt="Aeroflot, Sukhoi Superjet 100-95B">}}
+{{< img src="/18022023/aeroflot_sukhoi.webp" id="i_plane" caption="Aeroflot, Sukhoi Superjet 100-95B" alt="Aeroflot, Sukhoi Superjet 100-95B">}}
 
 It seems that Russia&#39;s dependence on Airbus and Boeing for new planes will become a thing of
 the past. The country&#39;s airline, Aeroflot, has finally confirmed that it is turning to its own

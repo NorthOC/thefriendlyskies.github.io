@@ -4,13 +4,13 @@ meta_title: "Top 10 world's biggest private jet charter companies of 2024"
 description: "Discover 2024's top 10 private jet charter companies, including PlaneSense, JSX, Wheels Up, PrivateFly, Airshare, Vista Global, Flexjet, NetJets, and others."
 date: 2024-10-17T22:00:00+15:00
 draft: false
-thumb: "/17102024/cover.jpg"
+thumb: "/17102024/cover.webp"
 thumb_alt: "Interior of a NetJets Gulfstream G450"
 author: "rosita-mickeviciute"
 is_article: true
 ---
 
-{{< img src="/17102024/cover.jpg" id="i\_plane" caption="Quintin Soloviev / Wikimedia" alt="Interior of a NetJets Gulfstream G450">}}
+{{< img src="/17102024/cover.webp" id="i\_plane" caption="Quintin Soloviev / Wikimedia" alt="Interior of a NetJets Gulfstream G450">}}
 
 Private jet charter companies have transformed air travel by offering luxurious, convenient, and personalized experiences. 
 
@@ -32,7 +32,7 @@ PlaneSense was established in 1996 in Portsmouth, New Hampshire. The company ope
 
 PlaneSense also offers a fractional ownership program and [on-demand charter services](https://privatejetcardcomparisons.com/providers/planesense/), with flights arranged through its affiliated company, Cobalt Air.
 
-{{< img src="/17102024/7.jpg" id="i\_plane" caption="lorenzatx / Shutterstock" alt="Pilatus PC-12 turboprop">}}
+{{< img src="/17102024/7.webp" id="i\_plane" caption="lorenzatx / Shutterstock" alt="Pilatus PC-12 turboprop">}}
 
 ## 9. JSX (formerly JetSuiteX)
 
@@ -40,7 +40,7 @@ JSX is an air carrier founded in 2016 in Dallas, Texas, operating in the United 
 
 JSX operates as a public charter company and [does not directly manage its own aircraft](https://www.reviewjournal.com/business/jet-suite-to-offer-luxury-travel-between-california-and-las-vegas/). Instead, it charters regional jets from a subsidiary and resells seats to the public. JSX uses fixed-base operator (FBO) terminals, providing customers with a more private jet-like experience. As a result, JSX flights depart from private jet terminals, separate from standard passenger terminals.
 
-{{< img src="/17102024/8.jpg" id="i\_plane" caption="Bigstripe / Wikimedia" alt="Customers hopping on JSX jet in Burbank">}}
+{{< img src="/17102024/8.webp" id="i\_plane" caption="Bigstripe / Wikimedia" alt="Customers hopping on JSX jet in Burbank">}}
 
 ## 8. FlyExclusive
 
@@ -57,7 +57,7 @@ FlyExclusive’s fleet includes a variety of private jets:
 - Citation X 
 - Challenger 350
 
-{{< img src="/17102024/9.jpg" id="i\_plane" caption="Coldstreamer20 / Wikimedia" alt="A Gulfstream G-IV (N410JS) of flyExclusive taxis">}}
+{{< img src="/17102024/9.webp" id="i\_plane" caption="Coldstreamer20 / Wikimedia" alt="A Gulfstream G-IV (N410JS) of flyExclusive taxis">}}
 
 ## 7. Jet Linx
 
@@ -119,7 +119,7 @@ Wheels Up, established in 2013 in New York City, operates on a membership-based 
 
 Wheels Up provides a [comprehensive suite of services](https://privatejetcardcomparisons.com/providers/wheels-up-aviation/), including aircraft maintenance, sales, FBO, on-demand charters, and repositioning flights.
 
-{{< img src="/17102024/10.jpg" id="i\_plane" caption="Catharine Pierce / Shutterstock" alt="Beechcraft King Air 350">}}
+{{< img src="/17102024/10.webp" id="i\_plane" caption="Catharine Pierce / Shutterstock" alt="Beechcraft King Air 350">}}
 
 ## 3. Flexjet
 
@@ -134,7 +134,7 @@ Flexjet comprises a [diverse fleet of aircraft](https://flexjet.com/fleet/), inc
 - Bombardier Challenger 300
 - Bombardier Global Express
 
-{{< img src="/17102024/11.jpg" id="i\_plane" caption="Alec Wilson / Wikimedia" alt="Embraer EMB-550">}}
+{{< img src="/17102024/11.webp" id="i\_plane" caption="Alec Wilson / Wikimedia" alt="Embraer EMB-550">}}
 
 ## 2. Vista Global
 
@@ -155,7 +155,7 @@ VistaJet operates the [following aircraft in its fleet](https://www.vistajet.com
 - Cessna Citation X/XLS/XLS+/Excel/V
 - Dassault Falcon 7X
 
-{{< img src="/17102024/12.jpg" id="i\_plane" caption="Aero Icarus / Wikimedia" alt="Vista Jet Bombardier BD-700-1A10 Global Express XRS">}}
+{{< img src="/17102024/12.webp" id="i\_plane" caption="Aero Icarus / Wikimedia" alt="Vista Jet Bombardier BD-700-1A10 Global Express XRS">}}
 
 ## 1. NetJets
 

@@ -4,13 +4,13 @@ meta_title: "Lockheed Martin F-35 Lightning II: its history, performance and fut
 description: "What role does this fifth-generation stealth aircraft play in modern air warfare? Meet Lockheed Martin F-35 Lighting, a multirole strike fighter used by USAF."
 date: 2025-03-25T11:00:00+15:00
 draft: false
-thumb: "/25032025/cover.jpg"
+thumb: "/25032025/cover.webp"
 thumb_alt: "U.S. Air Force pilot navigates an F-35A Lightning II aircraft"
 author: "rosita-mickeviciute"
 is_article: true
 ---
 
-{{< img src="/25032025/cover.jpg" id="i\_plane" caption="MSgt John Nimmo Sr. / Wikimedia" alt="U.S. Air Force pilot navigates an F-35A Lightning II aircraft">}}
+{{< img src="/25032025/cover.webp" id="i\_plane" caption="MSgt John Nimmo Sr. / Wikimedia" alt="U.S. Air Force pilot navigates an F-35A Lightning II aircraft">}}
 
 The [Lockheed Martin F-35 Lightning II](https://thefriendlyskies.net/article/difference-between-f22-f35/) is a cutting-edge fifth-generation multi-role stealth fighter aircraft, specifically developed to meet the evolving demands of modern air warfare. With its advanced technology and versatility, the F-35 has become a key asset for numerous air forces around the world.
 
@@ -31,7 +31,7 @@ The F-35 program includes four primary variants, each tailored to the specific n
 - **F-35C carrier-based (CV/CATOBAR)**: The carrier-based variant, optimized for catapult launches and arrested landings on aircraft carriers. Introduced to the U.S. Navy (USN)  on February 28, 2019.
 - **F-35I Adir F-35A with Israeli modifications**: Introduced to the Israeli Air Force on June 22, 2016. 
 
-{{< img src="/25032025/1.jpg" id="i\_plane" caption="Airman 1st Class Trevor Bell / Wikimedia" alt="a pilot climbing into F-35I Adir">}}
+{{< img src="/25032025/1.webp" id="i\_plane" caption="Airman 1st Class Trevor Bell / Wikimedia" alt="a pilot climbing into F-35I Adir">}}
 
 ## F-35: designed for multirole operations
 
@@ -41,7 +41,7 @@ The F-35 was designed to excel in several key mission areas, including air-to-ai
 
 The F-35 features a modern, stealthy design that reduces its radar cross-section and infrared signature. This makes it difficult for enemy radar systems to detect and track, giving it a significant [advantage in terms of survivability](https://www.quora.com/Can-you-explain-the-components-of-the-stealth-technology-used-in-an-F-35-and-how-it-affects-its-radar-signature) during air-to-air and ground-to-air engagements. The aircraft incorporates a delta-wing design for enhanced maneuverability and stability.
 
-{{< img src="/25032025/2.png" id="i\_plane" caption="Seaman Derek Kelley / Wikimedia" alt="Sailors prepare to taxi an F-35C Lightning II">}}
+{{< img src="/25032025/2.webp" id="i\_plane" caption="Seaman Derek Kelley / Wikimedia" alt="Sailors prepare to taxi an F-35C Lightning II">}}
 
 ## F-35 Lightning II: performance facts
 
@@ -51,7 +51,7 @@ The F-35 features a modern, stealthy design that reduces its radar cross-section
 - The aircraft can carry a mix of air-to-air and air-to-ground artillery both internally and externally.
 - Advanced sensors, including the AN/APG-81 AESA radar and Distributed Aperture System, provide unparalleled situational awareness.
 
-{{< img src="/25032025/3.jpg" id="i\_plane" caption="Noah Wulf / Wikimedia" alt="Lockheed Martin F-35A Lightning II">}}
+{{< img src="/25032025/3.webp" id="i\_plane" caption="Noah Wulf / Wikimedia" alt="Lockheed Martin F-35A Lightning II">}}
 
 |**Specifications**|**F-35A** |**F-35B**|**F-35C**|
 | :- | :- | :- | :- |
@@ -70,7 +70,7 @@ The F-35 is the [most expensive weapons system ever](https://responsiblestatecra
 
 However, it's important to note that the [price varies](https://time.com/7269375/trump-nato-europe-canada-fighter-jets-defense-technology-made-america/) depending on factors such as quantity, customization and production efficiencies.
 
-{{< img src="/25032025/4.jpg" id="i\_plane" caption="Lance Cpl. Tyler Harmon / Wikimedia" alt="U.S. Marine Corps F-35B Lightning II aircraft">}}
+{{< img src="/25032025/4.webp" id="i\_plane" caption="Lance Cpl. Tyler Harmon / Wikimedia" alt="U.S. Marine Corps F-35B Lightning II aircraft">}}
 
 ## Current operators of F-35 and deliveries
 

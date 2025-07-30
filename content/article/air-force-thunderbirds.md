@@ -4,13 +4,13 @@ meta_title: "Air Force Thunderbirds: aerobatics and air shows"
 description: "The U.S. Air Demonstration Squadron, known as the Thunderbirds, is a legendary precision aerobatics team known for performing incredible demonstration routines."
 date: 2025-03-02T11:00:00+15:00
 draft: false
-thumb: "/02032025/cover.jpg"
+thumb: "/02032025/cover.webp"
 thumb_alt: "formation of the four USAF f-16 fighting falcons in the sky"
 author: "rosita-mickeviciute"
 is_article: true
 ---
 
-{{< img src="/02032025/cover.jpg" id="i\_plane" caption="Eliyahu Yosef Parypa / Shutterstock" alt="formation of the four USAF f-16 fighting falcons in the sky">}}
+{{< img src="/02032025/cover.webp" id="i\_plane" caption="Eliyahu Yosef Parypa / Shutterstock" alt="formation of the four USAF f-16 fighting falcons in the sky">}}
 
 The Thunderbirds are officially known as the United States Air Force (USAF) Air Demonstration Squadron. Founded in 1953, they have become one of the most recognizable and respected aerobatic teams in the world. With their F-16 Fighting Falcon jets and breathtaking demonstration routines, the Thunderbirds highlight the skill, dedication, and excellence of the USAF.
 
@@ -20,7 +20,7 @@ Let’s dive into their history and routines to uncover what makes them so speci
 
 The USAF Thunderbirds hold the distinction of being the [world's third-oldest formal aerobatic flying team](https://veterans.nv.gov/super-delta-formation-of-the-blue-angels-and-thunderbirds/), following on from the formation of the French Air Force Patrouille de France in 1931 and the United States Navy Blue Angels in 1946. The team is composed of highly skilled pilots and support personnel who represent the Air Force in various air shows and events across the United States and around the globe.
 
-{{< img src="/02032025/1.jpg" id="i\_plane" caption="Noah Wulf / Wikimedia" alt="USAF Thunderbirds team marching">}}
+{{< img src="/02032025/1.webp" id="i\_plane" caption="Noah Wulf / Wikimedia" alt="USAF Thunderbirds team marching">}}
 
 ## Services and responsibilities
 
@@ -31,7 +31,7 @@ The primary goal of their team is to demonstrate the capabilities of modern mili
 - **Aircraft Demonstration**: The Thunderbirds showcase the agility and precision of the F-16 Fighting Falcon while highlighting its role as a versatile multi-role fighter jet.
 - **International Relations**: To serve as a symbol of the United States and its military to foreign countries and promote international goodwill.
 
-{{< img src="/02032025/2.jpg" id="i\_plane" caption="JBKC / Shutterstock" alt="pilot out of f-16 cockpit">}}
+{{< img src="/02032025/2.webp" id="i\_plane" caption="JBKC / Shutterstock" alt="pilot out of f-16 cockpit">}}
 
 ## Thunderbirds history 
 
@@ -58,7 +58,7 @@ Throughout their history, the Thunderbirds have flown several different aircraft
 - Northrop T-38 Talon
 - General Dynamics F-16 Fighting Falcon (1983–present)
 
-{{< img src="/02032025/3.jpg" id="i\_plane" caption="mobil11 / Shutterstock" alt="USAF f-16 fighting falcon in the sky">}}
+{{< img src="/02032025/3.webp" id="i\_plane" caption="mobil11 / Shutterstock" alt="USAF f-16 fighting falcon in the sky">}}
 
 ## Routine of USAF Air Demonstration Squadron
 
@@ -66,7 +66,7 @@ The Thunderbirds' demonstration routine is a meticulously choreographed display 
 
 One of the most iconic moments in the routine is the High Bomb Burst, where all six aircraft climb together and then break apart in six different directions, creating a stunning visual spectacle in the sky.
 
-{{< img src="/02032025/4.jpg" id="i\_plane" caption="Eliyahu Yosef Parypa / Shutterstock" alt="formation of the four USAF f-16 fighting falcons in the sky">}}
+{{< img src="/02032025/4.webp" id="i\_plane" caption="Eliyahu Yosef Parypa / Shutterstock" alt="formation of the four USAF f-16 fighting falcons in the sky">}}
 
 ## Interesting facts about Thunderbirds
 

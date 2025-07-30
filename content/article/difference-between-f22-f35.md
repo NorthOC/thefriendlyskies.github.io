@@ -4,12 +4,12 @@ meta_title: "F-22 Raptor vs. F-35 Lightning: key differences between them"
 description: "Discover the key differences between the F-22 Raptor and F-35 Lightning fighter jets. Explore their capabilities, roles, and technological advancements."
 date: 2024-09-25T20:13:10+02:00
 draft: false
-thumb: "/25092024/cover.jpg"
+thumb: "/25092024/cover.webp"
 thumb_alt: "F-35 aircraft"
 author: "rosita-mickeviciute"
 is_article: true
 ---
-{{< img src="/25092024/cover.jpg" id="i_plane" caption="Liz Lutz / Wikimedia" alt="F-35 flying in the sky">}}
+{{< img src="/25092024/cover.webp" id="i_plane" caption="Liz Lutz / Wikimedia" alt="F-35 flying in the sky">}}
 
 In today's rapidly evolving world of military aviation, two standout fighter jets steal the spotlight: the F-22 Raptor and the F-35 Lightning II. 
 
@@ -25,7 +25,7 @@ Equipped with advanced sensors and avionics, the Raptor can operate seamlessly i
 
 The development of the F-22 Raptor began in the early 1980s at Lockheed Martin, where it underwent a lengthy and complex process. It was designed as a future replacement for the aging F-15 Eagle and F-16 Fighting Falcon fighter jets. Also, it was specifically designed to counter advanced Russian aircraft like the Su-27 and MiG-29. 
 
-{{< img src="/25092024/1.jpg" id="i_plane" caption="Phuong D. Nguyen / Shutterstock" alt="United States Air Force Lockheed Martin F-22A Raptor stealth tactical fighter aircraft">}}
+{{< img src="/25092024/1.webp" id="i_plane" caption="Phuong D. Nguyen / Shutterstock" alt="United States Air Force Lockheed Martin F-22A Raptor stealth tactical fighter aircraft">}}
 
 Northrop and McDonnell Douglas developed the YF-23 as their proposal for a new fighter jet. Meanwhile, Lockheed, Boeing, and General Dynamics built the YF-22. 
 
@@ -35,7 +35,7 @@ Although the YF-22 [was slightly slower and had a larger radar cross-section](ht
 
 After several years of testing and refinement, the F-22 Raptor officially entered service with USAF on December 15, 2005.
 
-{{< img src="/25092024/2.jpg" id="i_plane" caption="Andreas Stroh / Shutterstock" alt="Northrop-McDonnell Douglas YF-23A Black Widow II">}}
+{{< img src="/25092024/2.webp" id="i_plane" caption="Andreas Stroh / Shutterstock" alt="Northrop-McDonnell Douglas YF-23A Black Widow II">}}
 
 ## F-35 Lighting overview
 
@@ -45,7 +45,7 @@ The F-35 Lightning II program includes several variants, such as the F-35A for t
 
 The F-35 is equipped with the [most advanced sensor suite ever built into a fighter jet](https://www.f35.com/f35/news-and-features/f35-the-worlds-most-advanced-fighter.html), featuring an Active Electronically Scanned Array radar, Distributed Aperture System, Electro-Optical Targeting System, and other electronic warfare capabilities to detect adversaries and disrupt their attacks.
 
-{{< img src="/25092024/3.jpg" id="i_plane" caption="Michael Fitzsimmons / Shutterstock" alt="Lockheed Martin F-35 Joint Strike Fighter">}}
+{{< img src="/25092024/3.webp" id="i_plane" caption="Michael Fitzsimmons / Shutterstock" alt="Lockheed Martin F-35 Joint Strike Fighter">}}
 
 The F-35 Lightning II commenced development in the early 1990s. The program aimed to create a family of stealth multirole combat aircraft to meet the diverse needs of the USAF, US Navy, US Marine Corps, and several allied nations. 
 
@@ -55,7 +55,7 @@ Both companies were tasked with producing two prototype aircraft to demonstrate 
 
 The X-35 made its maiden flight on October 24, 2000, and ultimately won the competition, leading to the development of the F-35 Lightning II.
 
-{{< img src="/25092024/4.jpg" id="i_plane" caption="Andrew Harker / Shutterstock" alt="U.S. Air Force F-35 Lightning II jet side view">}}
+{{< img src="/25092024/4.webp" id="i_plane" caption="Andrew Harker / Shutterstock" alt="U.S. Air Force F-35 Lightning II jet side view">}}
 
 ## Differences between the F-22 Raptor and F-35 Lightning II
 
@@ -119,7 +119,7 @@ The F-22 Raptor and the F-35 Lightning II are two distinct fifth-generation figh
 |**Service Ceiling**|50,000 ft (15,000 m)|
 |**G Limits**|+9.0|
 
-{{< img src="/25092024/5.jpg" id="i_plane" caption="Aditya0635 / Shutterstock" alt="F-22 Raptor flying on top of the mountains">}}
+{{< img src="/25092024/5.webp" id="i_plane" caption="Aditya0635 / Shutterstock" alt="F-22 Raptor flying on top of the mountains">}}
 
 ## F-35 Lighting technical specifications
 
@@ -143,7 +143,7 @@ The F-22 Raptor and the F-35 Lightning II are two distinct fifth-generation figh
 |**Service Ceiling**|50,000 ft (15,000 m)|
 |**G Limits**|+9.0|
 
-{{< img src="/25092024/6.jpg" id="i_plane" caption="MSgt John Nimmo Sr. / Wikimedia" alt="F-35A Lightning II aircraft flying">}}
+{{< img src="/25092024/6.webp" id="i_plane" caption="MSgt John Nimmo Sr. / Wikimedia" alt="F-35A Lightning II aircraft flying">}}
 
 ## To sum up the differences between the F-22 and F-35 fighter jets
 

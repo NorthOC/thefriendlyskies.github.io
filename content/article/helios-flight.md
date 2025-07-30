@@ -4,13 +4,13 @@ meta_title: "Helios Flight 522: remembering the tragic ghost flight"
 description: "Helios Flight 522 is one of the most chilling disasters in aviation history. What happened on August 14, 2005? Did one switch cause the Boeing 737 to crash?"
 date: 2024-12-14T11:00:00+15:00
 draft: false
-thumb: "/14122024/cover.png"
+thumb: "/14122024/cover.webp"
 thumb_alt: "Computer-generated image showing Helios Airways Flight 522 under inspection by two Hellenic AF F-16s"
 author: "rosita-mickeviciute"
 is_article: true
 ---
 
-{{< img src="/14122024/cover.png" id="i\_plane" caption="Anynobody / Wikimedia" alt="Computer-generated image showing Helios Airways Flight 522 under inspection by two Hellenic AF F-16s">}}
+{{< img src="/14122024/cover.webp" id="i\_plane" caption="Anynobody / Wikimedia" alt="Computer-generated image showing Helios Airways Flight 522 under inspection by two Hellenic AF F-16s">}}
 
 In the history of aviation, few incidents are as haunting as the story of Helios Flight 522. On August 14, 2005, what began as a routine flight from Larnaca, Cyprus, to Athens, Greece, unfolded into a tragic and bizarre disaster.
 
@@ -26,7 +26,7 @@ Founded in 1988, Helios Airways was a budget Cypriot airline that operated regul
 
 The aircraft involved in the accident was a Boeing 737-300 that took its first flight on December 29, 1997. It was subsequently leased to Helios Airways on April 16, 2004, and given the nickname ‘[Olympia](https://www.planespotters.net/search?q=5B-DBY)‘. In addition to this Boeing 737-300, Helios Airways' fleet consisted of two leased Boeing 737-800s and an Airbus A319-100.
 
-{{< img src="/14122024/1.png" id="i\_plane" caption="Alan Lebeda / Wikimedia" alt="Helios airways Boeing 737">}}
+{{< img src="/14122024/1.webp" id="i\_plane" caption="Alan Lebeda / Wikimedia" alt="Helios airways Boeing 737">}}
 
 ### Passengers and crew on Helios Flight 522
 
@@ -54,7 +54,7 @@ The captain contacted the Helios operations center and explained the problem. Th
 
 The plane climbed until it reached an altitude of around 34,000 feet before leveling off. During the time between 10:12 and 10:50, there were [nineteen unsuccessful attempts](https://www.faa.gov/sites/faa.gov/files/2022-11/Helios737_AccidentReport.pdf) to establish contact with the aircraft. At 10:40, the plane entered the holding pattern for Athens Airport, where it remained for the next 70 minutes, being controlled by the autopilot.
 
-{{< img src="/14122024/2.png" id="i\_plane" caption="remi / Wikimedia" alt="Map of Helios Airways Flight 522">}}
+{{< img src="/14122024/2.webp" id="i\_plane" caption="remi / Wikimedia" alt="Map of Helios Airways Flight 522">}}
 
 ### Interception and communication attempts
 
@@ -66,7 +66,7 @@ The events that followed were increasingly dramatic. At 11:49, Andreas Prodromou
 
 The right engine flamed out 10 minutes after its counterpart and the aircraft crashed down at 12:03 into the hilly terrain near Grammatiko village, 20 miles northwest of the Athens International Airport. 121 souls were lost. Tragically, it was later determined that crash victims [would still have been alive at the time of the crash](https://www.faa.gov/sites/faa.gov/files/2022-11/Helios737_AccidentReport.pdf). 
 
-{{< img src="/14122024/3.png" id="i\_plane" caption="FAA / Wikimedia" alt="Photo of Helios 737 crash site">}}
+{{< img src="/14122024/3.webp" id="i\_plane" caption="FAA / Wikimedia" alt="Photo of Helios 737 crash site">}}
 
 ## Helios Flight 522 investigation
 
@@ -100,7 +100,7 @@ Additional cockpit warning lights were fitted as crucial safety features to help
 
 On October 25, 1999, a Learjet 35 carrying six people crashed in Edmunds County, South Dakota, after flying uncontrolled for four hours and covering a distance of 1,500 miles. This occurred due to everyone onboard being incapacitated by hypoxia resulting from an [unspecified depressurization](https://www.ntsb.gov/investigations/AccidentReports/Reports/AAB0001.pdf). The aircraft had departed from Orlando, Florida, and had been bound for Dallas, Texas.
 
-{{< img src="/14122024/4.png" id="i\_plane" caption="NTSB / Wikimedia" alt="Learjet 35">}}
+{{< img src="/14122024/4.webp" id="i\_plane" caption="NTSB / Wikimedia" alt="Learjet 35">}}
 
 ### 2000 Burketown, Australia Beechcraft Super King Air 200
 

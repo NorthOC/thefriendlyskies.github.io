@@ -4,13 +4,13 @@ meta_title: "The story behind Lithuanian Air Lines’ short-lived journey"
 description: "Lithuanian Air Lines' first flight launched on September 5, 1938, connecting Kaunas to Riga and Palanga. Discover why their services lasted only two years"
 date: 2024-11-21T12:00:00+15:00
 draft: false
-thumb: "/21112024/cover.jpg"
+thumb: "/21112024/cover.webp"
 thumb_alt: "Lithuanian delegation, behind is a Percival Q.6 aircraft"
 author: "rosita-mickeviciute"
 is_article: true
 ---
 
-{{< img src="/21112024/cover.jpg" id="i\_plane" caption="Wikimedia" alt="Lithuanian delegation, behind is a Percival Q.6 aircraft">}}
+{{< img src="/21112024/cover.webp" id="i\_plane" caption="Wikimedia" alt="Lithuanian delegation, behind is a Percival Q.6 aircraft">}}
 
 On September 20, 1938, "Lietuvos oro linijos" (Lithuanian Air Lines) was founded in Kaunas. With two seven-seater "Percival Q.6 Petrel" airplanes from England, the airline began operating flights between Kaunas, Palanga, and Riga. Despite its good start, operations ceased after only two years.
 
@@ -22,7 +22,7 @@ Air transportation in Lithuania started in 1919, when the first military airplan
 
 Air passenger services in Lithuania officially began in 1922, but until 1938, they were dominated by foreign airlines operating mainly transit routes. These included companies such as Deruluft, Danziger Luftreederei, Latvijas Gaisa Satiksmes Akciju Sabiedriba, Aeronaut, AB Aerotransport, Deutsche Luft Hansa, and LOT.
 
-{{< img src="/21112024/1.jpg" id="i\_plane" caption="Wikimedia" alt="Fokker F.II">}}
+{{< img src="/21112024/1.webp" id="i\_plane" caption="Wikimedia" alt="Fokker F.II">}}
 
 ## Lithuanian Air Lines start their operations
 
@@ -32,13 +32,13 @@ On September 20, 1938, Lithuanian Air Lines was established in Kaunas. The airli
 
 The Percival Q.6, powered by two de Havilland Gipsy Six piston engines with variable-pitch propellers, was designed for medium-haul commercial flights. Each aircraft could carry five passengers, along with two pilots, and had space for a significant amount of cargo. Its cruising speed was 149 mph (240 km/h).
 
-{{< img src="/21112024/2.jpg" id="i\_plane" caption="Wikimedia" alt="Percival Q-6 aircraft">}}
+{{< img src="/21112024/2.webp" id="i\_plane" caption="Wikimedia" alt="Percival Q-6 aircraft">}}
 
 Interestingly, the Percival Q.6 Petrel had a unique feature: only [one control yoke](https://geografija.lt/2013/11/prisimenant-pirmuosius-lietuvos-oro-liniju-lektuvus-foto/). To transfer control to the co-pilot, the yoke could be folded to the side of the controlling pilot via a hinge. At the time, German passenger planes typically seated 8 to 10 passengers but operated at only about 40% capacity. Therefore, Lithuanian Air Lines deliberately chose to carry only five passengers.
 
 The aircraft were registered as LY-SOA and LY-SOB, named after transatlantic aviators Stepas Darius and Stasys Girėnas, respectively. These Lithuanian heroes gained fame for their historic attempt to cross the Atlantic Ocean in the *Lituanica* (a Bellanca CH-300 Pacemaker aircraft) on July 17, 1933. Tragically, dying in a crash with only 650 kilometers remaining to reach Lithuania.
 
-{{< img src="/21112024/3.jpg" id="i\_plane" caption="Old papers / Wikimedia" alt="Lituanica and pilots prepared to flight">}}
+{{< img src="/21112024/3.webp" id="i\_plane" caption="Old papers / Wikimedia" alt="Lituanica and pilots prepared to flight">}}
 
 ### Flights and prices of Lithuanian Air Lines
 
@@ -50,7 +50,7 @@ The [first flight of Lithuanian Air Lines](https://geografija.lt/2013/11/prisime
 
 In its first year, a ticket for the Kaunas–Palanga route cost 38 Litas (11 euro today). However, in the second year, the airline reduced the ticket price to 25 Litas (7 euros) to better compete with train fares.
 
-{{< img src="/21112024/4.jpg" id="i\_plane" caption="Wikimedia" alt="Percival Q.6 aircraft being re-fueled">}}
+{{< img src="/21112024/4.webp" id="i\_plane" caption="Wikimedia" alt="Percival Q.6 aircraft being re-fueled">}}
 
 ## End of operations and legacy
 

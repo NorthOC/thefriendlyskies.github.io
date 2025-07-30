@@ -3,12 +3,12 @@ title: "Women in aviation: who made the biggest impact throughout history?"
 description: "Women in aviation have played important roles since the introduction of lighter-than-air travel. Find out women who made the biggest impact throughout history."
 date: 2024-03-08T22:00:00+15:00
 draft: false
-thumb: "/09032024/cover.jpg"
+thumb: "/09032024/cover.webp"
 thumb_alt: "Allied women pilots of the Air Transport Auxiliary service"
 author: "rosita-mickeviciute"
 is_article: true
 ---
-{{< img src="/09032024/cover.jpg" id="i_plane" caption="Royal Air Force official photographer, Trievnor J (Plt Off) / Wikimedia" alt="Allied women pilots of the Air Transport Auxiliary service">}}
+{{< img src="/09032024/cover.webp" id="i_plane" caption="Royal Air Force official photographer, Trievnor J (Plt Off) / Wikimedia" alt="Allied women pilots of the Air Transport Auxiliary service">}}
 
 Women have played important roles in aviation since the introduction of lighter-than-air travel and the development of airplanes, helicopters, and space travel. They began piloting powered aircraft around 1908. However, before 1970, laws dictated by men often restricted women to roles of a private or supportive nature within the aviation sector.
 
@@ -22,7 +22,7 @@ Therefore, I present you with a collection highlighting the remarkable women who
 
 The journey began in 1903 when an American Aida de Acosta achieved the milestone of becoming the first woman to fly solo in a powered aircraft, piloting a dirigible.
 
-{{< img src="/09032024/1.jpg" id="i_plane" caption="Aida-1903 / Wikimedia" alt=" Aida D'Acosta Breckinridge piloted Alberto Santos-Dumont's airship N° 9">}}
+{{< img src="/09032024/1.webp" id="i_plane" caption="Aida-1903 / Wikimedia" alt=" Aida D'Acosta Breckinridge piloted Alberto Santos-Dumont's airship N° 9">}}
 
 Then, on July 8, 1908, in Turin, France, Thérèse Peltier undertook a solo flight covering 200 meters (656 feet). Her first experience was as a passenger alongside her friend Leon Delagrange, who instructed her in piloting. Subsequently, she gained widespread recognition as the first female airplane passenger and, following her solo flight, as the [world's first female pilot](https://fly.historicwings.com/2012/09/therese-peltier-the-first-woman-pilot/#google_vignette).
 
@@ -32,7 +32,7 @@ Emma Lilian Todd, a self-taught American inventor with a passion for mechanical 
 
 Raymonde de Laroche was a pioneering French aviator. On October 22, 1909, de Laroche went to the Voisin brothers' (French aviation pioneers) base in Chalons. Due to the aircraft's single-seat design, she managed to [fly it herself](https://archive.org/details/beforeameliawome00lebo) with instructions from Voisin, who guided her from the ground. After practicing taxiing, she successfully took off and flew 300 yards (270 m). On March 8, 1910, she also became the first woman in the world to receive a pilot's license.
 
-{{< img src="/09032024/2.jpg" id="i_plane" caption="Roger B. Whitman Early Aviation Photograph Collection / Wikimedia" alt="The Baronesse Raymonde de LaRoche seated at the controls of a Voisin 1909 Type biplane, France">}}
+{{< img src="/09032024/2.webp" id="i_plane" caption="Roger B. Whitman Early Aviation Photograph Collection / Wikimedia" alt="The Baronesse Raymonde de LaRoche seated at the controls of a Voisin 1909 Type biplane, France">}}
 
 Marie Marvingt was another notable French aviator, athlete, and nurse. In aviation, she achieved several milestones, including being the first woman to [fly combat missions](https://fly.historicwings.com/2012/12/helene-dutrieux-and-the-coupe-femina/) as a pilot during World War I. Marvingt also pioneered air ambulance services and made contributions to the development of aviation medicine. Additionally, she participated in various aviation competitions.
 
@@ -50,7 +50,7 @@ Phoebe was among the boldest and most daring aviation pioneers of her time. Whil
 
 Marga von Etzdorf, a German aircraft pilot, made history in 1927 as the [first woman hired by an airline](https://web.archive.org/web/20140929003349/http:/www.lufthansagroup.com/en/press/news-releases/singleview/archive/2013/august/22/article/2552.html), Lufthansa. She further solidified her legacy by becoming the first woman to fly solo across Siberia, completing a journey from Germany to Tokyo, Japan.
 
-{{< img src="/09032024/3.jpg" id="i_plane" caption="Bundesarchiv Bild 183-W0801-522, Staaken, Benzler, Marga von Etzdorf / Wikimedia" alt="Staaken, Benzler, Marga von Etzdorf">}}
+{{< img src="/09032024/3.webp" id="i_plane" caption="Bundesarchiv Bild 183-W0801-522, Staaken, Benzler, Marga von Etzdorf / Wikimedia" alt="Staaken, Benzler, Marga von Etzdorf">}}
 
 A noteworthy organization called the Ninety-Nines, founded in 1929, has been a leading force in [empowering women in aviation](https://www.ninety-nines.org/women-in-aviation-article.htm) for almost a century.
 
@@ -66,7 +66,7 @@ Earhart's most famous accomplishments include being the first woman to fly solo 
 
 Unfortunately, Amelia Earhart disappeared on July 2, 1937, during her attempted flight around the world. Despite extensive search efforts, her plane twin-engine Lockheed Electra 10-E was never found, and the exact circumstances of her disappearance remain a mystery to this day.
 
-{{< img src="/09032024/4.jpg" id="i_plane" caption="Smithsonian Institution / Wikimedia" alt="Amelia Earhart standing in front of the Lockheed Electra in which she disappeared in July 1937">}}
+{{< img src="/09032024/4.webp" id="i_plane" caption="Smithsonian Institution / Wikimedia" alt="Amelia Earhart standing in front of the Lockheed Electra in which she disappeared in July 1937">}}
 
 ## Women fighter pilots - Sabiha Gökçen, WASP, and Nadezhda Popova
 
@@ -87,7 +87,7 @@ Jacqueline Cochran, an American aviator and business leader, made significant st
 
 Cochran achieved another milestone on May 18, 1953, by becoming the [first woman to break the sound barrier](https://web.archive.org/web/20131020101951/https:/www.eisenhower.archives.gov/research/online_documents/jacqueline_cochran.html) with her North American F-86 Saber. Additionally, she served as the wartime leader of the WASP and later supported the Mercury 13 women astronaut program as a sponsor. 
 
-{{< img src="/09032024/5.jpg" id="i_plane" caption="Jacqueline Cochran in a Curtiss P-40 Warhawk / Wikimedia" alt="Jacqueline 'Jackie' Cochran in the cockpit of a Curtiss P-40 Warhawk fighter plane">}}
+{{< img src="/09032024/5.webp" id="i_plane" caption="Jacqueline Cochran in a Curtiss P-40 Warhawk / Wikimedia" alt="Jacqueline 'Jackie' Cochran in the cockpit of a Curtiss P-40 Warhawk fighter plane">}}
 
 The Mercury 13 was a group of 13 American women who underwent the same rigorous testing as the male astronauts selected for NASA's Mercury program in 1959. Despite demonstrating exceptional [physical and mental capabilities](https://twudigital.contentdm.oclc.org/digital/collection/p16283coll39), the Mercury 13 was not officially accepted into the astronaut program due to their gender.
 
@@ -103,4 +103,4 @@ Turi Widerøe was a Norwegian aviator and the [world's first woman to work as a 
 
 Lynn Rippelmeyer began her aviation journey as a TWA flight attendant in 1972. In 1978, she transferred to become a TWA B-727 flight engineer. She became the [first woman to fly the Boeing 747 as a captain](https://www.thisdayinaviation.com/tag/lynn-ripplemeyer/) in 1984 on a trans-oceanic flight, and the first flight attendant to transition to become an airline pilot.
 
-{{< img src="/09032024/6.jpg" id="i_plane" caption="Rippb7477 / Wikimedia" alt="Capt. Lynn Rippelmeyer First International B-747 female captain">}}
+{{< img src="/09032024/6.webp" id="i_plane" caption="Rippb7477 / Wikimedia" alt="Capt. Lynn Rippelmeyer First International B-747 female captain">}}

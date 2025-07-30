@@ -3,12 +3,12 @@ title: "The Douglas DC-3: A Game-Changer in Aviation History"
 description: "Douglas DC-3, an iconic piston engine aircraft that revolutionized aviation. Delve into its vast history, technical features, commercial success, and legacy."
 date: 2023-05-29T21:19:12+15:00
 draft: false
-thumb: "/29052023/1.jpg"
+thumb: "/29052023/1.webp"
 thumb_alt: "Douglas DC-3 flying in the air. Image from 45 degree angle."
 author: "rosita-mickeviciute"
 is_article: true
 ---
-{{< img src="/29052023/1.jpg" id="" caption="Roberto Chiartano / Shutterstock" alt="Douglas DC-3 flying in the air. Image from 45 degree angle.">}}
+{{< img src="/29052023/1.webp" id="" caption="Roberto Chiartano / Shutterstock" alt="Douglas DC-3 flying in the air. Image from 45 degree angle.">}}
 
 The Douglas DC-3 hailed as the "granddaddy of all modern airliners," holds a significant place in aviation history. This legendary aircraft, introduced in 1935 by the Douglas Aircraft Company, revolutionized the industry with its revolutionary design, exceptional performance, and lasting impact.
 
@@ -32,7 +32,7 @@ On December 17, 1935, the Douglas DC-3 made its highly anticipated debut, captur
 
 During World War II, the DC-3 played a crucial role as a military transport aircraft. Renamed the C-47 Skytrain or Dakota, it was used extensively by the Allied forces. The aircraft's durability, range, and ability to operate in challenging conditions made it an invaluable asset for transporting troops, supplies, and even conducting medical evacuations.
 
-{{< img src="/29052023/2.jpg" id="" caption="Peter Gudella / Shutterstock" alt="Douglas DC-3 standing on a runway sideview.">}}
+{{< img src="/29052023/2.webp" id="" caption="Peter Gudella / Shutterstock" alt="Douglas DC-3 standing on a runway sideview.">}}
 
 ## Unprecedented Performance
 
@@ -106,7 +106,7 @@ Some notable airlines that extensively utilized the DC-3 include:
 
 - [**Scandinavian Airlines System**](https://en.wikipedia.org/wiki/Scandinavian_Airlines) **(SAS):** SAS, formed by the collaboration of Danish, Swedish, and Norwegian airlines, relied heavily on the 47 at the time DC-3s for its operations.
 
-{{< img src="/29052023/3.jpg" id="" caption="Gilmanshin / Shutterstock" alt="Douglas DC-3 cockpit inside">}}
+{{< img src="/29052023/3.webp" id="" caption="Gilmanshin / Shutterstock" alt="Douglas DC-3 cockpit inside">}}
 
 ## Enduring Legacy
 
@@ -114,7 +114,7 @@ Despite more than eight decades since its introduction, the Douglas DC-3 continu
 
 The timeless design and iconic status of the DC-3 make it a beloved symbol of aviation excellence, evoking a sense of nostalgia and awe.
 
-{{< img src="/29052023/4.jpg" id="" caption="Aleks49 / Shutterstock" alt="Douglas DC-3 exposition. Only the nose part of the plane is presented">}}
+{{< img src="/29052023/4.webp" id="" caption="Aleks49 / Shutterstock" alt="Douglas DC-3 exposition. Only the nose part of the plane is presented">}}
 
 Sources:
 

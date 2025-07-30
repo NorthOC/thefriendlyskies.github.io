@@ -4,13 +4,13 @@ meta_title: "The Boeing B-47 Stratojet: retired American strategic bomber"
 description: "Find out about the historic Boeing B-47 Stratojet, America's all-jet bomber which took a critical role within the US SAC during the 50s and 60s."
 date: 2025-07-29T11:00:00+15:00
 draft: false
-thumb: "/29072025/cover.jpg"
+thumb: "/29072025/cover.webp"
 thumb_alt: "Boeing XB-47D Stratojet testbed for Wright YT49 turboprop engine"
 author: "rosita-mickeviciute"
 is_article: true
 ---
 
-{{< img src="/29072025/cover.jpg" id="i\_plane" caption="USAF / Wikimedia" alt="Boeing XB-47D Stratojet testbed for Wright YT49 turboprop engine">}}
+{{< img src="/29072025/cover.webp" id="i\_plane" caption="USAF / Wikimedia" alt="Boeing XB-47D Stratojet testbed for Wright YT49 turboprop engine">}}
 
 The Boeing B-47 Stratojet was a long-range, turbojet-powered strategic bomber, notable for being the [first aircraft designed to carry nuclear weapons](https://www.nationalww2museum.org/war/articles/delivering-atomic-bombs-silverplate-b-29). 
 
@@ -22,7 +22,7 @@ In the aftermath of World War II, the United States and the Soviet Union found t
 
 The B-47's development can be traced to a demand put forth by the United States Army Air Forces (USAAF) in 1943, seeking a reconnaissance bomber that would leverage the emerging technology of jet propulsion. In response to the USAAF proposal, Boeing developed an aircraft that would not only meet the Air Force's requirements but also set a new standard in aviation technology. The end result was the Boeing B-47 Stratojet.
 
-{{< img src="/29072025/1.jpg" id="i\_plane" caption="Kit Leong / Shutterstock" alt="Boeing B-47 Stratojet standing on a runway">}}
+{{< img src="/29072025/1.webp" id="i\_plane" caption="Kit Leong / Shutterstock" alt="Boeing B-47 Stratojet standing on a runway">}}
 
 On December 17, 1947, the first prototype, known as XB-47, successfully completed its first flight. In 1951, the B-47 officially entered operational service with the United States Air Force's SAC and by the late 1950s it had become a central part of their bomber fleet.
 
@@ -38,7 +38,7 @@ Perhaps the most striking feature of the B-47 Stratojet was its swept wings. Thi
 
 The B-47 was powered by General Electric J47 turbojet engines that contributed to its high-speed capabilities. By positioning its engines within nacelles beneath the wing, the B-47 introduced a significant post-World War II innovation in combat jet design, ultimately influencing the development of modern jet airliners. 
 
-{{< img src="/29072025/2.jpg" id="i\_plane" caption="ivanpotapoff / Shutterstock" alt="Boeing’s B-47 Stratojet’s engine on a view">}}
+{{< img src="/29072025/2.webp" id="i\_plane" caption="ivanpotapoff / Shutterstock" alt="Boeing’s B-47 Stratojet’s engine on a view">}}
 
 The B-47 was engineered with a pressurized forward compartment, intended to accommodate a crew of three individuals. This crew configuration consisted of a pilot and copilot positioned in tandem under an elongated fighter-style bubble canopy, while a navigator/bombardier occupied a separate compartment located in the nose of the aircraft.
 
@@ -85,7 +85,7 @@ Across the 28 different variants of the B-47, a [total of 2,042 aircraft](https:
 ||one B53 nuclear bomb or|
 ||twenty-eight 500 lb (227 kg) conventional bombs|
 
-{{< img src="/29072025/3.jpg" id="i\_plane" caption="ChicagoPhotographer / Shutterstock" alt="Boeing B-47 Stratojet in a museum together with different aircraft">}}
+{{< img src="/29072025/3.webp" id="i\_plane" caption="ChicagoPhotographer / Shutterstock" alt="Boeing B-47 Stratojet in a museum together with different aircraft">}}
 
 ## Remembering the B-47
 

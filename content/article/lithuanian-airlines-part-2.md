@@ -4,13 +4,13 @@ meta_title: "Lithuanian Airlines part 2: its second try and fall - what went wro
 description: "flyLAL (Lithuanian Airlines or LAL) was Lithuania's national airline. Due to financial problems, the airline went bankrupt in 2009. Find out what went wrong"
 date: 2024-11-30T12:00:00+15:00
 draft: false
-thumb: "/30112024/cover.jpg"
+thumb: "/30112024/cover.webp"
 thumb_alt: "Lithuanian Airlines Boeing 737-382"
 author: "rosita-mickeviciute"
 is_article: true
 ---
 
-{{< img src="/30112024/cover.jpg" id="i\_plane" caption="Aero Icarus / Wikimedia" alt="Lithuanian Airlines Boeing 737-382">}}
+{{< img src="/30112024/cover.webp" id="i\_plane" caption="Aero Icarus / Wikimedia" alt="Lithuanian Airlines Boeing 737-382">}}
 
 ## Lithuanian Airlines start their operations
 
@@ -24,13 +24,13 @@ However, due to financial challenges, operations were suspended on January 17, 2
 
 In its early days, the airline operated with aircraft from the Aeroflot fleet located in Vilnius, which included twelve Yakovlev Yak-42s, seven Tupolev Tu-134s, four Antonov An-24s, and three Antonov An-26 airliners.
 
-{{< img src="/30112024/1.jpg" id="i\_plane" caption="Gordon Zammit / Wikimedia" alt="Lithuanian Airlines Tupolev Tu-134">}}
+{{< img src="/30112024/1.webp" id="i\_plane" caption="Gordon Zammit / Wikimedia" alt="Lithuanian Airlines Tupolev Tu-134">}}
 
 Between 1991 and 1993, the airline shifted its focus from routes within the former Soviet Union to destinations in Western Europe. By late 1991, international flights from Vilnius to Copenhagen had commenced, followed by routes to Moscow, London, Paris, Stockholm, Amsterdam, and Frankfurt in 1992–1993. Flights from Kaunas to Prague, Budapest, and other cities were also introduced. However, from the start, the airline faced strong competition from Lufthansa and Scandinavian Airlines.
 
 In December 1991, Lithuanian Airlines sub-leased its first [Boeing 737-200](https://www.airfleets.net/ficheapp/plane-b737-22453.htm) from Malév Hungarian Airlines, becoming the [first airline in the former Soviet Union](https://www.vle.lt/straipsnis/lietuvos-oro-transportas/) to operate Western-built Boeing aircraft.
 
-{{< img src="/30112024/2.jpg" id="i\_plane" caption="Tim Rees / Wikimedia" alt="Boeing 737-2Q8/Adv">}}
+{{< img src="/30112024/2.webp" id="i\_plane" caption="Tim Rees / Wikimedia" alt="Boeing 737-2Q8/Adv">}}
 
 Their frequent flyer program was called Gintarinės mylios (Amber Miles). 
 
@@ -40,7 +40,7 @@ On March 8, 1993, "Lietuvos Avialinijos" joined IATA, ensuring international rec
 
 After a decade of financial losses, failed attempts to launch transatlantic flights, and a controversial sale of landing slots at London Heathrow to reduce around 20 million dollars in debt, Lithuanian Airlines was privatized in 2005. The airline was [sold to LAL Investicijų Valdymas](https://kt.gov.lt/lt/dokumentai/del-leidimo-uab-lal-investiciju-valdymas-vykdyti-koncentracija-isigyjant-100-proc-ab-aviakompanijos-lietuvos-avialinijos-akciju) (LAL Investment Management), a fully-owned subsidiary of the FlyLal Group, for [27 million Lithuanian litas](https://www.delfi.lt/verslas/transportas/flylal-51-proc-savo-akciju-valstybei-siulo-uz-1-lt-19722719) (equivalent to 7.8 million euros today).
 
-{{< img src="/30112024/3.jpg" id="i\_plane" caption="moacirpdsp / Wikimedia" alt="Boeing 737-524">}}
+{{< img src="/30112024/3.webp" id="i\_plane" caption="moacirpdsp / Wikimedia" alt="Boeing 737-524">}}
 
 The airline was subsequently renamed flyLAL–Lithuanian Airlines. In 2006, the company’s operations were reorganized by business areas, and the “flyLAL Group Services" group of companies (now AB “Avia Solutions Group") was established, consisting of the following companies:
 
@@ -53,7 +53,7 @@ The airline was subsequently renamed flyLAL–Lithuanian Airlines. In 2006, the 
 
 In February 2007, flyLAL was honored as the most punctual airline at London’s Gatwick Airport. The company had 542 employees. By December 2007, its [fleet included](https://www.delfi.lt/verslas/transportas/flylal-lektuvu-parka-papilde-ketvirtas-boeing-737-300-15197632) three Boeing 737-300s, five Boeing 737-500s, and four SAAB 2000 aircraft, with plans for further expansion. That year, the [airline served 526,000 passengers](https://www.delfi.lt/verslas/transportas/flylal-skraidino-14-proc-daugiau-keleiviu-15548729).
 
-{{< img src="/30112024/4.jpg" id="i\_plane" caption="Konstantin von Wedelstaedt / Wikimedia" alt="Saab 2000">}}
+{{< img src="/30112024/4.webp" id="i\_plane" caption="Konstantin von Wedelstaedt / Wikimedia" alt="Saab 2000">}}
 
 In 2008, flyLAL carried [847,000 passengers](https://www.vle.lt/straipsnis/lietuvos-avialinijos/). That same year, charter flight services were transferred to its sister company, FlyLAL Charters, leaving flyLAL to focus exclusively on scheduled flights. The airline offered passengers connections from Vilnius to [over 600 cities worldwide](https://web.archive.org/web/20080308073135/http://www.flylal.com/en/main/about/about_us) through its codeshare partners.
 
@@ -71,7 +71,7 @@ In 2008, flyLAL carried [847,000 passengers](https://www.vle.lt/straipsnis/lietu
 - **Antonov An-26** (3 units) – operated until 1996.
 - [**Lockheed JetStar 731**](https://www.planespotters.net/photo/1140960/ly-amb-lithuania-government-lockheed-l-1329-jetstar-731) (1 unit, government used, registration number LY-AMB).
 
-{{< img src="/30112024/5.jpg" id="i\_plane" caption="Gary Watt / Wikimedia" alt="Lithuanian Airlines Yakovlev Yak-42D">}}
+{{< img src="/30112024/5.webp" id="i\_plane" caption="Gary Watt / Wikimedia" alt="Lithuanian Airlines Yakovlev Yak-42D">}}
 
 ## The end of Lithuanian Airlines
 

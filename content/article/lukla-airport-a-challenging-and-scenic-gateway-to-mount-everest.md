@@ -4,13 +4,13 @@ meta_title: "Lukla: the world's most dangerous airport to Mount Everest"
 description: "Discover Lukla Airport: the world's most dangerous airport, known for its steep and short runway. Also, the only airport where you can reach Mount Everest."
 date: 2024-05-30T18:00:00+03:00
 draft: false
-thumb: "/30052024/cover.jpg"
+thumb: "/30052024/cover.webp"
 thumb_alt: "view of Lukla village and Lukla airport"
 author: "rosita-mickeviciute"
 is_article: true
 ---
 
-{{< img src="/30052024/cover.jpg" id="i_plane" caption="Daniel Prudek / Shutterstock" alt="view of Lukla village and Lukla airport">}}
+{{< img src="/30052024/cover.webp" id="i_plane" caption="Daniel Prudek / Shutterstock" alt="view of Lukla village and Lukla airport">}}
 
 Nestled high in the Himalayan mountains of Nepal, Tenzing-Hillary Airport (LUA), also known as Lukla Airport, serves as a remarkable yet formidable gateway to the world's tallest peak, Mount Everest. With its breathtaking, rugged terrain and unpredictable weather conditions, this small airport is a vital lifeline for trekkers and climbers eager to embark on their journey to conquer Everest. 
 
@@ -22,7 +22,7 @@ Lukla Airport was built in 1964, as part of the Himalayan Trust project to provi
 
 The airport is named in honor of Sir Edmund Hillary and Sherpa Tenzing Norgay, the first climbers to conquer Mount Everest, who played a pivotal role in its construction. Sir Edmund Hillary's initial intention was to construct Tenzing-Hillary Airport on flat-level terrain, but he faced resistance from local farmers unwilling to part with their land. Consequently, Hillary opted to establish the airport on the slopes of Lukla mountain instead. He purchased the land from local Sherpas for a total of US$2,650.
 
-{{< img src="/30052024/1.jpg" id="i_plane" caption="Natanael Ginting / Shutterstock" alt="Lukla Airport Building Tenzing–Hillary Airport, Nepal">}} 
+{{< img src="/30052024/1.webp" id="i_plane" caption="Natanael Ginting / Shutterstock" alt="Lukla Airport Building Tenzing–Hillary Airport, Nepal">}} 
 
 Over the years, the airport has undergone several expansions and renovations, but its basic infrastructure remains modest. The single runway, which stands at an elevation of 9,337 feet (2,846 meters) above sea level, is a mere 1,729 feet (527 meters) long. This short and steeply sloping runway is the first indicator of the challenges pilots face while landing and taking off at Lukla.
 
@@ -46,7 +46,7 @@ The airport's high elevation significantly reduces the air density, which in tur
 
 The airport's runway is incredibly short, providing little margin for error. Planes must come to a halt quickly after landing, and during takeoff they must achieve enough speed in the limited space available to become airborne. There is simply no room for overshooting or undershooting the runway.
 
-{{< img src="/30052024/2.jpg" id="i_plane" caption="Vadim Petrakov / Shutterstock" alt="The aircraft is landing on the runway of the Tenzing-Hillary airport Lukla">}} 
+{{< img src="/30052024/2.webp" id="i_plane" caption="Vadim Petrakov / Shutterstock" alt="The aircraft is landing on the runway of the Tenzing-Hillary airport Lukla">}} 
 
 ## Incidents and accidents
 
@@ -58,7 +58,7 @@ Since 1964, Lukla Airport has witnessed a total of 11 accidents and incidents, o
 
 - **Aircraft crashes**: On October 8, 2008, Yeti Airlines Flight 103, operated using a DHC-6 Twin Otter 300, crashed and caught fire during its final approach, claiming the lives of eighteen passengers and crew members. This incident stands as the one with the highest number of fatalities on the airport's premises. Video footage of the incident showed adverse weather conditions at the time of the crash.
 
-{{< img src="/30052024/3.jpg" id="i_plane" caption="art of line / Shutterstock" alt="Broken small airplane on Tenzing–Hillary Airport">}} 
+{{< img src="/30052024/3.webp" id="i_plane" caption="art of line / Shutterstock" alt="Broken small airplane on Tenzing–Hillary Airport">}} 
 
 In response to these challenges and incidents, the Nepalese government and aviation authorities have implemented safety measures such as special [pilot training, improved weather forecasting](https://reports.aviation-safety.net/2017/20170527-0_L410_9N-AKY.pdf), and [runway improvements](https://reports.aviation-safety.net/2008/20081008-0_DHC6_9N-AFE.pdf). In order to operate at Lukla, pilots are now required to fulfill the following qualifications:
 
@@ -76,7 +76,7 @@ Several airlines operate flights to and from Lukla, with destinations primarily 
 
 Due to the airport's challenging environment, only certain types of aircraft, including helicopters and turboprops, are allowed to operate at the airport. These typically include de Havilland Canada DHC-6 Twin Otter, Dornier 228, Let L-410 Turbolet, and Pilatus PC-6 aircraft, known for STOL capabilities. Additionally, pilots must meet specific qualifications and experience requirements to operate in these challenging conditions.
 
-{{< img src="/30052024/4.jpg" id="i_plane" caption="Vojtech Flidr / Shutterstock" alt="Airport in Lukla with plane and mountains behind">}} 
+{{< img src="/30052024/4.webp" id="i_plane" caption="Vojtech Flidr / Shutterstock" alt="Airport in Lukla with plane and mountains behind">}} 
 
 ## Passenger numbers
 

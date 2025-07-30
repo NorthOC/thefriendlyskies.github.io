@@ -9,6 +9,10 @@
             {{ end }} | {{ end }}{{ .Site.Title }}</title>
         <link rel='alternate' type='application/rss+xml' title="{{ .Site.Title }} RSS" href='/index.xml'>
         <link rel="stylesheet" type="text/css" href="/css/style.css">
+        <link rel="preload" href="/css/Bitter-Bold.ttf" as="font" type="font/ttf" crossorigin="anonymous">
+        <link rel="preload" href="/css/Bitter-Regular.ttf" as="font" type="font/ttf" crossorigin="anonymous">
+        <link rel="preload" href="/css/Compacta-Bold-Plain-Regular.otf" as="font" type="font/otf" crossorigin="anonymous">
+        <link rel="preload" href="/css/monofonto.otf" as="font" type="font/otf" crossorigin="anonymous">
         {{ with .Site.Params.favicon }}<link rel="icon" href="{{ . }}">{{ end -}}
         <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.meta_description }}{{ end }}">
         <meta name="image" content="https://thefriendlyskies.net{{ with .Params.thumb }}{{ . }}{{ else }}{{ .Site.Params.og }}{{ end }}">

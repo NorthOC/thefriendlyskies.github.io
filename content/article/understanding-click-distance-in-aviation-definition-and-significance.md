@@ -3,13 +3,13 @@ title: "Understanding click distance in aviation: definition and significance"
 description: "Discover the significance of click distance in aviation and the military. Learn its definition and its crucial role in air navigation and communication."
 date: 2023-10-07T19:41:00+15:00
 draft: false
-thumb: "/07102023/cover.jpeg"
+thumb: "/07102023/cover.webp"
 thumb_alt: "jets chilling in the airport in a formation"
 author: "rosita-mickeviciute"
 is_article: true
 ---
 
-{{< img src="/07102023/cover.jpeg" id="" caption="" alt="jets chilling in the airport in a formation">}}
+{{< img src="/07102023/cover.webp" id="" caption="" alt="jets chilling in the airport in a formation">}}
 
 Within the world of aviation, precise measurements and accurate communication are of paramount importance to ensuring safe and efficient flights. One of the terms frequently used in aviation is ‘click distance’, which carries significant importance for pilots, air traffic controllers and aviation personnel.
 
@@ -91,7 +91,7 @@ Click distance plays a critical role in flight planning, route calculations and 
 
 Air traffic controllers use click distance to provide instructions to pilots during the flight, especially when it comes to vectoring aircraft or providing headings and distances to specific locations. The use of nautical miles ensures standardized communication and reduces the risk of misunderstandings.
 
-{{< img src="/07102023/pic1.jpeg" id="" caption="mr. teerapon tiuekhom / Shutterstock" alt="image portraying a blue aircraft radar">}}
+{{< img src="/07102023/pic1.webp" id="" caption="mr. teerapon tiuekhom / Shutterstock" alt="image portraying a blue aircraft radar">}}
 
 ### Navigation and waypoints
 

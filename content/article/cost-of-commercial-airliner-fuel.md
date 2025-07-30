@@ -3,12 +3,12 @@ title: "What is the cost of commercial airliner fuel?"
 description: "Unveiling the economics of commercial airliner fuel costs. Dive into the factors and dynamics that influence the pricing of jet fuel in the aviation industry."
 date: 2022-09-12T20:13:10+02:00
 draft: false
-thumb: "/18022023/aircraft_being_fueled.jpg"
+thumb: "/18022023/aircraft_being_fueled.webp"
 thumb_alt: "A US Airways Boeing 757 being fueled at Fort Lauderdale–Hollywood International Airport"
 author: "rosita-mickeviciute"
 is_article: true
 ---
-{{< img src="/18022023/aircraft_being_fueled.jpg" id="i_plane" caption="A US Airways Boeing 757 being fueled at Fort Lauderdale–Hollywood International Airport" alt="A US Airways Boeing 757 being fueled at Fort Lauderdale–Hollywood International Airport">}}
+{{< img src="/18022023/aircraft_being_fueled.webp" id="i_plane" caption="A US Airways Boeing 757 being fueled at Fort Lauderdale–Hollywood International Airport" alt="A US Airways Boeing 757 being fueled at Fort Lauderdale–Hollywood International Airport">}}
 
 Airline companies spend a considerable amount of money on fuel, ranging from 20% to 40% of
 the overall expenses, which varies depending on the cost and location. However, it is crucial to

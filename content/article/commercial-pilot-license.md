@@ -4,12 +4,12 @@ meta_title: "How to Become a Commercial Pilot? Guide for European Pilots"
 description: "In this guide, you will find all the steps needed to become a commercial pilot in Europe, including how long it takes, the requirements, and certifications."
 date: 2024-04-13T13:00:00+02:00
 draft: false
-thumb: "/13042024/cover.jpg"
+thumb: "/13042024/cover.webp"
 thumb_alt: "Male pilot in cockpit"
 author: "rosita-mickeviciute"
 is_article: true
 ---
-{{< img src="/13042024/cover.jpg" id="i_plane" caption="Johnpilot / Wikimedia" alt="Male pilot in cockpit">}}
+{{< img src="/13042024/cover.webp" id="i_plane" caption="Johnpilot / Wikimedia" alt="Male pilot in cockpit">}}
 
 Are you dreaming of flying airplanes and becoming a commercial pilot? If so, you're not alone. Many individuals who are passionate about aviation aspire to become pilots, but it can be challenging to figure out how to get started. 
 
@@ -35,7 +35,7 @@ After obtaining a PPL, you must obtain an IR. An IR allows you to fly in conditi
 
 After obtaining an IR, you must obtain a CPL. A CPL allows you to fly for commercial purposes, such as conducting tours, aerial photography, or operating as a flight instructor. To obtain a CPL, you must complete a [minimum of 200 hours of flight time](https://www.atpl.at/CPL_flight_training.php), including 100 hours of pilot-in-command time and 20 hours of cross-country flight time.
 
-{{< img src="/13042024/1.jpg" id="i_plane" caption="Scandinavian Airlines / Wikimedia" alt="Female pilot in a cockpit">}}
+{{< img src="/13042024/1.webp" id="i_plane" caption="Scandinavian Airlines / Wikimedia" alt="Female pilot in a cockpit">}}
 
 ### Step 5: Building Flight Time
 

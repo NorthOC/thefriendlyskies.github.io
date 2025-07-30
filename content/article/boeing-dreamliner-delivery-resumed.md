@@ -3,12 +3,12 @@ title: "Boeing Dreamliner delivery is finally resumed"
 description: "Exciting update: Boeing Dreamliner deliveries have resumed! Discover the reasons behind the grounding of the 787 and how the certification standards were met."
 date: 2022-08-09T20:13:10+02:00
 draft: false
-thumb: "/18022023/aa787.jpeg"
+thumb: "/18022023/aa787.webp"
 thumb_alt: "Two Boeing Dreamliner 787s flying in the sky"
 author: "rosita-mickeviciute"
 is_article: true
 ---
-{{< img src="/18022023/aa787.jpeg" id="i_plane" caption="Boeing Dreamliner 787" alt="Two Boeing Dreamliner 787s flying in the sky">}}
+{{< img src="/18022023/aa787.webp" id="i_plane" caption="Boeing Dreamliner 787" alt="Two Boeing Dreamliner 787s flying in the sky">}}
 
 Boeing resumed 787 Dreamliner aircraft deliveries on August 10, as reported by the Federal Aviation Administration (FAA).
 

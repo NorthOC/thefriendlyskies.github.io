@@ -3,13 +3,13 @@ title: "History of Ryanair: from humble beginnings to low-cost aviation giant"
 description: "The remarkable history of Irish low-cost airline Ryanair, from its modest origins in 1984 to its rise as a dominant force in the world of low-cost aviation."
 date: 2024-03-06T22:00:00+02:00
 draft: false
-thumb: "/06032024/cover.jpg"
+thumb: "/06032024/cover.webp"
 thumb_alt: "Passengers boarding a Ryanair commercial airplane at Milan Malpensa Airport in Italy"
 author: "rosita-mickeviciute"
 is_article: true
 ---
 
-{{< img src="/06032024/cover.jpg" id="i_plane" caption="Passengers boarding Ryanair airplane" alt="Passengers boarding a Ryanair commercial airplane at Milan Malpensa Airport in Italy">}}
+{{< img src="/06032024/cover.webp" id="i_plane" caption="Passengers boarding Ryanair airplane" alt="Passengers boarding a Ryanair commercial airplane at Milan Malpensa Airport in Italy">}}
 
 An Irish low-cost airline headquartered in the Swords district of Dublin, Ryanair and beyond. First established in 1984, the airline had humble beginnings, starting as a small operation with just a single 15-seat turboprop aircraft EMB 110 Bandeirante. Over the years, though, Ryanair has transformed into a major player in the airline industry, thanks to its strategic innovations, cost-saving measures and bold expansion efforts.
 
@@ -25,7 +25,7 @@ In 1988, Michael O'Leary was appointed as Ryanair's chief financial officer. Due
 
 In 1994, Michael O'Leary took the role of chief executive officer. The airline soon retired its turboprop fleet in favor of the more cost-effective Boeing 737 aircraft. These changes marked the beginning of Ryanair's transformation into an LCC.
 
-{{< img src="/06032024/1.jpg" id="i_plane" caption=" LifeCollectionPhotography / Shutterstock" alt=" Passengers boarding inside the airplane. Yellow blue airplane chairs.">}}
+{{< img src="/06032024/1.webp" id="i_plane" caption=" LifeCollectionPhotography / Shutterstock" alt=" Passengers boarding inside the airplane. Yellow blue airplane chairs.">}}
 
 ## Expansion and innovation (1990-2000)
 
@@ -33,7 +33,7 @@ The 1990s marked a significant turning point in Ryanair's strategy. The airline 
 
 In 1997, Ryanair expanded its horizons beyond the UK and Ireland. During that year, the airline introduced six 737–200 aircraft to inaugurate three new routes: Dublin to Paris and Brussels, as well as London Stansted to Stockholm. By the end of the decade, Ryanair had become one of Europe's largest LCCs. In fact, the ‘Ryanair model’ of streamlined operations and affordable fares began to reshape the whole airline industry.
 
-{{< img src="/06032024/2.jpg" id="i_plane" caption="M101Studio / Shutterstock" alt="Ryanair flight attendants.">}}
+{{< img src="/06032024/2.webp" id="i_plane" caption="M101Studio / Shutterstock" alt="Ryanair flight attendants.">}}
 
 ## The digital age and present of Ryanair (2000-2024)
 
@@ -55,7 +55,7 @@ The airline strategically selects secondary and regional airports, which tend to
 
 Fleet development has played a pivotal role in Ryanair's success. In its early years, the airline operated a diverse range of aircraft, including turboprops like the Convair 580 (retired in 1988), Embraer EMB 110 Bandeirante (retired in 1989), the Hawker Siddeley HS 748 (retired in 1990), and the ATR 42-300 (retired in 1991). The company retired its only flying boat, the Short Sunderland, in 1989.
 
-{{< img src="/06032024/3.jpg" id="i_plane" caption="Torsten Maiwald / Wikimedia" alt="Ryanair Embraer EMB-110P1 Bandeirante EI-BPI at Stuttgart Airport.">}}
+{{< img src="/06032024/3.webp" id="i_plane" caption="Torsten Maiwald / Wikimedia" alt="Ryanair Embraer EMB-110P1 Bandeirante EI-BPI at Stuttgart Airport.">}}
 
 As Ryanair expanded, it shifted towards a policy of fleet standardization, primarily relying on the Boeing 737-200 and 737-300 aircraft. By 2004, these were all replaced by the Boeing 737-800. This standardization simplified maintenance, training, and operations, resulting in cost reduction and improved operational efficiency. In recent years, Ryanair has demonstrated a commitment to modernizing and expanding its fleet, with significant orders for the aforementioned Boeing 737 MAX aircraft.
 

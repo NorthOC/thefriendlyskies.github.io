@@ -4,13 +4,13 @@ meta_title: "Why do private jets fly higher than commercial aircraft?"
 description: "Commercial airliners can reach 40,000 ft, whereas private jets cruise at 45,000 ft or even higher. Why do private jets fly higher than commercial airlines?"
 date: 2025-04-26T11:00:00+15:00
 draft: false
-thumb: "/26042025/cover.jpg"
+thumb: "/26042025/cover.webp"
 thumb_alt: "Swedish Air Force Sabreliner 40 jet"
 author: "rosita-mickeviciute"
 is_article: true
 ---
 
-{{< img src="/26042025/cover.jpg" id="i\_plane" caption="Nick Challoner / Wikimedia" alt="Swedish Air Force Sabreliner 40 jet">}}
+{{< img src="/26042025/cover.webp" id="i\_plane" caption="Nick Challoner / Wikimedia" alt="Swedish Air Force Sabreliner 40 jet">}}
 
 Most commercial airliners cruise between 30,000 and 40,000 feet (ft), staying below their maximum operating altitude, or service ceiling, which is typically around 42,000 ft. In contrast, smaller private and business jets often fly higher—up to 51,000 ft. Why?
 
@@ -28,13 +28,13 @@ In fact, some private jet models are engineered to reach these great altitudes. 
 
 All of these high-performance private jets are known for their ability to reach altitudes of up to [51,000 ](https://www.globalcharter.com/post/how-high-do-private-jets-fly)[ft](https://www.globalcharter.com/post/how-high-do-private-jets-fly), allowing its passengers to cruise above most commercial air traffic. 
 
-{{< img src="/26042025/1.jpg" id="i\_plane" caption="Mike Fuchslocher / Shutterstock" alt="Private jet standing on a runway">}}
+{{< img src="/26042025/1.webp" id="i\_plane" caption="Mike Fuchslocher / Shutterstock" alt="Private jet standing on a runway">}}
 
 ## Why do commercial airlines fly lower than the private jets?
 
 For several reasons, commercial aircraft often maintain lower cruising altitudes. Typically they’re designed with specific engine power, wing area and weight configurations that are optimized for their intended cruising altitudes. This is because the reduced air density at higher altitudes poses [serious challenges](https://www.quora.com/How-does-altitude-density-affect-aircraft-performance), as the engines may struggle to generate adequate thrust and the wings could face [difficulty generating the necessary lift](https://thefriendlyskies.net/article/how-high-do-planes-fly/).
 
-{{< img src="/26042025/2.jpg" id="i\_plane" caption="Markus Mainka / Shutterstock" alt="Boeing 787 ANA taking off">}}
+{{< img src="/26042025/2.webp" id="i\_plane" caption="Markus Mainka / Shutterstock" alt="Boeing 787 ANA taking off">}}
 
 ## Why do private jets fly higher than commercial aircraft? 
 
@@ -48,4 +48,4 @@ Moreover, flying at higher altitudes means a smoother and more efficient journey
 
 Military units do not publicly disclose their maximum attainable altitudes, due to security concerns. Nevertheless, the typical [operational altitude for most fighter jets](https://epicflightacademy.com/how-high-do-planes-fly/) falls within the range of [50](https://thefriendlyskies.net/article/difference-between-f22-f35/)[,000 to ](https://thefriendlyskies.net/article/difference-between-f22-f35/)[65](https://thefriendlyskies.net/article/difference-between-f22-f35/)[,000 ](https://thefriendlyskies.net/article/difference-between-f22-f35/)[ft](https://thefriendlyskies.net/article/difference-between-f22-f35/).
 
-{{< img src="/26042025/3.jpg" id="i\_plane" caption="Aditya0635 / Shutterstock" alt="military jet flying in the sky">}}
+{{< img src="/26042025/3.webp" id="i\_plane" caption="Aditya0635 / Shutterstock" alt="military jet flying in the sky">}}
