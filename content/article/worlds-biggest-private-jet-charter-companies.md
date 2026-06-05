@@ -14,7 +14,7 @@ is_article: true
 
 Private jet charter companies have transformed air travel by offering luxurious, convenient, and personalized experiences. 
 
-With so many private jet charter options available today, finding the right one that fits your needs can be challenging. To make it easier for you, I’ve curated a list of the top 10 private jet charter companies, ranked by their popularity and fleet size.
+With so many private jet charter options available today, finding the right one that fits your needs can be challenging. To make it easier for you, we’ve curated a list of the top 10 private jet charter companies, ranked by their popularity and fleet size.
 
 ## Honorable mentions
 
