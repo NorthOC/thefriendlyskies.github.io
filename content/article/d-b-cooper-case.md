@@ -48,7 +48,7 @@ A decorated Vietnam War helicopter pilot and army veteran with specialized parac
 
 ### [William J. Pratt Gossett](https://www.reddit.com/r/dbcooper/comments/1swme8p/i_think_db_cooper_was_william_gossett/)
 
-Gossett was a former Army Ranger and Marine with extensive parachute and survival training. According to his sons, he confessed to the hijacking and even possessed keys to a safety deposit box that held the money. However, the FBI never formally linked him to the case, and he was seen as an obsessive admirer of the crime.
+Gossett was a former Army Ranger and Marine with extensive parachute and survival training. According to his sons, he confessed to the hijacking and said that he possessed keys to a safety deposit box that held the money. However, the FBI never formally linked him to the case, and he was seen as an obsessive admirer of the crime.
 
 ### [Sheridan Peterson](https://www.oregonlive.com/history/2021/01/charming-db-cooper-suspect-sheridan-peterson-dies-at-94-spent-years-dedicated-to-political-causes.html)
 
@@ -86,7 +86,7 @@ On May 5, 1972, Frederick Hahneman, a Honduras-born US citizen, hijacked Eastern
 
 ### Martin J. McNally
 
-On June 23, 1972, Martin McNally, an unemployed service-station attendant, carried a submachine gun to commandeer an American Airlines 727 flying to Tulsa, Oklahoma from St. Louis, Missouri, then diverted it to Indiana, bailing out with $500,000 in ransom. When the 727 was preparing to take off after he had received the ransom, a local man drove his car onto the runway and hit the 727, seriously injuring himself in the collision. The collision forced McNally to switch to a second 727\. Despite losing the ransom money, McNally landed safely near Peru, Indiana, and was arrested a few days later in a Detroit suburb.
+On June 23, 1972, Martin McNally, an unemployed service-station attendant, carried a submachine gun to commandeer an American Airlines 727 flying to Tulsa, Oklahoma from St. Louis, Missouri, then diverted it to Indiana, bailing out with $500,000 in ransom. When the 727 was preparing to take off after he had received the ransom, a local man drove his car onto the runway and hit the 727, seriously injuring himself in the collision. The collision forced McNally to switch to a second 727. Despite losing the ransom money, McNally landed safely near Peru, Indiana, and was arrested a few days later in a Detroit suburb.
 
 ## Impact on Aviation Security
 
