@@ -8,6 +8,7 @@ thumb: "/25092024/cover.webp"
 thumb_alt: "F-35 aircraft"
 author: "rosita-mickeviciute"
 is_article: true
+top: 2
 ---
 {{< img src="/25092024/cover.webp" id="i_plane" caption="Liz Lutz / Wikimedia" alt="F-35 flying in the sky">}}
 

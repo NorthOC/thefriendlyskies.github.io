@@ -8,6 +8,7 @@ thumb: "/17102024/cover.webp"
 thumb_alt: "Interior of a NetJets Gulfstream G450"
 author: "rosita-mickeviciute"
 is_article: true
+top: 5
 ---
 
 {{< img src="/17102024/cover.webp" id="i\_plane" caption="Quintin Soloviev / Wikimedia" alt="Interior of a NetJets Gulfstream G450">}}

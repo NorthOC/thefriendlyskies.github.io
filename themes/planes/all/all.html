@@ -1,0 +1,18 @@
+{{ define "header" }}{{ end }}
+
+{{ define "main" }}
+<div class="fit-content all-article-shell">
+    {{ $lazy_load := 0}}
+    {{range .Site.RegularPages}}
+      {{if and (.Params.is_article) (not .Params.draft)}}
+        {{ partial "new_card.html" (dict "page" . "idx" $lazy_load) }}
+        {{ $lazy_load = add $lazy_load 1}}
+      {{end}}
+    {{end}}
+</div>
+{{ end }}
+
+{{ define "scripts" }}
+  <script async src="/js/get_views.js"></script>
+  <script async src="/js/register_view.js"></script>
+{{ end }}

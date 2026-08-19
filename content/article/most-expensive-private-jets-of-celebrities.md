@@ -8,6 +8,7 @@ thumb: "/11012026/cover.jpg"
 thumb_alt: "2020 Gulfstream G650ER N780RW on final approach at Baltimore-Washington International Thurgood Marshall Airport, Maryland, USA."
 author: "vanessa-fransia"
 is_article: true
+top: 4
 ---
 
 {{< img src="/11012026/cover.jpg" id="i\_plane" caption="JetRequest.com / Wikimedia" alt="Interior of Embraer Lineage 1000 cabin.">}}

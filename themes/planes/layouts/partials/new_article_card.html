@@ -1,0 +1,21 @@
+{{ $author := index .page.Site.Data.authors (.page.Params.author) }}
+{{ $image := resources.Get (.page.Params.thumb) }}
+{{ $img_alt := .page.Params.thumb_alt }}
+{{ $image := $image.Resize "600x q80" }}
+<article class="article-card flex-column">
+      <a class="article-link" href="{{ .page.RelPermalink }}">
+      {{ with $image }}<img src="{{ .RelPermalink }}" alt="{{ $img_alt }}" width="600" height="300">{{ end }}
+      </a>
+      <div class="contents">
+        <a class="article-link" href="{{ .page.RelPermalink }}">
+          <h2>{{ .page.Title }}</h2>
+        </a>
+        <p>{{ .page.Params.Description}}</p>
+        <div class="article-meta">
+          <p>
+            <time datetime="{{.page.Date}}">{{ time.Format "2006, Jan 2" .page.Date }}</time><span class="author" aria-label="author">, by {{ $author.name }}</span>
+          </p>
+          <p class="article-views views" style="display: none;"><span class="view-count" data-slug="{{ .page.RelPermalink }}">0</span> <span>views</span></p>
+        </div>
+      </div>
+</article>

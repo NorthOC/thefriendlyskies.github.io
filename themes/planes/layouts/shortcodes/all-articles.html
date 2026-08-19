@@ -1,0 +1,9 @@
+<div class="fit-content all-article-shell">
+    {{ $lazy_load := 0}}
+    {{range .Site.RegularPages}}
+      {{if and (.Params.is_article) (not .Params.draft)}}
+        {{ partial "new_card.html" (dict "page" . "idx" $lazy_load) }}
+        {{ $lazy_load = add $lazy_load 1}}
+      {{end}}
+    {{end}}
+</div>

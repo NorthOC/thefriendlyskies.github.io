@@ -7,6 +7,7 @@ thumb: "/06092023/pic0.webp"
 author: "rosita-mickeviciute"
 thumb_alt: "Side shot of soldier firing AR-15"
 is_article: true
+top: 1
 ---
 
 {{< img src="/06092023/pic0.webp" id="" caption="" alt="Side shot of soldier firing AR-15">}}

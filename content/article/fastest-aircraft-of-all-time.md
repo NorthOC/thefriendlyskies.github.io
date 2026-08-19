@@ -8,6 +8,7 @@ thumb: "/03042025/cover.webp"
 thumb_alt: "F-100D Super Sabre aircraft in the sky"
 author: "rosita-mickeviciute"
 is_article: true
+top: 3
 ---
 
 {{< img src="/03042025/cover.webp" id="i\_plane" caption="US Air Force / Wikimedia" alt="F-100D Super Sabre aircraft in the sky">}}
