@@ -12,7 +12,7 @@ copyright = '© 2022-{year} The Friendly Skies. All rights reserved.'
 [menu]
   [[menu.main]]
     identifier = "home"
-    name = "Articles"
+    name = "Front Page"
     url = "/"
     weight = 1
   [[menu.main]]
@@ -25,11 +25,6 @@ copyright = '© 2022-{year} The Friendly Skies. All rights reserved.'
     name = "About"
     url = "/about/"
     weight = 3
-  [[menu.main]]
-    identifier = "donate"
-    name = "Donate"
-    url = "https://www.buymeacoffee.com/rositamic"
-    weight = 4
 
 [module]
   [[module.mounts]]

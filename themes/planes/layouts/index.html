@@ -1,21 +1,139 @@
 {{ define "header" }}{{ end }}
 
-
 {{ define "main" }}
-  <div class="fit-content">
-    {{ $lazy_load := 0}}
+  {{ $articles := where .Site.RegularPages "Params.is_article" true }}
+  {{ $articles = where $articles "Params.draft" "!=" true }}
+  {{ $featured := first 3 $articles }}
+  {{ $latest := after 3 $articles | first 3 }}
+  {{ $top := where $articles "Params.top" "gt" 0 }}
+  {{ $top = sort $top "Params.top" "asc" }}
 
-    {{range .Site.RegularPages}}
-      {{if and (.Params.is_article) (not .Params.draft)}}
-        {{ partial "article_card.html" (dict "page" . "idx" $lazy_load) }}
-        {{ $lazy_load = add $lazy_load 1}}
+  <div class="featured-section">
+    <div class="featured-carousel">
+      <div class="featured-track">
+        {{ range $featured }}
+          {{ partial "featured_card.html" (dict "page" .) }}
+        {{ end }}
+      </div>
+      <button class="carousel-btn carousel-prev" type="button" aria-label="Previous">
+      &#60;
+      </button>
 
-      {{end}}
-    {{end}}
+      <button class="carousel-btn carousel-next" type="button" aria-label="Next">
+      &#62;
+      </button>
+    </div>
+  </div>
+        <div class="carousel-dots">
+      {{ range $index, $article := $featured }}
+        <button
+          class="carousel-dot{{ if eq $index 0 }} active{{ end }}"
+          type="button"
+          data-slide="{{ $index }}"
+          aria-label="Go to slide {{ add $index 1 }}"
+        ></button>
+      {{ end }}
+      </div>
+  <div class="front-page-shell">
+    <div class="new-articles-shell">
+      <div class="section-descriptor-shell">
+        <p class="section-descriptor">Latest Articles</p>
+        <a href="/article/all">View all articles →</a>
+      </div>
+      <div class="new-article-section">
+        {{range $latest}}
+          {{ partial "new_card.html" (dict "page" .) }}
+        {{end}}
+      </div>
+    </div>
+    <div class="top-articles-shell">
+      <p class="section-descriptor">Top 5 Most Popular</p>
+      <div class="top-article-section">
+        {{range $top}}
+            {{ partial "top_card.html" (dict "page" .) }}
+          {{end}}
+      </div>
+    </div>
   </div>
 {{ end }}
 
 {{ define "scripts" }}
-  <script defer src="/js/get_views.js"></script>
+  <script async src="/js/get_views.js"></script>
   <script async src="/js/register_view.js"></script>
+
+<script>
+const track = document.querySelector(".featured-track");
+const slides = document.querySelectorAll(".featured-slide");
+const prev = document.querySelector(".carousel-prev");
+const next = document.querySelector(".carousel-next");
+const dots = document.querySelectorAll(".carousel-dot");
+
+let current = 0;
+let autoSlideTimer;
+
+function updateCarousel() {
+  track.style.transform = `translateX(-${current * 100}%)`;
+
+  dots.forEach((dot, index) => {
+    dot.classList.toggle("active", index === current);
+  });
+}
+
+function startAutoSlide() {
+  clearTimeout(autoSlideTimer);
+
+  autoSlideTimer = setTimeout(() => {
+    goToSlide((current + 1) % slides.length);
+  }, 7000);
+}
+
+function goToSlide(index) {
+  current = index;
+  updateCarousel();
+  startAutoSlide(); // Reset the 7-second timer
+}
+
+// Next button
+next.addEventListener("click", () => {
+  goToSlide((current + 1) % slides.length);
+});
+
+// Previous button
+prev.addEventListener("click", () => {
+  goToSlide((current - 1 + slides.length) % slides.length);
+});
+
+// Dots
+dots.forEach((dot) => {
+  dot.addEventListener("click", () => {
+    goToSlide(Number(dot.dataset.slide));
+  });
+});
+
+// Touch / swipe
+let touchStartX = 0;
+let touchEndX = 0;
+
+track.addEventListener("touchstart", (event) => {
+  touchStartX = event.touches[0].clientX;
+}, { passive: true });
+
+track.addEventListener("touchend", (event) => {
+  touchEndX = event.changedTouches[0].clientX;
+
+  const swipeDistance = touchEndX - touchStartX;
+  const minimumSwipeDistance = 50;
+
+  if (swipeDistance < -minimumSwipeDistance) {
+    goToSlide((current + 1) % slides.length);
+  }
+
+  if (swipeDistance > minimumSwipeDistance) {
+    goToSlide((current - 1 + slides.length) % slides.length);
+  }
+});
+
+// Start the initial 7-second countdown
+startAutoSlide();
+</script>
 {{ end }}

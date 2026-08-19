@@ -1,0 +1,21 @@
+{{ $author := index .page.Site.Data.authors (.page.Params.author) }}
+{{ $image := resources.Get (.page.Params.thumb) }}
+{{ $img_alt := .page.Params.thumb_alt }}
+{{ $image := $image.Resize "600x q80" }}
+<article class="featured-slide">
+      <a class="article-link image-link" href="{{ .page.RelPermalink }}">
+      {{ with $image }}<img src="{{ .RelPermalink }}" alt="{{ $img_alt }}">{{ end }}
+      </a>
+      <div class="contents">
+        <span class="featured-tag">FEATURED</span>
+        <a class="article-link" href="{{ .page.RelPermalink }}">
+          <h2>{{ .page.Title }}</h2>
+        </a>
+        <p>{{ .page.Params.Description}}</p>
+        <div class="article-meta">
+          <time datetime="{{.page.Date}}">{{ time.Format "Jan 2, 2006" .page.Date }}</time>
+          <span class="author" aria-label="author">by {{ $author.name }}</span>
+          <p class="article-views views" style="display: none;"><span class="view-count" data-slug="{{ .page.RelPermalink }}">0</span> <span>views</span></p>
+        </div>
+      </div>
+</article>
