@@ -68,7 +68,7 @@ The [North American Aviation P-51 Mustang](https://www.nationalww2museum.org/vis
 
 Originally, the P-51 Mustang had limited performance at high altitudes. The British replaced its Allison engine with one from Rolls-Royce Merlin, significantly enhancing its performance, with a maximum speed of 703-708 km/h (437–440 mph) at 7,620 m (25,000 ft). The aircraft gave protection for B-51 bombers to attack German targets on long-range missions between Britain and Berlin. 
 
-More than 15,000 Mustangs were built, claiming 4,950 kills. Today, [around 160 P-51 Mustangs](https://www.mustangsmustangs.com/p-51/survivors/) are still maintained in airworthy condition worldwide, owned by a mix of private collectors, warbird enthusiasts, and specialized museums. An interesting fact is that Tom Cruise owns a vintage P-51K/P-51D Mustang fighter plane, which even featured prominently in [Top Gun: Maverick] (https://www.youtube.com/watch?v=giXco2jaZ_4).
+More than 15,000 Mustangs were built, claiming 4,950 kills. Today, [around 160 P-51 Mustangs](https://www.mustangsmustangs.com/p-51/survivors/) are still maintained in airworthy condition worldwide, owned by a mix of private collectors, warbird enthusiasts, and specialized museums. An interesting fact is that Tom Cruise owns a vintage P-51K/P-51D Mustang fighter plane, which even featured prominently in [Top Gun: Maverick](https://www.youtube.com/watch?v=giXco2jaZ_4).
 
 ## 7. Mitsubishi A6M Zero
 
