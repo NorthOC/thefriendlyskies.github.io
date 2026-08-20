@@ -18,13 +18,13 @@ During the Second World War that lasted from 1939 to 1945, various fighter plane
 
 Long after the war, many of those planes are still remembered today for their contribution to the war. Here are some of the aircraft that have earned their place as the most iconic WW2 fighter planes. 
 
-## 1. de Havilland Mosquito
+## 1. Supermarine Spitfire
 
-{{< img src="20082026/1.png" id="i_plane" caption="Bill Nicholls / Wikimedia" alt="de Havilland Mosquito.">}}
+{{< img src="20082026/5.png" id="i_plane" caption="Chowells / Wikimedia" alt="Supermarine Spitfire XVI at Duxford, September 2006.">}}
 
-The famous British [de Havilland Mosquito](https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196281/de-havilland-dh-98-mosquito/#:~:text=The%20famous%20British%20Mosquito%20–%20known,been%20restored%20to%20a%20Mk.), often referred to as "Mossie", was a versatile aircraft used extensively during WW2 to defend the British Isles. Entering production in 1941, nearly 8,000 of these aircraft were constructed in Great Britain, Canada, and Australia.
+A symbol for the RAF, the [Supermarine Spitfire](https://www.raf.mod.uk/aircraft/spitfire/) held a critical role in WW2 to defeat Luftwaffe’s air attacks in 1940. Designed to eliminate enemy threats efficiently, the Spitfire was a short-range, high-performance interceptor known for their elliptical wing shape. First flown in 1937, over 20,000 Spitfires were built and continued to fly long after the war ended before retiring in 1961.
 
-This twin-engine aircraft was used for bombing, night fighting, as well as reconnaissance. Constructed mostly of plywood, it could achieve a high speed of 644 to 684 km/h (400 to 425 mph). Its Rolls-Royce Merlin engines also enabled it to reach high altitude and range. The British has turned over more than 100 Mossies to the USAAF under Reverse Lend-Lease, retaining their British designations. Today, out of all the aircraft built, 30 survive and [five](https://en.wikipedia.org/wiki/List_of_surviving_de_Havilland_Mosquitos) are still in airworthy condition.
+This WW2 fighter aircraft was considered highly modern and maneuverable for its time, with a monocoque construction and all-metal skin. As the war continued, it received many upgrades, including a Rolls-Royce Griffon engine with over 2,000 horsepower that enabled it to reach a maximum speed of 713 km/h (443 mph). From the 20,000+ Spitfires built between 1938 to 1948, [around 60](https://flyaspitfire.com/2019/06/07/how-many-spitfires-are-still-flying/) are still airworthy today.
 
 ## 2. Yakovlev Yak-3
 
@@ -34,7 +34,7 @@ One of the USSR’s most versatile and smallest fighter aircraft of WWII is the 
 
 The Yak-3 had an impressive power-to-weight ratio, as it is a very light aircraft able to reach a speed of 655 km/h (407 mph). Its primary armament consisted of one 20mm ShVAK cannon and two synchronized 12.7mm Berezin UB machine guns in the nose. This lightweight configuration was able to perform with high accuracy, making it highly favored  over Western aircraft by the fighter squadron Normandie-Nieman group and French pilots who fought on the Eastern Front against the Germans.
 
-Between 1991 and 2002, 21 replica [Yak-3](https://web.archive.org/web/20211228064104/http://www.yak.ru/ENG/FIRM/hist3.php), Yak-7, and Yak-9 aircraft were built in the former USSR using original plans using American Allison or Pratt & Whitney engines. Several are airworthy and mostly in the US, with others in Germany, Australia, and New Zealand. 
+Between 1991 and 2002, 21 replica [Yak-3](https://web.archive.org/web/20211228064104/http://www.yak.ru/ENG/FIRM/hist3.php), Yak-7, and Yak-9 aircraft were built in the former USSR using original plans using American Allison or Pratt & Whitney engines. Several are airworthy and mostly in the US, with others in Germany, Australia, and New Zealand. An interesting fact is that Joseph Stalin granted the French pilots permission to keep 40 of their Yakovlev Yak-3 fighters as a gesture of gratitude and respect.
 
 ## 3. Messerschmitt Bf 109
 
@@ -52,13 +52,13 @@ The [Hawker Hurricane](http://www.rafmuseum.org.uk/research/collections/hawker-h
    
 Equipped with the legendary Rolls-Royce Merlin engine, the Hurricane was able to reach a maximum speed of 526 km/h (327 mph) with a flight ceiling of 10,668 m (35,000 ft). As the German’s WW2 plane, the Bf109s, could outperform the Hurricane, technical improvements were made to this aircraft, enabling them to force the Germans into survival mode. There are now only [12 Hawker Hurricanes](https://www.raf.mod.uk/aircraft/hurricane/) in flyable condition worldwide, with two of them operated by the Royal Air Force and specialized heritage trusts for display.
 
-## 5. Supermarine Spitfire
+## 5. de Havilland Mosquito
 
-{{< img src="20082026/5.png" id="i_plane" caption="Chowells / Wikimedia" alt="Supermarine Spitfire XVI at Duxford, September 2006.">}}
+{{< img src="20082026/1.png" id="i_plane" caption="Bill Nicholls / Wikimedia" alt="de Havilland Mosquito.">}}
 
-A symbol for the RAF, the [Supermarine Spitfire](https://www.raf.mod.uk/aircraft/spitfire/) held a critical role in WW2 to defeat Luftwaffe’s air attacks in 1940. Designed to eliminate enemy threats efficiently, the Spitfire was a short-range, high-performance interceptor known for their elliptical wing shape. First flown in 1937, over 20,000 Spitfires were built and continued to fly long after the war ended before retiring in 1961.
+The famous British [de Havilland Mosquito](https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196281/de-havilland-dh-98-mosquito/#:~:text=The%20famous%20British%20Mosquito%20–%20known,been%20restored%20to%20a%20Mk.), often referred to as "Mossie", was a versatile aircraft used extensively during WW2 to defend the British Isles. Entering production in 1941, nearly 8,000 of these aircraft were constructed in Great Britain, Canada, and Australia.
 
-This WW2 fighter aircraft was considered highly modern and maneuverable for its time, with a monocoque construction and all-metal skin. As the war continued, it received many upgrades, including a Rolls-Royce Griffon engine with over 2,000 horsepower that enabled it to reach a maximum speed of 713 km/h (443 mph). From the 20,000+ Spitfires built between 1938 to 1948, [around 60](https://flyaspitfire.com/2019/06/07/how-many-spitfires-are-still-flying/) are still airworthy today.
+This twin-engine heavy night fighter was used for bombing, night fighting, as well as reconnaissance.It was also equipped with advanced Airborne Interception (AI) radar systems. Constructed mostly of plywood, it could achieve a high speed of 644 to 684 km/h (400 to 425 mph). Its Rolls-Royce Merlin engines also enabled it to reach high altitude and range. The British has turned over more than 100 Mossies to the USAAF under Reverse Lend-Lease, retaining their British designations. Today, out of all the aircraft built, 30 survive and [five](https://en.wikipedia.org/wiki/List_of_surviving_de_Havilland_Mosquitos) are still in airworthy condition.
 
 ## 6. North American P-51 Mustang
 
@@ -68,7 +68,7 @@ The [North American Aviation P-51 Mustang](https://www.nationalww2museum.org/vis
 
 Originally, the P-51 Mustang had limited performance at high altitudes. The British replaced its Allison engine with one from Rolls-Royce Merlin, significantly enhancing its performance, with a maximum speed of 703-708 km/h (437–440 mph) at 7,620 m (25,000 ft). The aircraft gave protection for B-51 bombers to attack German targets on long-range missions between Britain and Berlin. 
 
-More than 15,000 Mustangs were built, claiming 4,950 kills. Today, [around 160 P-51 Mustangs](https://www.mustangsmustangs.com/p-51/survivors/) are still maintained in airworthy condition worldwide, owned by a mix of private collectors, warbird enthusiasts, and specialized museums.
+More than 15,000 Mustangs were built, claiming 4,950 kills. Today, [around 160 P-51 Mustangs](https://www.mustangsmustangs.com/p-51/survivors/) are still maintained in airworthy condition worldwide, owned by a mix of private collectors, warbird enthusiasts, and specialized museums. An interesting fact is that Tom Cruise owns a vintage P-51K/P-51D Mustang fighter plane, which even featured prominently in Top Gun: Maverick.
 
 ## 7. Mitsubishi A6M Zero
 
